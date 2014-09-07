@@ -1,5 +1,6 @@
 ---
 title: Michael Dowse - Readings
+layout: default
 ---
 
 ## Readings
@@ -16,7 +17,7 @@ title: Michael Dowse - Readings
 ![The Slaver Wars: Galactic Conflict](/images/galactic_conflict.jpg)
 ![The Slaver Wars: Retaliation](/images/retaliation.jpg)
 ![The Slaver Wars: First Strike](/images/first_strike.jpg)
-![Moon Wreck: Fleet Academy](/images/fleet_academy_.jpg)
+![Moon Wreck: Fleet Academy](/images/fleet_academy.jpg)
 ![Half Way Home](/images/half_way_home.jpg)
 ![Sand](/images/sand.jpg)
 ![The Luminaries](/images/the_luminaries.jpg)
