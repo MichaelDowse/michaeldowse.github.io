@@ -3,15 +3,15 @@ title: Michael Dowse - Readings
 layout: default
 ---
 
-## Readings
+# Readings
 
-### In progress
+## In progress
 
 ![Fahrenheit 451](/images/fahrenheit_451.jpg)
 ![Zen and the Art of Motorcycle Maintenance](/images/zen_and_art.jpg)
 ![The End is Nigh](/images/the_end_is_nigh.jpg)
 
-### 2014
+## 2014
 
 ![Hatching Twitter - Nick Bilton](/images/hatching_twitter.jpg)
 ![The Slaver Wars: Galactic Conflict - Raymond L. Weil](/images/galactic_conflict.jpg)
@@ -24,7 +24,7 @@ layout: default
 ![In Defense of Food - Michael Pollan](/images/in_defense_of_food.jpg)
 ![Parasite - Mira Grant](/images/parasite.jpg)
 
-### 2013
+## 2013
 
 - Heaven's Fall - David S. Goyer & Michael Cassutt
 - Heaven's War - David S. Goyer & Michael Cassutt
@@ -45,7 +45,7 @@ layout: default
 - Third Shift: Pact - Hugh Howey
 - Feed - Mira Grant
 
-### 2012
+## 2012
 
 - Jurassic Park - Michael Critchton
 - Port Mortuary - Patricia Cornwell
@@ -74,7 +74,7 @@ layout: default
 - Catching Fire - Suzanne Collins
 - The Hunger Games - Suzanne Collins
 
-### 2011
+## 2011
 
 - How Children Fail - John Holt
 - Steve Jobs - Walter Isaacson
