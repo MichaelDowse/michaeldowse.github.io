@@ -43,46 +43,47 @@ layout: default
 ![The Slaver Wars: Alien Contact - Raymond L. Weil](/images/alien_contact.jpg)
 ![Moon Wreck - Raymond L. Weil](/images/moon_wreck.jpg)
 ![Third Shift: Pact - Hugh Howey](/images/third_shift.jpg)
+![Blackout - Mira Grant](/images/blackout.jpg)
+![Deadline - Mira Grant](/images/deadline.jpg)
 ![Feed - Mira Grant](/images/feed.jpg)
 
 ## 2012
 
-- Jurassic Park - Michael Critchton
-- Port Mortuary - Patricia Cornwell
-- Children of the Mind - Orson Scott Card
-- Treasure Island - Robert Louis Stevenson
-- The Launch Pad - Randall Stross
-- Atlas Shrugged - Ayn Rand
-- Zoo City - Lauren Beukes
-- Lean Startup - Eric Reis
-- Second Shift: Order - Hugh Howey
-- Four Steps to the Epiphany - Steve Blank
-- Second Foundation - Isaac Asimov
-- Foundation and Empire - Isaac Asimov
-- Foundation - Isaac Asimov
-- Dune Messiah - Frank Herbert
-- Dune - Frank Herbert
-- First Shift: Legacy - Hugh Howey
-- Wool - Hugh Howey
-- World War Z - Max Brooks
-- The Lean Startup - Eric Reis
-- Moneyball - Michael Lewis
-- Xenocide - Orson Scott Card
-- Speaker for the Dead - Orson Scott Card
-- Ender's Game - Orson Scott Card
-- Mockingjay - Suzanne Collins
-- Catching Fire - Suzanne Collins
-- The Hunger Games - Suzanne Collins
+![Jurassic Park - Michael Critchton](/images/jurassic_park.jpg)
+![Port Mortuary - Patricia Cornwell](/images/port_mortuary.jpg)
+![Children of the Mind - Orson Scott Card](/images/children_of_the_mind.jpg)
+![Treasure Island - Robert Louis Stevenson](/images/treasure_island.jpg)
+![The Launch Pad - Randall Stross](/images/the_launch_pad.jpg)
+![Atlas Shrugged - Ayn Rand](/images/atlas_shrugged.jpg)
+![Zoo City - Lauren Beukes](/images/zoo_city.jpg)
+![The Lean Startup - Eric Reis](/images/the_lean_startup.jpg)
+![Second Shift: Order - Hugh Howey](/images/second_shift.jpg)
+![Four Steps to the Epiphany - Steve Blank](/images/four_steps_to_the_epiphany.jpg)
+![Second Foundation - Isaac Asimov](/images/second_foundation.jpg)
+![Foundation and Empire - Isaac Asimov](/images/foundation_and_empire.jpg)
+![Foundation - Isaac Asimov](/images/foundation.jpg)
+![Dune Messiah - Frank Herbert](/images/dune_messiah.jpg)
+![Dune - Frank Herbert](/images/dune.jpg)
+![First Shift: Legacy - Hugh Howey](/images/first_shift.jpg)
+![Wool - Hugh Howey](/images/wool.jpg)
+![World War Z - Max Brooks](/images/world_war_z.jpg)
+![Moneyball - Michael Lewis](/images/moneyball.jpg)
+![Xenocide - Orson Scott Card](/images/xenocide.jpg)
+![Speaker for the Dead - Orson Scott Card](/images/speaker_for_the_dead.jpg)
+![Ender's Game - Orson Scott Card](/images/enders_game.jpg)
+![Mockingjay - Suzanne Collins](/images/mockingjay.jpg)
+![Catching Fire - Suzanne Collins](/images/catching_fire.jpg)
+![The Hunger Games - Suzanne Collins](/images/the_hunger_games.jpg)
 
 ## 2011
 
-- How Children Fail - John Holt
-- Steve Jobs - Walter Isaacson
-- The Death and Life of the Great American School System - Diane Ravitch
-- Better - Atul Gawande
-- Dead Aid - Dambisa Moyo
-- The Checklist Manifesto - Atul Gawande
-- Fooled By Randomness - Nassim Nicholas Taleb
-- Street Gang - Michael Davis
-- Too Big To Fail - Andrew Ross Sorkin
-- The Ascent of Money - Niall Ferguson
+![How Children Fail - John Holt](/images/how_children_fail.jpg)
+![Steve Jobs - Walter Isaacson](/images/steve_jobs.jpg)
+![The Death and Life of the Great American School System - Diane Ravitch](/images/american_school_system.jpg)
+![Better - Atul Gawande](/images/better.jpg)
+![Dead Aid - Dambisa Moyo](/images/dead_aid.jpg)
+![The Checklist Manifesto - Atul Gawande](/images/the_checklist_manifesto.jpg)
+![Fooled By Randomness - Nassim Nicholas Taleb](/images/fooled_by_randomness.jpg)
+![Street Gang - Michael Davis](/images/street_gang.jpg)
+![Too Big To Fail - Andrew Ross Sorkin](/images/too_big_to_fail.jpg)
+![The Ascent of Money - Niall Ferguson](/images/the_ascent_of_money.jpg)
