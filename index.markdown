@@ -5,11 +5,11 @@ layout: default
 
 # Readings
 
-## In progress
+## Currently
 
-![Fahrenheit 451](/images/fahrenheit_451.jpg)
-![Zen and the Art of Motorcycle Maintenance](/images/zen_and_art.jpg)
-![The End is Nigh](/images/the_end_is_nigh.jpg)
+![Fahrenheit 451 - Ray Bradbury](/images/fahrenheit_451.jpg)
+![Zen and the Art of Motorcycle Maintenance - Robert Pirsig](/images/zen_and_art.jpg)
+![The End is Nigh - John Joseph Adams & Hugh Howey](/images/the_end_is_nigh.jpg)
 
 ## 2014
 
@@ -26,24 +26,24 @@ layout: default
 
 ## 2013
 
-- Heaven's Fall - David S. Goyer & Michael Cassutt
-- Heaven's War - David S. Goyer & Michael Cassutt
-- Heaven's Shadow - David S. Goyer & Michael Cassutt
-- Dust - Hugh Howey
-- Interrupt - Jeff Carlson
-- Robopocalypse - Daniel H. Wilson
-- Seeds of Change - John Joseph Adams
-- Scarecrow and the Army of Thieves - Matthew Reilly
-- The Atlantis Gene - A. G. Riddle
-- Nudge - Richard H. Thaler & Cass R. Sunstein
-- Decision Points - George W Bush
-- The Power of Habit - Charles Duhigg
-- The Big Short - Michael Lewis
-- Damocles - S. G. Redling
-- The Slaver Wars: Alien Contact - Raymond L. Weil
-- Moon Wreck - Raymond L. Weil
-- Third Shift: Pact - Hugh Howey
-- Feed - Mira Grant
+![Heaven's Fall - David S. Goyer & Michael Cassutt](/images/heavens_fall.jpg)
+![Heaven's War - David S. Goyer & Michael Cassutt](/images/heavens_war.jpg)
+![Heaven's Shadow - David S. Goyer & Michael Cassutt](/images/heavens_shadow.jpg)
+![Dust - Hugh Howey](/images/dust.jpg)
+![Interrupt - Jeff Carlson](/images/interrupt.jpg)
+![Robopocalypse - Daniel H. Wilson](/images/robopocalypse.jpg)
+![Seeds of Change - John Joseph Adams](/images/seeds_of_change.jpg)
+![Scarecrow and the Army of Thieves - Matthew Reilly](/images/army_of_thieves.jpg)
+![The Atlantis Gene - A. G. Riddle](/images/atlantis_gene.jpg)
+![Nudge - Richard H. Thaler & Cass R. Sunstein](/images/nudge.jpg)
+![Decision Points - George W Bush](/images/decision_points.jpg)
+![The Power of Habit - Charles Duhigg](/images/power_of_habit.jpg)
+![The Big Short - Michael Lewis](/images/the_big_short.jpg)
+![Damocles - S. G. Redling](/images/damocles.jpg)
+![The Slaver Wars: Alien Contact - Raymond L. Weil](/images/alien_contact.jpg)
+![Moon Wreck - Raymond L. Weil](/images/moon_wreck.jpg)
+![Third Shift: Pact - Hugh Howey](/images/third_shift.jpg)
+![Feed - Mira Grant](/images/feed.jpg)
 
 ## 2012
 
