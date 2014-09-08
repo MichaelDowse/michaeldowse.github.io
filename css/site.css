@@ -1,4 +1,9 @@
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
 img {
   width: 200px;
   margin-right: 20px;
+  max-height: 275px;
 }
