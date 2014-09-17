@@ -7,12 +7,12 @@ layout: default
 
 ## Currently
 
-![Fahrenheit 451 - Ray Bradbury](/images/fahrenheit_451.jpg)
 ![Zen and the Art of Motorcycle Maintenance - Robert Pirsig](/images/zen_and_art.jpg)
 ![The End is Nigh - John Joseph Adams & Hugh Howey](/images/the_end_is_nigh.jpg)
 
 ## 2014
 
+![Fahrenheit 451 - Ray Bradbury](/images/fahrenheit_451.jpg)
 ![Hatching Twitter - Nick Bilton](/images/hatching_twitter.jpg)
 ![The Slaver Wars: Galactic Conflict - Raymond L. Weil](/images/galactic_conflict.jpg)
 ![The Slaver Wars: Retaliation - Raymond L. Weil](/images/retaliation.jpg)
