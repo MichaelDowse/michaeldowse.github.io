@@ -9,33 +9,33 @@ I've been thinking about buying a house. I'm currently living in Newtown for the
 
 After contemplating the reality that I may still be renting next year I had a brief look at the places to rent in Newtown on TradeMe. There are currently 57 properties available to rent in Newtown, which seemed like a lot considering that there are only 16 properties for sale. I was curious to see if this ratio was part of a bigger trend:
 
-                Rent      Buy
-NZ:             10,172    Over 32,000
-Auckland City:  1,507     1,674
-Wellington:     913       952
+                    Rent      Buy
+    NZ:             10,172    Over 32,000
+    Auckland City:  1,507     1,674
+    Wellington:     913       952
 
 Ok, so the disparity I observed in Newtown isn't a nationwide trend. In general there are far more properties for sale than for rent, but in cities the split is pretty much 50/50. That makes sense. Let's take a closer look at some popular Wellington suburbs[1]:
 
-                Rent      Buy       Rent/Buy
-Brooklyn:       36        25        1.44
-Churton Park    10        28        0.3571
-Haitaitai:      23        21        1.0952
-Johnsonville:   34        49        0.6938
-Karori          49        46        1.0652
-Kelburn         34        19        1.7895
-Khandallah      32        49        0.6531
-Kilbirnie       21        6         3.5
-Miramar         23        32        0.7188
-Mt Cook         26        30        0.8667
-Mt Victoria     41        13        3.1538
-Newlands        18        48        0.375
-Newtown         57        16        3.5625
-Oriental Bay    16        39        0.4103
-Tawa            14        47        0.2979
-Te Aro          59        109       0.5413
-Thorndon        37        45        0.8222
-Wadestown       23        8         2.875
-CBD             158       112       1.4107
+                    Rent      Buy       Rent/Buy
+    Brooklyn:       36        25        1.44
+    Churton Park    10        28        0.3571
+    Haitaitai:      23        21        1.0952
+    Johnsonville:   34        49        0.6938
+    Karori          49        46        1.0652
+    Kelburn         34        19        1.7895
+    Khandallah      32        49        0.6531
+    Kilbirnie       21        6         3.5
+    Miramar         23        32        0.7188
+    Mt Cook         26        30        0.8667
+    Mt Victoria     41        13        3.1538
+    Newlands        18        48        0.375
+    Newtown         57        16        3.5625
+    Oriental Bay    16        39        0.4103
+    Tawa            14        47        0.2979
+    Te Aro          59        109       0.5413
+    Thorndon        37        45        0.8222
+    Wadestown       23        8         2.875
+    CBD             158       112       1.4107
 
 Turns out, the ratio of houses for sale vs to rent varies widely. Newtown has the highest ratio of houses to rent vs houses for sale (Kilbirnie is a close second but at much lower volume). In contrast, Tawa and Newlands have far more houses for sale than for rent. Off the top of my head I can think of a few possible explanations for these variations, but I don't want to jump to conclusions. One complicating factor is that many rental properties in Wellington are on 12 month leases which renew early in the year (usually February).
 
