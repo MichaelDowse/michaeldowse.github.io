@@ -12,3 +12,5 @@ layout: default
 ## [Blog](http://michaeldowse.name)
 
 ## [Twitter](http://twitter.com/michaeldowse)
+
+Born and raised in [Wellington, New Zealand](http://www.youtube.com/watch?v=UssWFaY9NyY)
