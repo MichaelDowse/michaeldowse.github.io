@@ -3,14 +3,10 @@ title: Michael Dowse - Readings
 layout: default
 ---
 
-# Michael Dowse
+## [@MichaelDowse](http://twitter.com/michaeldowse)
 
-## [Books](/books)
+[Software Developer](http://github.com/michaeldowse), [reader](/books), and occasional [blogger](http://michaeldowse.name).
 
-## [Github](http://github.com/michaeldowse)
+Founder of [Go Vocab](https://govocab.com).
 
-## [Blog](http://michaeldowse.name)
-
-## [Twitter](http://twitter.com/michaeldowse)
-
-Born and raised in [Wellington, New Zealand](http://www.youtube.com/watch?v=UssWFaY9NyY)
+Born and raised in [Wellington, New Zealand](http://www.youtube.com/watch?v=UssWFaY9NyY).
