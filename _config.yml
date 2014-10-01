@@ -1,0 +1,18 @@
+# Site settings
+title: Michael Dowse
+email: hi@michaeldowse.name
+description: > # this means to ignore newlines until "baseurl:"
+  Software Developer, reader, and occasional [blogger](http://michaeldowse.name).
+  Founder of Go Vocab.
+  Born and raised in Wellington, New Zealand.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://michael.dowse.co.nz" # the base hostname & protocol for your site
+twitter_username: michaeldowse
+github_username:  michaeldowse
+
+# Build settings
+markdown: kramdown
+
+collections:
+  pages:
+    output: true
