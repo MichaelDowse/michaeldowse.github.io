@@ -2,21 +2,22 @@
 layout: default
 ---
 
-  <h1 class="page-heading"></h1>
+<div class="content">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  {% for post in site.posts %}
+    <div class="post">
+      <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
         
-        {{ post.content }}
-      </li>
-    {% endfor %}
-  </ul>
-
+      {{ post.content }}
+    </div>
+  {% endfor %}
+  
+  <p>Made in <a href="http://www.youtube.com/watch?v=UssWFaY9NyY">Wellington, New Zealand</a> by <a href="http://twitter.com/michaeldowse">Michael Dowse</a>.</p>
+  
+</div>
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 

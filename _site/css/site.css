@@ -1,15 +1,11 @@
 body {
-  font-family: 'Roboto Slab', serif;
   margin: 60px 80px 60px 80px;
   color: #191919;
+  font-family: 'Roboto Slab', sans-serif;
 }
 
-h1 {
-  
-}
-
-h2 {
-  
+h1, h2, h3 {
+  font-family: 'Roboto Slab', serif;
 }
 
 img {
@@ -17,4 +13,40 @@ img {
   margin-right: 40px;
   height: 275px;
   margin-bottom: 40px;
+}
+
+h2, h2 a {
+  color: #191919;
+  margin-top: 0px;
+  font-size: 36px;
+  text-decoration: none;
+}
+
+h3 {
+  margin-top: 40px;
+  font-size: 24px;
+}
+
+
+.post {
+  margin-bottom: 100px;
+}
+.post-meta {
+  color: #999;
+  font-size: 16px;
+}
+pre {
+  margin: 30px 0px 30px 0px;
+  padding: 20px;
+  background-color: #EEE;
+}
+
+p {
+  font-size: 20px;
+  line-height: 160%;
+}
+
+.content {
+  margin: 0 auto;
+  max-width: 800px;
 }

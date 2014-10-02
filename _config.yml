@@ -12,6 +12,7 @@ github_username:  michaeldowse
 
 # Build settings
 markdown: kramdown
+encoding: utf-8
 
 collections:
   pages:
