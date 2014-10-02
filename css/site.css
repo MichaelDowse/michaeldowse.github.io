@@ -41,7 +41,7 @@ pre {
   background-color: #EEE;
 }
 
-p {
+p, li {
   font-size: 20px;
   line-height: 160%;
 }
