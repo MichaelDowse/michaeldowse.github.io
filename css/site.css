@@ -1,7 +1,7 @@
 body {
   margin: 60px 80px 60px 80px;
   color: #191919;
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: 'Roboto Slab', serif;
 }
 
 h1, h2, h3 {
@@ -29,7 +29,7 @@ h3 {
 
 
 .post {
-  margin-bottom: 100px;
+  margin-bottom: 150px;
 }
 .post-meta {
   color: #999;
@@ -48,5 +48,5 @@ p, li {
 
 .content {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 720px;
 }
