@@ -3,15 +3,15 @@ title: "Books"
 layout: default
 ---
 
-# Books
+## Books
 
-## Currently
+### Currently
 
 ![Bad Pharma - Ben Goldacre](/images/books/bad_pharma.jpg)
 ![Zen and the Art of Motorcycle Maintenance - Robert Pirsig](/images/books/zen_and_art.jpg)
 ![The End is Nigh - John Joseph Adams & Hugh Howey](/images/books/the_end_is_nigh.jpg)
 
-## 2014
+### 2014
 
 ![Fahrenheit 451 - Ray Bradbury](/images/books/fahrenheit_451.jpg)
 ![Hatching Twitter - Nick Bilton](/images/books/hatching_twitter.jpg)
@@ -25,7 +25,7 @@ layout: default
 ![In Defense of Food - Michael Pollan](/images/books/in_defense_of_food.jpg)
 ![Parasite - Mira Grant](/images/books/parasite.jpg)
 
-## 2013
+### 2013
 
 ![Heaven's Fall - David S. Goyer & Michael Cassutt](/images/books/heavens_fall.jpg)
 ![Heaven's War - David S. Goyer & Michael Cassutt](/images/books/heavens_war.jpg)
@@ -48,7 +48,7 @@ layout: default
 ![Deadline - Mira Grant](/images/books/deadline.jpg)
 ![Feed - Mira Grant](/images/books/feed.jpg)
 
-## 2012
+### 2012
 
 ![Jurassic Park - Michael Critchton](/images/books/jurassic_park.jpg)
 ![Port Mortuary - Patricia Cornwell](/images/books/port_mortuary.jpg)
@@ -76,7 +76,7 @@ layout: default
 ![Catching Fire - Suzanne Collins](/images/books/catching_fire.jpg)
 ![The Hunger Games - Suzanne Collins](/images/books/the_hunger_games.jpg)
 
-## 2011
+### 2011
 
 ![How Children Fail - John Holt](/images/books/how_children_fail.jpg)
 ![Steve Jobs - Walter Isaacson](/images/books/steve_jobs.jpg)
