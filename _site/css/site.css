@@ -11,10 +11,19 @@ h1, h2, h3 {
 }
 
 img {
-  width: 200px;
+/*  width: 200px;
   margin-right: 20px;
   height: 275px;
-  margin-bottom: 20px;
+  margin-bottom: 20px;*/
+}
+
+blockquote {
+  margin-left: 0px;
+  margin-top: -20px;
+}
+blockquote p {
+  font-size: 15px;
+  color: #999;
 }
 
 h2, h2 a {
@@ -35,7 +44,7 @@ h3 {
 }
 .post-meta {
   color: #999;
-  font-size: 16px;
+  font-size: 15px;
 }
 pre {
   margin: 30px 0px 30px 0px;
@@ -45,8 +54,8 @@ pre {
 }
 
 p, li {
-  font-size: 20px;
-  line-height: 160%;
+  font-size: 19px;
+  line-height: 32px;
 }
 .container {
   margin: 60px 80px 60px 80px;
@@ -67,6 +76,11 @@ p, li {
   border-bottom: 1px solid #ddd;
   background-color: #eee;
 }
+.header a {
+  color: #191919;
+  text-decoration: none;
+}
+
 .footer {
   width: 100%;
   text-align: center;

@@ -3,6 +3,8 @@ title: "Books"
 layout: default
 ---
 
+
+
 ### Currently
 
 ![Bad Pharma - Ben Goldacre](/images/books/bad_pharma.jpg)
@@ -86,3 +88,5 @@ layout: default
 ![Street Gang - Michael Davis](/images/books/street_gang.jpg)
 ![Too Big To Fail - Andrew Ross Sorkin](/images/books/too_big_to_fail.jpg)
 ![The Ascent of Money - Niall Ferguson](/images/books/the_ascent_of_money.jpg)
+
+
