@@ -1,7 +1,9 @@
 body {
-  margin: 60px 80px 60px 80px;
   color: #191919;
   font-family: 'Roboto Slab', serif;
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 
 h1, h2, h3 {
@@ -10,9 +12,9 @@ h1, h2, h3 {
 
 img {
   width: 200px;
-  margin-right: 40px;
+  margin-right: 20px;
   height: 275px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 h2, h2 a {
@@ -45,8 +47,28 @@ p, li {
   font-size: 20px;
   line-height: 160%;
 }
-
+.container {
+  margin: 60px 80px 60px 80px;
+}
 .content {
   margin: 0 auto;
   max-width: 720px;
+}
+
+.header {
+  width: 100%;
+  color: #191919;
+  text-align: center;
+  font-weight: bold;
+  height: 50px;
+  line-height: 50px;
+  font-size: 24px;
+  border-bottom: 1px solid #ddd;
+  background-color: #eee;
+}
+.footer {
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 50px;
 }

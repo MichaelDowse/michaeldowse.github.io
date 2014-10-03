@@ -3,8 +3,6 @@ title: "Books"
 layout: default
 ---
 
-## Books
-
 ### Currently
 
 ![Bad Pharma - Ben Goldacre](/images/books/bad_pharma.jpg)
