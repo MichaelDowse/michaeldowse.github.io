@@ -41,6 +41,7 @@ pre {
   margin: 30px 0px 30px 0px;
   padding: 20px;
   background-color: #EEE;
+  overflow: scroll;
 }
 
 p, li {
