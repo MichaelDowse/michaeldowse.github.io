@@ -92,7 +92,7 @@ p a:hover {
   height: 70px;
   line-height: 70px;
   font-size: 26px;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 2px solid #ddd;
   background-color: #eee;
 }
 .header a {
