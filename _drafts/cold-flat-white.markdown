@@ -21,17 +21,19 @@ I was doubtful that the giant teabag approach could work as well as a Chemex fil
 
 > Doesn't look appetizing, but...
 
-After a night of brewing squeeze the giant teabag so as to extract every last bit of coffee goodness. Then you're left with a strong cold brewed coffee, more of a coffee essence really, I wouldn't recommend drinking this straight.
+After a night of brewing squeeze the giant teabag so as to extract every last bit of coffee goodness. Then you're left with a strong cold brewed coffee essence, I wouldn't recommend drinking this straight.
 
 If you used a whole bag of coffee like I did then you'll have a lot of this coffee essence. That's alright, it will last a while, store it in the fridge. 
 
 ### Step 2: Make a Cold Flat White
 
-Now you're ready to assemble a cold flat white. I'm still experimenting with the rations here but it goes something like this:
+Now you're ready to assemble a cold flat white. I'm still experimenting with the ratios here but it goes something like this:
 
-A couple of drops of Maple Syrup in the bottom of a glass, the add 50% milk and 50% milk. That's really all there is to it.
+- A couple of drops of Maple Syrup in the bottom of a glass
+- Fill the glass with 50% coffee essence
+- Fill the rest of the glass with milk
 
-Enjoy!
+That's really all there is to it, enjoy!
 
 I'm going to keep perfecting this: the next step is to increase the quality of the ingredients: really good freshly ground coffee, really good fresh organic milk, perhaps from Lewis Road Creamery, and real Maple Syrup (I must confess I'm currently using Maple Flavoured syrup). 
 

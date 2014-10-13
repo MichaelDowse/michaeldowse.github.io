@@ -58,7 +58,7 @@ h3 {
 pre {
   margin: 30px 0px 30px 0px;
   padding: 20px;
-  background-color: #EEE;
+  background-color: #eee;
   overflow: scroll;
 }
 
@@ -68,8 +68,14 @@ p, li {
 }
 
 p a {
-  color: #008040;
+  color: #191919;
+  text-decoration: none;
+  border-bottom: 2px solid #ddd;
 }
+p a:hover {
+  border-bottom: 2px solid #009F50;
+}
+
 .container {
   margin: 60px 80px 60px 80px;
 }
@@ -83,9 +89,9 @@ p a {
   color: #191919;
   text-align: center;
   font-weight: bold;
-  height: 50px;
-  line-height: 50px;
-  font-size: 24px;
+  height: 70px;
+  line-height: 70px;
+  font-size: 26px;
   border-bottom: 1px solid #ddd;
   background-color: #eee;
 }
