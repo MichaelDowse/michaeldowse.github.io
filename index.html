@@ -4,7 +4,7 @@ layout: default
 
 <div class="content">
 
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <div class="post">
       <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
 
@@ -15,6 +15,25 @@ layout: default
       {{ post.content }}
     </div>
   {% endfor %}
+  
+  <!-- Pagination links -->
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    <div class="newer">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Previous</a>
+      {% endif %}
+    </div>
+    
+    <div class="older">
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next</a>
+      {% endif %}
+    </div>
+    
+    <div style="clear:both;"></div>
+  </div>
+  {% endif %}
 </div>
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
