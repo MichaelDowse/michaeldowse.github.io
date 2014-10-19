@@ -13,7 +13,7 @@ Two problems: it costs $6 and is only available in Newtown. I needed an affordab
 
 ### Step 1: Cold Brew Coffee
 
-Turns out [cold brewing coffee is stupidly simple](http://boingboing.net/2013/07/20/cheap-easy-no-mess-cold-brew.html). Get some coffee, put it in a giant teabag (more specifically a nut milk bag, like you'd use to make almond milk), put it in some water and leave it overnight.
+Turns out [cold brewing coffee is stupidly simple](http://boingboing.net/2013/07/20/cheap-easy-no-mess-cold-brew.html). Get some medium grind coffee, put it in a giant teabag (more specifically a nut milk bag, like you'd use to make almond milk), put it in some water and leave it overnight.
 
 I was doubtful that the giant teabag approach could work as well as a Chemex filter, and having never used a Chemex I'm still not sure. It worked pretty well though, the resulting coffee was smooth and not at all gritty. 
 
