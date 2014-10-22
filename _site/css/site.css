@@ -21,7 +21,8 @@ img {
   width: auto;
   margin: 0;
   height: auto;
-  max-width: 720px;
+  max-width: 100%;
+  max-height: 100%;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -73,7 +74,7 @@ p a {
   border-bottom: 2px solid #ddd;
 }
 p a:hover {
-  border-bottom: 2px solid #009F50;
+  border-bottom: 2px solid #FC6; /*#009F50;*/
 }
 
 .container {
@@ -82,36 +83,6 @@ p a:hover {
 .content {
   margin: 0 auto;
   max-width: 720px;
-}
-
-.header {
-  width: 100%;
-  color: #191919;
-  text-align: center;
-  font-weight: bold;
-  height: 70px;
-  line-height: 70px;
-  font-size: 26px;
-  border-bottom: 2px solid #ddd;
-  background-color: #eee;
-}
-.header a {
-  color: #191919;
-  text-decoration: none;
-}
-
-.header .pages a {
-  font-weight: normal;
-  margin-left: 15px;
-  font-size: 20px;
-  color: #999;
-}
-
-.footer {
-  width: 100%;
-  text-align: center;
-  font-size: 16px;
-  margin-bottom: 50px;
 }
 
 .pagination {
@@ -134,4 +105,38 @@ p a:hover {
 }
 .pagination .newer {
   float: left;
+}
+
+
+
+
+
+header {
+  width: 100%;
+  color: #191919;
+  text-align: center;
+  font-weight: bold;
+  height: 70px;
+  line-height: 70px;
+  font-size: 26px;
+  border-bottom: 2px solid #ddd;
+  background-color: #eee;
+}
+header a {
+  color: #191919;
+  text-decoration: none;
+}
+
+header .pages a {
+  font-weight: normal;
+  margin-left: 15px;
+  font-size: 20px;
+  color: #999;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 50px;
 }

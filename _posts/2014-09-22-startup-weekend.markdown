@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Notes from Startup Weekend Education"
 ---
 

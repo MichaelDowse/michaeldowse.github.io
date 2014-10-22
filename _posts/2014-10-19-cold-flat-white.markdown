@@ -1,6 +1,6 @@
 ---
 title: Cold Flat White
-layout: default
+layout: post
 ---
 
 Last year the Iced Mocha was my drink; a cold coffee with chocolate, and either ice cream or ice. Some would say it's not a real coffee, I say it's delicious.
