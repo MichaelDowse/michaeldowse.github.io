@@ -68,13 +68,13 @@ p, li {
   line-height: 32px;
 }
 
-p a {
+p a, .pagination a, footer a {
   color: #191919;
   text-decoration: none;
-  border-bottom: 2px solid #ddd;
+  border-bottom: 3px solid #e7e7e7;
 }
-p a:hover {
-  border-bottom: 2px solid #FC6; /*#009F50;*/
+p a:hover, .pagination a:hover, footer a:hover {
+  border-bottom: 3px solid #F66; /*#009F50;*/
 }
 
 .container {
@@ -90,16 +90,9 @@ p a:hover {
 }
 
 .pagination a {
-  text-decoration: none;
-  border-bottom: 2px solid #ddd;
-  color: #191919;
   font-size: 20px;
   font-weight: bold;
 }
-.pagination a:hover {
-  border-bottom: 2px solid #009F50;
-}
-
 .pagination .older {
   float: right;
 }
