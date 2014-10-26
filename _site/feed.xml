@@ -6,13 +6,13 @@
 </description>
     <link>http://michael.dowse.co.nz/</link>
     <atom:link href="http://michael.dowse.co.nz/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 27 Oct 2014 09:38:02 +1300</pubDate>
-    <lastBuildDate>Mon, 27 Oct 2014 09:38:02 +1300</lastBuildDate>
+    <pubDate>Mon, 27 Oct 2014 09:41:37 +1300</pubDate>
+    <lastBuildDate>Mon, 27 Oct 2014 09:41:37 +1300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Stuff by RSS</title>
-        <description>&lt;p&gt;I generally avoid mainstream news media sites, for content discovery at least, I often click links to their articles. I do find myself reading Stuff though, and almost always regretting it. At one point I had stuff.co.nz routed to localhost in my hosts file so that my computer literally couldn’t access it.&lt;/p&gt;
+        <description>&lt;p&gt;I generally avoid mainstream news media sites, for content discovery at least, I often click links to their articles. I do find myself reading &lt;a href=&quot;http://stuff.co.nz&quot;&gt;Stuff&lt;/a&gt; though, and almost always regretting it. At one point I had stuff.co.nz routed to localhost in my hosts file so that my computer literally couldn’t access it.&lt;/p&gt;
 
 &lt;p&gt;But the reason I keep going back to Stuff is that there’s national news there that I don’t really get anywhere else. I started wondering, what would Stuff look like with a different editor, who wasn’t interested in maximising revenue, or catering to the lowest common denominator.&lt;/p&gt;
 
