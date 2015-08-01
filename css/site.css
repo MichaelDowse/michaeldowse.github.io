@@ -75,12 +75,12 @@ p, li {
   line-height: 32px;
 }
 
-p a, .pagination a, footer a {
+p a, .pagination a, footer a, li a {
   color: #191919;
   text-decoration: none;
   border-bottom: 3px solid #e7e7e7;
 }
-p a:hover, .pagination a:hover, footer a:hover {
+p a:hover, .pagination a:hover, footer a:hover, li a:hover {
   border-bottom: 3px solid #F66; /*#009F50;*/
 }
 
