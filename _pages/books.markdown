@@ -4,6 +4,8 @@ layout: default
 slug: "books"
 ---
 
+
+<p>Here are some books I've enjoyed. If you like, you can <a href="mailto:books@michaeldowse.name">recommend a book to me</a>.</p>
 <br>
 
 <div class="book">
