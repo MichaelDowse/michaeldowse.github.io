@@ -1,22 +1,152 @@
 ---
 title: "Books"
 layout: default
+slug: "books"
 ---
 
-### Currently
+<br>
 
-![Bad Pharma - Ben Goldacre](/images/books/bad_pharma.jpg)
-![Zen and the Art of Motorcycle Maintenance - Robert Pirsig](/images/books/zen_and_art.jpg)
-![The End is Nigh - John Joseph Adams & Hugh Howey](/images/books/the_end_is_nigh.jpg)
+<div class="book">
+  <img src="/images/books/the_dark_forest.jpg" />
+  <div class="summary">
+    <h2>The Dark Forest</h2>
+    <blockquote>Cixin Liu</blockquote>
+    <p>This is the second in the trilogy, and even better than the first. Now to wait for the third (and final) book to be translated...</p>
+
+    <p>Again, I couldn't find a legal way to buy a digital version of this in New Zealand.</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/three_body_problem.jpg" />
+  <div class="summary">
+    <h2>The Three-Body Problem</h2>
+    <blockquote>Cixin Liu</blockquote>
+    <p>Originally witten in Chinese and recently translated to English. I didn't really notice the translation, so it must have been ok.</p>
+
+    <p><em>The Three-Body Problem</em> and its sequel are the best Science Fiction I've read in quite a while. If you're at all interested in hard sci fi, I highly recommend this trilogy.</p>
+
+    <p>I couldn't find a legal way to buy a digital version of this in New Zealand but managed to buy an ebook from a UK store and convert for Kindle.</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/brave_new_world.jpg" />
+  <div class="summary">
+    <h2>Brave New World</h2>
+    <blockquote>Aldous Huxley</blockquote>
+    <p>I've been meaning to read this for a long time, after hearing people say that our future is looking less like <em>1984</em> and more like <em>Brave New World</em>. Whoever said that, they're right.</p>
+
+    <p><em>Brave New World</em> paints a pretty bleak picture, though large parts now seem so dated that they distract from the plausibility. A though provoking read nonetheless.</p>
+
+    <p>
+      <a href="http://www.amazon.com/Brave-New-World-Aldous-Huxley-ebook/dp/B010YGR35E/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1443090041&sr=1-1&keywords=brave+new+world">Kindle eBook</a>
+    </p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/object_oriented_design.jpg" />
+  <div class="summary">
+    <h2>Practical Object-Oriented Design in Ruby</h2>
+    <blockquote>Sandi Metz</blockquote>
+    <p>I rarely read technical books but really enjoyed this one. It helped to solidify and give names to a lot of patterns that were already floating around in my head.</p>
+
+    <p>There's nothing too radical in here, but a good summary/explanation of some OO techniques/strategies. Relevant for any language, not just Ruby. Probably only relevant to software developers though.</p>
+
+    <p>
+      <a href="http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley-ebook/dp/B0096BYG7C/ref=mt_kindle?_encoding=UTF8&me=">Kindle eBook</a>
+    </p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/the_martian.jpg" />
+  <div class="summary">
+    <h2>The Martian</h2>
+    <blockquote>Andy Weir</blockquote>
+    <p>A couple of months ago everyone in the office started talking about this book, so I read it, and I was not disappointed. An astronout is stranded on Mars and attempts to survive on Mars until he can be rescued.</p>
+
+    <p>What makes this book so good is the survival techniques used and the detail and accuracy with which they are described. <em>The Martian</em> reads almost like a Mars survival guide. It's now been made into a film starring Matt Damon which I'm very much looking forward to seeing.</p>
+
+    <p>
+      <a href="http://www.amazon.com/Martian-Andy-Weir-ebook/dp/B00FAXJHCY/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1443090133&sr=1-1&keywords=the+martian">Kindle eBook</a>
+    </p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/the_lost_world.jpg" />
+  <div class="summary">
+    <h2>The Lost World</h2>
+    <blockquote>Michael Critchton</blockquote>
+    <p>The plot is very much a rehash of <em>Jurrasic Park</em>, with (mostly) different characters on a different island. There are some interesting ideas and conversations about evolution though and like <em>Jurrasic Park</em>, once it gets going it's hard to put down.</p>
+    <p>
+      <a href="http://www.amazon.com/Lost-World-Michael-Crichton-ebook/dp/B0031RS2A4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=">Kindle eBook</a>
+    </p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/being_mortal.jpg" />
+  <div class="summary">
+    <h2>Being Mortal</h2>
+    <blockquote>Atul Gawande</blockquote>
+    <p>This is a must read for anyone with elderly people in their lives. Atul Gawande talks about how our modern healthcare systems care for, and fail to care for, the elderly. What choices we will be asked to make, and how we can make them in a way that optimises for quality of life rather than quantity.</p>
+
+    <p>I was also fortunate to see Atul Gawande speak in Wellington on this same topic. He speaks at least as well as he writes.</p>
+
+    <p>
+      <a href="http://www.amazon.com/Being-Mortal-Illness-Medicine-Matters-ebook/dp/B00KM46CSS/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=">Kindle eBook</a>
+    </p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/how_buildings_learn.jpg" />
+  <div class="summary">
+    <h2>How Buildings Learn</h2>
+    <blockquote>Stewart Brand</blockquote>
+
+    <p>As someone interested in buildings and architecture I loved this book. It sets out to critique the current architecture industry and proposes a series of principles that form the foundation of good architecture, where 'good' is defined as architecture that survives the test of time.</p>
+
+    <p>Many of the ideas discussed are generic design principles that can be applied to other disciplines of design and even software architecture.</p>
+
+    <p>
+      <a href="http://www.amazon.com/How-Buildings-Learn-Happens-Theyre-ebook/dp/B00AFZ3PI4">Kindle eBook</a> (though it's currently appearing as unavailable)
+    </p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/the_end_is_nigh.jpg" />
+  <div class="summary">
+    <h2>The End is Nigh</h2>
+    <blockquote>John Joseph Adams & Hugh Howey</blockquote>
+
+    <p>A compilation of short stories set in the context of impending doom. As with any compilation of short stories there are good ones and average ones.</p>
+
+    <p>
+      <a href="http://www.amazon.com/The-Nigh-Apocalypse-Triptych-Book-ebook/dp/B00IAT49JQ">Kindle eBook</a>
+    </p>
+  </div>
+  <br>
+</div>
 
 ### 2014
 
+![Looking for Alaska](/images/books/looking_for_alaska.jpg)
+![The Fault in Our Stars](/images/books/the_fault_in_our_stars.jpg)
 ![Fahrenheit 451 - Ray Bradbury](/images/books/fahrenheit_451.jpg)
 ![Hatching Twitter - Nick Bilton](/images/books/hatching_twitter.jpg)
-![The Slaver Wars: Galactic Conflict - Raymond L. Weil](/images/books/galactic_conflict.jpg)
-![The Slaver Wars: Retaliation - Raymond L. Weil](/images/books/retaliation.jpg)
-![The Slaver Wars: First Strike - Raymond L. Weil](/images/books/first_strike.jpg)
-![Moon Wreck: Fleet Academy - Raymond L. Weil](/images/books/fleet_academy.jpg)
 ![Half Way Home - Hugh Howey](/images/books/half_way_home.jpg)
 ![Sand - Hugh Howey](/images/books/sand.jpg)
 ![The Luminaries - Eleanor Catton](/images/books/the_luminaries.jpg)
@@ -25,22 +155,14 @@ layout: default
 
 ### 2013
 
-![Heaven's Fall - David S. Goyer & Michael Cassutt](/images/books/heavens_fall.jpg)
-![Heaven's War - David S. Goyer & Michael Cassutt](/images/books/heavens_war.jpg)
-![Heaven's Shadow - David S. Goyer & Michael Cassutt](/images/books/heavens_shadow.jpg)
 ![Dust - Hugh Howey](/images/books/dust.jpg)
-![Interrupt - Jeff Carlson](/images/books/interrupt.jpg)
 ![Robopocalypse - Daniel H. Wilson](/images/books/robopocalypse.jpg)
 ![Seeds of Change - John Joseph Adams](/images/books/seeds_of_change.jpg)
-![Scarecrow and the Army of Thieves - Matthew Reilly](/images/books/army_of_thieves.jpg)
-![The Atlantis Gene - A. G. Riddle](/images/books/atlantis_gene.jpg)
 ![Nudge - Richard H. Thaler & Cass R. Sunstein](/images/books/nudge.jpg)
 ![Decision Points - George W Bush](/images/books/decision_points.jpg)
 ![The Power of Habit - Charles Duhigg](/images/books/power_of_habit.jpg)
 ![The Big Short - Michael Lewis](/images/books/the_big_short.jpg)
 ![Damocles - S. G. Redling](/images/books/damocles.jpg)
-![The Slaver Wars: Alien Contact - Raymond L. Weil](/images/books/alien_contact.jpg)
-![Moon Wreck - Raymond L. Weil](/images/books/moon_wreck.jpg)
 ![Third Shift: Pact - Hugh Howey](/images/books/third_shift.jpg)
 ![Blackout - Mira Grant](/images/books/blackout.jpg)
 ![Deadline - Mira Grant](/images/books/deadline.jpg)
@@ -49,7 +171,6 @@ layout: default
 ### 2012
 
 ![Jurassic Park - Michael Critchton](/images/books/jurassic_park.jpg)
-![Port Mortuary - Patricia Cornwell](/images/books/port_mortuary.jpg)
 ![Children of the Mind - Orson Scott Card](/images/books/children_of_the_mind.jpg)
 ![Treasure Island - Robert Louis Stevenson](/images/books/treasure_island.jpg)
 ![The Launch Pad - Randall Stross](/images/books/the_launch_pad.jpg)

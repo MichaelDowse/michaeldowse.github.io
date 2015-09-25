@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Dowse</title>
-    <description>Software Developer, reader, and occasional [blogger](http://michaeldowse.name). Founder of Go Vocab. Born and raised in Wellington, New Zealand.
+    <description>Software Developer, reader, and occasional blogger. Founder of Go Vocab. Born and raised in Wellington, New Zealand.
 </description>
     <link>http://michael.dowse.co.nz/</link>
     <atom:link href="http://michael.dowse.co.nz/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 01 Aug 2015 17:26:51 +1200</pubDate>
-    <lastBuildDate>Sat, 01 Aug 2015 17:26:51 +1200</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2015 20:08:58 +1200</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2015 20:08:58 +1200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
