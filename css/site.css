@@ -180,3 +180,10 @@ footer {
     margin: 60px 20px 60px 20px;
   }
 }
+
+iframe.habits {
+  margin-left: -140px;
+  width: 1000px;
+  border: none;
+  height: 1100px;
+}

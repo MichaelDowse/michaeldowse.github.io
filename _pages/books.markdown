@@ -1,5 +1,5 @@
 ---
-title: "Books"
+title: "Michael Dowse - Books"
 layout: default
 slug: "books"
 ---
