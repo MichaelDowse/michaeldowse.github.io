@@ -9,6 +9,30 @@ slug: "books"
 <br>
 
 <div class="book">
+  <img src="/images/books/wonder_weeks.jpg" />
+  <div class="summary">
+    <h2>The Wonder Weeks</h2>
+    <blockquote>Hetty van de Rijt Ph.D, Frans Plooij Ph.D</blockquote>
+    <p>I recently became a father and this is the one thing that has been recommended to me the most. It's a book (and also an app) describing the developmental leaps a baby goes through in the first 20 months of their life. I'm not sure I'd recommend reading it in advance of becoming a parent, but it is very interesting.</p>
+
+    <p><a href="http://www.amazon.com/Wonder-Weeks-Hetty-Rijt-Ph-D-ebook/dp/B007NNYGHU">Kindle eBook</a> (& app in the app store)</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/hpmor.jpg" />
+  <div class="summary">
+    <h2>Harry Potter and the methods of rationality</h2>
+    <blockquote>Eliezer Yudkowsky</blockquote>
+    <p>Yes it's a fanfic and can drag on a bit (it's also really long), but this is a must read, or at least must-start-reading for any Harry Potter fan. Methods of Rationality is set in an alternative universe where Petunia married a biochemist and Harry grew up reading science and science fiction. Harry then proceeds to approach the wizarding world with the full knowledge and intelligence of the author, a Research Fellow at the Machine Intelligence Research Institute.</p>
+
+    <p><a href="http://hpmor.com/">Free in EPUB, MOBI and PDF formats</a></p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
   <img src="/images/books/the_dark_forest.jpg" />
   <div class="summary">
     <h2>The Dark Forest</h2>
