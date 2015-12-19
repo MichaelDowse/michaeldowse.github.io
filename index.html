@@ -3,6 +3,11 @@ layout: default
 ---
 
 <div class="content">
+  <p>Software developer, learner dad. I <a href="/pages/projects">code</a>, I <a href="/pages/books">read</a>, I try to develop good <a href="/pages/habits">habits</a>.</p>
+
+  <p>And occasionally I blog...</p>
+
+  <br>
 
   {% for post in paginator.posts %}
     <div class="post">
@@ -15,7 +20,7 @@ layout: default
       {{ post.content }}
     </div>
   {% endfor %}
-  
+
   <!-- Pagination links -->
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
@@ -24,16 +29,16 @@ layout: default
         <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Previous</a>
       {% endif %}
     </div>
-    
+
     <div class="older">
       {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next</a>
       {% endif %}
     </div>
-    
+
     <div style="clear:both;"></div>
   </div>
   {% endif %}
 </div>
-<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+
 

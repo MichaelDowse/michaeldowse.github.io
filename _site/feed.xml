@@ -6,9 +6,58 @@
 </description>
     <link>http://michael.dowse.co.nz/</link>
     <atom:link href="http://michael.dowse.co.nz/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 26 Sep 2015 16:12:24 +1200</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2015 16:12:24 +1200</lastBuildDate>
+    <pubDate>Sat, 19 Dec 2015 21:07:44 +1300</pubDate>
+    <lastBuildDate>Sat, 19 Dec 2015 21:07:44 +1300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>New Plymouth</title>
+        <description>&lt;p&gt;New Plymouth is a lot cooler than it used to be. Som and I headed up there for the weekend a few months ago. In no particular order, some highlights were:&lt;/p&gt;
+
+&lt;h3 id=&quot;the-coastal-walkway&quot;&gt;The coastal walkway&lt;/h3&gt;
+
+&lt;p&gt;The coastal walk is pretty cool, the water was a bit wild the day we went which made it all the more interesting. Unfortunately not caught on camera: when Som turned to photograph this sign a wave came up from behind and she got soaked.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-govett-brewster-len-lye-gallery&quot;&gt;The Govett-Brewster Len Lye gallery&lt;/h3&gt;
+
+&lt;p&gt;The exterior is probably actually the highlight, but the stuff inside is pretty cool too.&lt;/p&gt;
+
+&lt;h3 id=&quot;mount-taranaki&quot;&gt;Mount Taranaki&lt;/h3&gt;
+
+&lt;p&gt;There was too much snow to climb Mount Taranaki without actual mountaineering skills but I’ve climbed it on a previous trip and it’s a pretty awesome hike. When we went in the height of summer there was still snow at the top.&lt;/p&gt;
+
+&lt;h3 id=&quot;food--drink-that-was-up-to-the-standard-of-us-city-folk&quot;&gt;Food &amp;amp; drink that was up to the standard of us city folk&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For coffee, head to &lt;a href=&quot;http://www.ozonecoffee.com/bean-store.php&quot;&gt;Ozone Coffee&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;For brunch, head to &lt;a href=&quot;http://www.thefederalstore.com/&quot;&gt;The Federal Store&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;For dinner, head to &lt;a href=&quot;https://www.facebook.com/PEKAREN-696952050381686/&quot;&gt;Pekaren&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Bonus:&lt;/strong&gt; Our AirBnB host was a nudist with a house full of &lt;em&gt;interesting&lt;/em&gt; artwork, though the wall to wall mirrors in the shower were a little intimidating.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Dec 2015 00:00:00 +1300</pubDate>
+        <link>http://michael.dowse.co.nz/2015/12/19/new-plymouth.html</link>
+        <guid isPermaLink="true">http://michael.dowse.co.nz/2015/12/19/new-plymouth.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Going places, doing things</title>
+        <description>&lt;p&gt;&lt;em&gt;Disclaimer: Obviously the introvert/extrovert is overly reductionist and I probably sit somewhere in between but I still find it a helpful framework for thinking about this stuff.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For quite a while I’ve had more social events on the list of things I want to do more of.&lt;/p&gt;
+
+&lt;p&gt;After going out places and doing things with other people I usually feel more happier, energised and often even super enthused about life. These are effects that rarely come about from spending time alone with a book (or more commonly, the internet).&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 19 Dec 2015 00:00:00 +1300</pubDate>
+        <link>http://michael.dowse.co.nz/2015/12/19/going-places-doing-things.html</link>
+        <guid isPermaLink="true">http://michael.dowse.co.nz/2015/12/19/going-places-doing-things.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Mt Ruapehu</title>
@@ -303,120 +352,6 @@ Unproductive        $59.40	              $125.70	              $129.08
         <pubDate>Mon, 22 Sep 2014 00:00:00 +1200</pubDate>
         <link>http://michael.dowse.co.nz/2014/09/22/startup-weekend.html</link>
         <guid isPermaLink="true">http://michael.dowse.co.nz/2014/09/22/startup-weekend.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Housing availability: Renting vs buying</title>
-        <description>&lt;p&gt;I’ve been thinking about buying a house. I’m currently living in Newtown for the second time and I like it here, it’s close to town, but not in town and has it’s own community feel. A couple of months ago I started going to open homes to get a feel for the market. As time goes by I’m more and more ready to buy a house, and I’m becoming increasingly disappointed with what’s available on the market. Everything is expensive, really expensive.&lt;/p&gt;
-
-&lt;p&gt;After contemplating the reality that I may still be renting next year I had a brief look at the places to rent in Newtown on TradeMe. There are currently 57 properties available to rent in Newtown, which seemed like a lot considering that there are only 16 properties for sale. I was curious to see if this ratio was part of a bigger trend:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;                Rent      Buy
-NZ              10,172    Over 32,000
-Auckland City   1,507     1,674
-Wellington      913       952
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Ok, so the disparity I observed in Newtown isn’t a nationwide trend. In general there are far more properties for sale than for rent, but in cities the split is pretty much 50/50. That makes sense. Let’s take a closer look at some popular Wellington suburbs[1]:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;                Rent      Buy       Rent/Buy
-Brooklyn        36        25        1.44
-Churton Park    10        28        0.3571
-Haitaitai       23        21        1.0952
-Johnsonville    34        49        0.6938
-Karori          49        46        1.0652
-Kelburn         34        19        1.7895
-Khandallah      32        49        0.6531
-Kilbirnie       21        6         3.5
-Miramar         23        32        0.7188
-Mt Cook         26        30        0.8667
-Mt Victoria     41        13        3.1538
-Newlands        18        48        0.375
-Newtown         57        16        3.5625
-Oriental Bay    16        39        0.4103
-Tawa            14        47        0.2979
-Te Aro          59        109       0.5413
-Thorndon        37        45        0.8222
-Wadestown       23        8         2.875
-CBD             158       112       1.4107
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Turns out, the ratio of houses for sale vs to rent varies widely. Newtown has the highest ratio of houses to rent vs houses for sale (Kilbirnie is a close second but at much lower volume). In contrast, Tawa and Newlands have far more houses for sale than for rent. Off the top of my head I can think of a few possible explanations for these variations, but I don’t want to jump to conclusions. One complicating factor is that many rental properties in Wellington are on 12 month leases which renew early in the year (usually February).&lt;/p&gt;
-
-&lt;p&gt;[1] Suburbs with either more than 20 properties for sale or more than 20 properties available to rent based on TradeMe listings on the 14th September, 2014.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 15 Sep 2014 00:00:00 +1200</pubDate>
-        <link>http://michael.dowse.co.nz/2014/09/15/housing.html</link>
-        <guid isPermaLink="true">http://michael.dowse.co.nz/2014/09/15/housing.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>#1kk</title>
-        <description>&lt;p&gt;A year ago I wasn’t a runner, I didn’t run. Hadn’t since compulsory cross country in primary school. Now, when asked about my hobbies running is near the top of the list and I’m looking forward to my first half marathon (and hopefully a full marathon soon after). This is the story of how I became a runner.&lt;/p&gt;
-
-&lt;p&gt;In December 2012 Som and I started running. It was her idea but I liked it. We ran just a little bit, and very slowly, but we kept doing it, almost every day.&lt;/p&gt;
-
-&lt;p&gt;In the New Year &lt;a href=&quot;http://www.8degrees.co.nz/2012/12/19/1000-1000/&quot;&gt;Vaughan Rowsell announced his intention to run 1,000 kilometres&lt;/a&gt; or 1,000,000 metres in 2013. Vaughan dubbed this challenge the #1kk.&lt;/p&gt;
-
-&lt;p&gt;Vaughan is a master of year long goals. Past goals of his include cycling the length of New Zealand and not drinking for a year. In contrast I’m not much of a goal setter and I’m even worse at finishing what I start.&lt;/p&gt;
-
-&lt;p&gt;Despite this, and despite the fact I could barely run 3k at the time, I committed to the challenge. Signing up is the easy part.&lt;/p&gt;
-
-&lt;p&gt;I opted to use the Nike Plus app to track my progress towards the #1kk which means I always take my iPhone with me on runs. If I don’t take the phone, then the run doesn’t count. So far I’ve tripped and fallen twice, damaging my phone on both occasions. The first time the back plate had to be replaced and the second time was scratches on the front. I try to use a case now.&lt;/p&gt;
-
-&lt;p&gt;In December I was running in my street shoes (Vans at the time) based on what I had heard from the barefoot running movement that modern running shoes did more harm than good. In January I decided to focus on only one challenge at a time and picked up some running shoes on sale for $100 at Rebel Sport.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://media.tumblr.com/e1945b8d105204f61445dcda24e5bf1f/tumblr_inline_mslwy5iyK01qz4rgp.jpg&quot; alt=&quot;My running shoes&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;My running shoes&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I didn’t put a lot of thought into my choice, I considered the fit, comfort, colours and price and came up with the Lunarfly trail running shoes from Nike. The fit was a bit tight at first but has come to be perfect as I’ve worn them in. I use these shoes for a lot more than running too, I took them hiking in Patagonia and trekking in Peru. If I’m going away for the weekend then this is the one pair of shoes I take.&lt;/p&gt;
-
-&lt;p&gt;Building on the habits we started forming in December we continued running in January, gradually increasing our distance and speed. Moving to Santiago really threw off our barely formed running habits; in February and March we didn’t run at all. The habit was broken and The #1kk was not looking good.&lt;/p&gt;
-
-&lt;p&gt;In April we planned a hiking trip to Patagonia and resumed running as training for the trip. We established a simple 5k route from our apartment which we ran most mornings with a longer run on Sundays. After the trip to Patagonia we started running even more. At one point we were running 50k per week, more than twice as much as required for the challenge.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://media.tumblr.com/6b60609d98ad4bfff0ce0c0c20fa6f58/tumblr_inline_mslwu2DJ2w1qz4rgp.png&quot; alt=&quot;I&#39;ve run over 700k so far this year&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It’s now the beginning of September, two thirds of the way through the year and I’ve run just over 700 kilometres. That puts me more than 30k ahead of schedule but I expect that lead to disappear fast as I’m traveling at the moment and not running much. It’s likely that December will be a mad rush towards the finish line but what seemed unachievable in March now seems simple: all I have to do is not give up.&lt;/p&gt;
-
-&lt;p&gt;That’s what running is about for me: not stopping.&lt;/p&gt;
-
-&lt;p&gt;I used to cycle quite a bit, on and off road and when you’re cycling up a hill (or on the flat) you can’t stop pedaling. You can pedal extremely slowly but you can’t stop. If you stop, then best case you’ll roll backwards down the hill, or worst case you’ll tip over sideways.&lt;/p&gt;
-
-&lt;p&gt;It’s easier to stop when running, there’s less momentum forcing one foot down in front of the other. This makes for a mental sport. It’s all about the mind games.&lt;/p&gt;
-
-&lt;p&gt;At first it was hard to get out of bed every morning, to run, and to keep running when I wanted nothing more than to be back in bed. It’s still hard, some days more than others. But it’s getting easier.&lt;/p&gt;
-
-&lt;p&gt;I usually run a line, there and back (as opposed to a loop) and the return journey always feels easier, like running downhill. I’m reminded of a quote from &lt;a href=&quot;http://en.wikipedia.org/wiki/Gattaca&quot;&gt;Gattaca&lt;/a&gt; when the two brothers are swimming away from shore to see who will chicken out first:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Anton:&lt;/strong&gt; &lt;em&gt;Vincent! How are you doing this Vincent? How have you done any of this? We have to go back.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vincent:&lt;/strong&gt; &lt;em&gt;It’s too late for that. We’re closer to the other side.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Anton:&lt;/strong&gt; &lt;em&gt;What other side? You wanna drown us both?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vincent:&lt;/strong&gt; &lt;em&gt;You wanna know how I did it? This is how I did it Anton - I never saved anything for the swim back.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Peer pressure helps, Som and I usually run together and there are many times I’ve thought ‘If I were alone I’d slow down now’, or ‘If I were alone I’d walk for a bit now’. If I’m running alone then music helps too.&lt;/p&gt;
-
-&lt;p&gt;The mind games get easier when there’s no doubt that I can’t finish the run. When I set out on a 5, 7, or even 10k run I know I can finish it. I’ve done it 100 times before. Unless there’s something really wrong with me on the day I must be physically capable of finishing the run. There’s no excuse.&lt;/p&gt;
-
-&lt;p&gt;Running is a habit, and it naturally builds on itself. Getting out of bed every morning gets easier, putting on the shoes becomes a muscle memory. Every run is easier than the last.&lt;/p&gt;
-
-&lt;p&gt;Success in one habit makes it easier to succeed in other habits. I’m trying to introduce more positive habits into my life, and also to apply the discipline I’ve learned from running to other areas. I highly recommend &lt;a href=&quot;http://www.amazon.com/The-Power-Habit-What-Business/dp/1400069289&quot;&gt;The Power of Habit&lt;/a&gt; by Charles Duhigg to learn more about the science behind habits.&lt;/p&gt;
-
-&lt;p&gt;Though I haven’t finished the #1kk yet I’ve established the habit, and all I have to do now is not stop.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 05 Sep 2013 00:00:00 +1200</pubDate>
-        <link>http://michael.dowse.co.nz/2013/09/05/1kk.html</link>
-        <guid isPermaLink="true">http://michael.dowse.co.nz/2013/09/05/1kk.html</guid>
         
         
       </item>
