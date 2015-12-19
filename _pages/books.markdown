@@ -25,7 +25,8 @@ slug: "books"
   <div class="summary">
     <h2>Harry Potter and the methods of rationality</h2>
     <blockquote>Eliezer Yudkowsky</blockquote>
-    <p>Yes it's a fanfic and can drag on a bit (it's also really long), but this is a must read, or at least must-start-reading for any Harry Potter fan. Methods of Rationality is set in an alternative universe where Petunia married a biochemist and Harry grew up reading science and science fiction. Harry then proceeds to approach the wizarding world with the full knowledge and intelligence of the author, a Research Fellow at the Machine Intelligence Research Institute.</p>
+    <p>Yes it's a fanfic and can drag on a bit (it's also really long), but this is a must read, or at least must-start-reading for any Harry Potter fan.</p>
+    <p>Methods of Rationality is set in an alternative universe where Petunia married a biochemist and Harry grew up reading science and science fiction. Harry then proceeds to approach the wizarding world with the full knowledge and intelligence of the author, a Research Fellow at the Machine Intelligence Research Institute.</p>
 
     <p><a href="http://hpmor.com/">Free in EPUB, MOBI and PDF formats</a></p>
   </div>
