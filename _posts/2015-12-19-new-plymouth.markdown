@@ -7,15 +7,27 @@ New Plymouth is a lot cooler than it used to be. Som and I headed up there for t
 
 ### The coastal walkway
 
-The coastal walk is pretty cool, the water was a bit wild the day we went which made it all the more interesting. Unfortunately not caught on camera: when Som turned to photograph this sign a wave came up from behind and she got soaked.
+![BMD](/images/newplymouth/walkway.jpg)
+
+The coastal walkway is lovely, the water was a bit wild the day we went which made it all the more interesting. Unfortunately not caught on camera: when Som turned to photograph this sign a wave came up from behind and she got soaked.
 
 ### The Govett-Brewster Len Lye gallery
 
-The exterior is probably actually the highlight, but the stuff inside is pretty cool too.
+![BMD](/images/newplymouth/lenlye.jpg)
+
+The exterior is probably actually the highlight, but the stuff inside is cool too.
 
 ### Mount Taranaki
 
-There was too much snow to climb Mount Taranaki without actual mountaineering skills but I've climbed it on a previous trip and it's a pretty awesome hike. When we went in the height of summer there was still snow at the top.
+![BMD](/images/newplymouth/taranaki.jpg)
+
+There was too much snow to climb Mount Taranaki without actual mountaineering skills but I've climbed it on a previous trip and it's a pretty awesome hike. When we went in the height of summer there was still snow at the top. If nothing else, it's worth a trip to the visitors center halfway up the mountain for some sweet views.
+
+### Street Art
+
+![BMD](/images/newplymouth/bmd.jpg)
+
+New Plymouth is the home of [BMD](http://bmdisyourfriend.com/) and there is a lot of their work, and cool work by other artists, throughout the city center.
 
 ### Food & drink that was up to the standard of us city folk
 
