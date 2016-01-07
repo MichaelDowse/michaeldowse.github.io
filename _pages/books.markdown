@@ -9,6 +9,20 @@ slug: "books"
 <br>
 
 <div class="book">
+  <img src="/images/books/crossed.jpg" />
+  <div class="summary">
+    <h2>Crossed</h2>
+    <blockquote>Evelyn Blackwell</blockquote>
+    <p>The story of a hypothetical future where a younger generation value the environment more than humanity itself. Many interesting ideas in here, my favourite being Intersectional Veganism (which it turns out is actually a thing).</p>
+
+    <p>As <a href="http://www.amazon.com/review/R2WRPEHLW2AL34/ref=cm_cr_dp_title?ie=UTF8&ASIN=B010EO3A3K&channel=detail-glance&nodeID=133140011&store=digital-text">an Amazon reviewer notes</a>, <em>Crossed</em> does a great job of capturing the way movements form online in todays society, which is relatively rare in Science Fiction.</p>
+
+    <p><a href="http://www.amazon.com/dp/B010EO3A3K/ref=r_soa_w_d">Kindle eBook</a></p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
   <img src="/images/books/wonder_weeks.jpg" />
   <div class="summary">
     <h2>The Wonder Weeks</h2>
