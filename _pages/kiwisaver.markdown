@@ -1,3 +1,9 @@
+---
+title: "Michael Dowse - Choosing a Socially Responsible Kiwisaver Scheme"
+layout: default
+slug: "kiwisaver"
+---
+
 # Choosing a Socially Responsible Kiwisaver Scheme
 
 I recently found myself making significant contributions to Kiwisaver for the first time so I decided to put some effort into choosing the best Kiwisaver scheme.
