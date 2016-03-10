@@ -74,6 +74,17 @@ blockquote p {
   color: #999;
 }
 
+.blockquote {
+  border-left: 4px solid #F66;
+  padding-left: 10px;
+  font-size: 19px;
+  line-height: 32px;
+
+  > :last-child {
+      margin-bottom: 0;
+  }
+}
+
 h2, h2 a {
   color: #191919;
   margin-top: 0px;
@@ -84,6 +95,13 @@ h2, h2 a {
 h3 {
   margin-top: 40px;
   font-size: 24px;
+}
+
+hr {
+  border: 0;
+  height: 0;
+  margin: 50px 100px 50px 100px;
+  border-top: 3px solid #e7e7e7;
 }
 
 
@@ -106,12 +124,12 @@ p, li {
   line-height: 32px;
 }
 
-p a, .pagination a, footer a, li a {
+p a, .pagination a, footer a, li a, h3 a {
   color: #191919;
   text-decoration: none;
   border-bottom: 3px solid #e7e7e7;
 }
-p a:hover, .pagination a:hover, footer a:hover, li a:hover {
+p a:hover, .pagination a:hover, footer a:hover, li a:hover, h3 a:hover {
   border-bottom: 3px solid #F66; /*#009F50;*/
 }
 
