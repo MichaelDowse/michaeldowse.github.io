@@ -1,0 +1,39 @@
+---
+title: Tasty
+layout: post
+---
+
+If you use Facbook, you've probably noticed the recipe videos from [Tasty](https://www.facebook.com/buzzfeedtasty/?fref=ts) frequently featuring on your news feed. They're everywhere right now.
+
+To go viral on Facebook a video needs to catch your attention, without any sound, while you're scrolling through the news feed. The Tasty videos do that, I stop scrolling every time. Here's one for example:
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbuzzfeedtasty%2Fvideos%2F1741611326091509%2F&show_text=1&width=560" width="560" height="425" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+Given this, I wasn't particularly surprised to find out that Tasty is a part of Buzzfeed. I normally don't like viral things in my feed but I do like these Tasty videos and I've been able to rationalise a couple of possible justifications:
+
+**Cooking is a good thing that we should do more of and Tasty videos encourage that**
+
+Most people agree that we should cook more. Just like we should exercise more, or read more books. These are things that most people feel are positive influences on their lives, and that we should do more of.
+
+You could say that reality shows like MasterChef encourage cooking, and for some people they probably do, but they also promote sitting on the couch watching other people cook, and then paying exorbitant prices to eat a meal prepared in a kitched overseen by a "MasterChef".
+
+Tasty videos serve less as entertainment and more as inspiration. While you couldn't make the meal just from watching the video, you _almost_ could, and there's always a link to the full recipe attached.
+
+**They promote _good_ cooking**
+
+Tasty recipes tend to start from scratch, using basic ingredients. There are no cake mixes, or pre-made anything.
+
+The only inputs into the videos are relatively unprocessed ingredients that can be found in any supermarket, showing a committment to recipes that people can actually make at home. It's just good business sense really, as the recipes need to appeal to people all over the world. Some of the competitors who have popped up are less principled, [like this example](https://www.facebook.com/foodbyshared/videos/1018342061536144/?fref=nf).
+
+The recipes are often not particularly simple (though the video format makes them look deceptively so). They encourage the idea that cooking takes effort, but that your effort will be rewarded.
+
+****
+
+Convinced? Here's a couple more:
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbuzzfeedtasty%2Fvideos%2F1741600096092632%2F&show_text=1&width=560" width="560" height="425" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<br/>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbuzzfeedtasty%2Fvideos%2F1741588772760431%2F&show_text=1&width=560" width="560" height="425" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
