@@ -3,7 +3,7 @@ title: Tasty
 layout: post
 ---
 
-If you use Facbook, you've probably noticed the recipe videos from [Tasty](https://www.facebook.com/buzzfeedtasty/?fref=ts) frequently featuring on your news feed. They're everywhere right now.
+If you use Facebook, you've probably noticed the recipe videos from [Tasty](https://www.facebook.com/buzzfeedtasty/?fref=ts) frequently featuring on your news feed. They're everywhere right now.
 
 To go viral on Facebook a video needs to catch your attention, without any sound, while you're scrolling through the news feed. The Tasty videos do that, I stop scrolling every time. Here's one for example:
 

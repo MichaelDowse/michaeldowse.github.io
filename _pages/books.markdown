@@ -9,6 +9,53 @@ slug: "books"
 <br>
 
 <div class="book">
+  <img src="/images/books/readyplayerone.jpg" />
+  <div class="summary">
+    <h2>Ready Player One</h2>
+    <blockquote>Ernest Cline</blockquote>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/compelling.png" />
+  <div class="summary">
+    <h2>Compelling Science Fiction issues 1 & 2</h2>
+    <blockquote>Edited by Joe Stech</blockquote>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/sisters_keeper.jpg" />
+  <div class="summary">
+    <h2>My Sisters Keeper</h2>
+    <blockquote>Jodi Picoult</blockquote>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/nightfall.jpg" />
+  <div class="summary">
+    <h2>Nightfall</h2>
+    <blockquote>Isaac Asimov</blockquote>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/prey.jpg" />
+  <div class="summary">
+    <h2>Prey</h2>
+    <blockquote>Michael Critchton</blockquote>
+  </div>
+  <br>
+</div>
+
+### 2015
+
+<div class="book">
   <img src="/images/books/crossed.jpg" />
   <div class="summary">
     <h2>Crossed</h2>
