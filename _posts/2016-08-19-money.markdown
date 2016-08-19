@@ -1,0 +1,138 @@
+---
+title: Money
+layout: post
+---
+
+**In a capitalist society a dollar is a vote.**
+
+If we have the luxury of choosing then the way we choose to spend out money is an expression of our values is an expression of our values. Intentionally or not.
+
+****
+
+**My favourite shops by number of visits**
+
+<div class="column-sixth">
+  <div class="dots">
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+  </div>
+  <p>Tommy Millions</p>
+</div>
+<div class="column-sixth">
+  <div class="dots">
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span>
+  </div>
+  <p>Gentlemens Beans [1]</p>
+</div>
+<div class="column-sixth">
+  <div class="dots">
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+  </div>
+  <p>TJ Katsu</p>
+</div>
+<div class="column-sixth">
+  <div class="dots">
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span> <span></span> <span></span> <span></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+  </div>
+  <p>Peoples Coffee</p>
+</div>
+<div class="column-sixth">
+  <div class="dots">
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span> <span></span> <span></span> <span></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+  </div>
+  <p>Little Penang</p>
+</div>
+<div class="column-sixth">
+  <div class="dots">
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span> <span></span> <span></span> <span></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+  </div>
+  <p>Sixes & Sevens</p>
+</div>
+<div class="clear"></div>
+
+****
+
+I try to spend in a responsible way, considering the direct & indirect consequences of my purchases. Not all my spending is conscious in this way, it's hard work to put so much thought into each purchase. Some heuristics are now starting to emerge which I hope to document soon.
+
+Some (unordered) attributes I think about when spending money consciously:
+
+- Consumption of the product is good for me personally
+- My consumption of the product is not detrimental to society as a whole
+- The company treats staff well
+- Sustainable supply chain
+- The end product is sustainable
+
+****
+
+**Here's how I've been going for the last 12 months [2]**
+
+<div class="column-third">
+  <div class="dots">
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+  </div>
+  <p>Reflects values</p>
+  <p class="caption">e.g. Air New Zealand, Peoples Coffee, Little Penang</p>
+</div>
+<div class="column-third">
+  <div class="dots">
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+  </div>
+  <p>Doesn't reflect values</p>
+  <p class="caption">e.g. TJ Katsu, The Warehouse, BP</p>
+</div>
+<div class="column-third">
+  <div class="dots">
+    <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span></span> <span></span> <span></span> <span></span> <span></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+    <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span> <span class="gold"></span>
+  </div>
+  <p>Not sure</p>
+  <p class="caption">e.g. Bunnings, Countdown, New World</p>
+</div>
+<div class="clear"></div>
+
+****
+
+I'm hoping that as I make decisions on certain products (e.g. where to buy coffee) that don't need to be repeated the percentage of conscious spending will increase. That's the theory at least.
+
+<p class="caption">[1] Highly underestimated as I often have a prepaid coffee card</p>
+<p class="caption">[2] This is just my personal spending which is far outweighed by household spending</p>

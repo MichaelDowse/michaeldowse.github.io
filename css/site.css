@@ -69,9 +69,10 @@ blockquote {
   margin-left: 0px;
   margin-top: -28px;
 }
-blockquote p {
+blockquote p, p.caption {
   font-size: 15px;
   color: #999;
+  font-weight: normal;
 }
 
 .blockquote {
@@ -204,4 +205,49 @@ iframe.habits {
   width: 1000px;
   border: none;
   height: 1100px;
+}
+
+.column-sixth {
+  width: 16.66%;
+  float: left;
+}
+
+.column-third {
+  width: 33.33%;
+  float: left;
+}
+
+.dots {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.column-sixth .dots {
+  min-height: 120px;
+}
+
+.dots span {
+  float: left;
+  display: block;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  margin: 5px;
+}
+
+.dots span.gold {
+  background-color: #F66;
+}
+
+.column-sixth p, .column-third p {
+  margin: 15px;
+  clear: both;
+  font-size: 16px;
+  font-weight: bold;
+}
+.column-third p.caption {
+  font-weight: normal;
+}
+.clear {
+  clear: both;
 }

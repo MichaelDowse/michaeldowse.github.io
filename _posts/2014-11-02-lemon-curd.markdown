@@ -7,14 +7,14 @@ At the end of last year my friend Joel introduced me to Lemon Curd, or more spec
 
 So... I tried making Lemon Curd myself (sorry, this is turning into a cooking blog). I used the recipe provided by Joel which is as follows:
 
-###Ingredients:
+### Ingredients:
 
 - 4 large lemons
 - 100g butter
 - 2 cups of sugar
 - 4 eggs
 
-###Instructions:
+### Instructions:
 
 1. Grate the rind & squeeze the juice of the lemons into a saucepan
 2. Cut butter into small cubes
