@@ -11,7 +11,9 @@ _Two years pass by..._
 
 ********************************************
 
-You have interfaces everywhere, not because distributed systems are on trend right now but because your customers are distributed. There's the public website, the web app, the mobile version of the website, the iphone app, the android app, the Tumblr blog, the API documentation, the SaaS Job Board product you've integrated with and written a custom theme for. There are emails as well of course; some from your app and some from your marketing automation system, plus the life cycle emails from that other SaaS product.
+You have interfaces everywhere, not because distributed systems are on trend right now but because your customers are distributed. There's the public website, the web app, the mobile version of the website, the iphone app, the android app, the Tumblr blog, the API documentation, the SaaS Job Board product you've integrated with and written a custom theme for.
+
+There are emails as well of course; some from your app and some from your marketing automation system, plus the life cycle emails from that other SaaS product.
 
 You're launching a new page of your website targeting a new niche of customers. Your designer has done some designs in a super cool new style. It will probably increase conversions, you get a developer onto it straight away.
 
@@ -23,7 +25,9 @@ The inconsistency bothers you, it's a bad experience for your customers and it d
 
 ********************************************
 
-You can find comfort in the knowledge that you are not alone. Visit your banks website, it probably looks pretty nice, that's because it's trying to convert you. Now log into online banking, probably not so nice. Now try logging in to your banks online business banking portal, the ones I have seen are all about a decade behind the design of the banks home page.
+You are not alone.
+
+Visit your banks website, it probably looks pretty nice, that's because it's trying to convert you. Now log into online banking, probably not so nice. Now try logging in to your banks online business banking portal, the ones I have seen are all about a decade behind the design of the banks home page.
 
 It's easy to pick on banks, but every startup that's been around for more than a couple of years struggles to maintain a cohesive look and feel across all customer touchpoints.
 
@@ -35,7 +39,7 @@ There are multiple reasons for this, one I've been thinking about lately is abou
 
 If your Design Cycle Time is 6 months, and your Design Implementation Cycle Time is 2 years. The customer experience won't be terrible, but it won't cohesive, and that holds it back.
 
-_To ensure a mostly consistent customer experience most of the time, a companies design implementation cycle time must be significantly shorter than its design cycle time._
+> To ensure a mostly consistent customer experience most of the time, a companies design implementation cycle time must be significantly shorter than its design cycle time.
 
 In framing the problem this way, two approaches to solving it emerge: increasing design cycle time, or reducing design implementation cycle time. Ideally both approaches would be pursued in parallel.
 
@@ -45,7 +49,7 @@ What about the merch store? What about the knowledge base? What about the monthl
 
 Once all of your interfaces are documented, then you can begin to make improvements.
 
-## Increasing Design Cycle Time
+### Increasing Design Cycle Time
 
 - **Avoid trends, stick to the classics**
 
@@ -53,7 +57,7 @@ Once all of your interfaces are documented, then you can begin to make improveme
 
 - **Keep short lived designs contained:** Sometimes visual styles have to change fast, that's how marketing campaigns work. They just need to be treated as such. Design changes for a particular campaign should be implemented as a skin, or theme across the more permanent "evergreen" style to make removing them at the end of the campaign simple.
 
-## Decreasing Design Implementation Cycle Time
+### Decreasing Design Implementation Cycle Time
 
 - **Know your interfaces:** Know what interfaces you have, where they are and maintain the capability to update them.
 
