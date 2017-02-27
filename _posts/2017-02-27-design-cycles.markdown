@@ -40,7 +40,7 @@ There are multiple reasons for this, one I've been thinking about lately is abou
 If your Design Cycle Time is 6 months, and your Design Implementation Cycle Time is 2 years. The customer experience won't be terrible, but it won't cohesive, and that holds it back.
 
 <div class="blockquote">
-  <em>To ensure a mostly consistent customer experience most of the time, a companies design implementation cycle time must be significantly shorter than its design cycle time.<em>
+  <em>To ensure a mostly consistent customer experience most of the time, a companies design implementation cycle time must be significantly shorter than its design cycle time.</em>
 </div>
 
 In framing the problem this way, two approaches to solving it emerge: increasing design cycle time, or reducing design implementation cycle time. Ideally both approaches would be pursued in parallel.

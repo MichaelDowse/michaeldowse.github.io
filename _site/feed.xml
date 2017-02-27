@@ -6,8 +6,8 @@
 </description>
     <link>http://michael.dowse.co.nz/</link>
     <atom:link href="http://michael.dowse.co.nz/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 27 Feb 2017 21:53:28 +1300</pubDate>
-    <lastBuildDate>Mon, 27 Feb 2017 21:53:28 +1300</lastBuildDate>
+    <pubDate>Mon, 27 Feb 2017 22:07:08 +1300</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2017 22:07:08 +1300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -49,33 +49,44 @@
 &lt;p&gt;If your Design Cycle Time is 6 months, and your Design Implementation Cycle Time is 2 years. The customer experience won’t be terrible, but it won’t cohesive, and that holds it back.&lt;/p&gt;
 
 &lt;div class=&quot;blockquote&quot;&gt;
-  &lt;em&gt;To ensure a mostly consistent customer experience most of the time, a companies design implementation cycle time must be significantly shorter than its design cycle time.&lt;em&gt;
+  &lt;em&gt;To ensure a mostly consistent customer experience most of the time, a companies design implementation cycle time must be significantly shorter than its design cycle time.&lt;/em&gt;
+&lt;/div&gt;
 
+&lt;p&gt;In framing the problem this way, two approaches to solving it emerge: increasing design cycle time, or reducing design implementation cycle time. Ideally both approaches would be pursued in parallel.&lt;/p&gt;
 
-In framing the problem this way, two approaches to solving it emerge: increasing design cycle time, or reducing design implementation cycle time. Ideally both approaches would be pursued in parallel.
+&lt;p&gt;Before tackling cycle times though, it is essential to understand your interfaces. I’ve never witnessed a ‘complete redesign’ that managed to update every customer touchpoint. There’s always something that gets missed.&lt;/p&gt;
 
-Before tackling cycle times though, it is essential to understand your interfaces. I&#39;ve never witnessed a &#39;complete redesign&#39; that managed to update every customer touchpoint. There&#39;s always something that gets missed.
+&lt;p&gt;What about the merch store? What about the knowledge base? What about the monthly newsletter? These are the less important customer touchpoints but they all contribute to that feeling of cohesion, where the experience just feels right.&lt;/p&gt;
 
-What about the merch store? What about the knowledge base? What about the monthly newsletter? These are the less important customer touchpoints but they all contribute to that feeling of cohesion, where the experience just feels right.
+&lt;p&gt;Once all of your interfaces are documented, then you can begin to make improvements.&lt;/p&gt;
 
-Once all of your interfaces are documented, then you can begin to make improvements.
+&lt;h3 id=&quot;to-increase-design-cycle-time&quot;&gt;To increase Design Cycle Time&lt;/h3&gt;
 
-### To increase Design Cycle Time
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Avoid trends, stick to the classics&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Design in a wider context&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Keep short lived designs contained:&lt;/strong&gt; Sometimes visual styles have to change fast, that’s how marketing campaigns work. They just need to be treated as such. Design changes for a particular campaign should be implemented as a skin, or theme across the more permanent “evergreen” style to make removing them at the end of the campaign simple.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-- **Avoid trends, stick to the classics**
+&lt;h3 id=&quot;to-decrease-design-implementation-cycle-time&quot;&gt;To decrease Design Implementation Cycle Time&lt;/h3&gt;
 
-- **Design in a wider context**
-
-- **Keep short lived designs contained:** Sometimes visual styles have to change fast, that&#39;s how marketing campaigns work. They just need to be treated as such. Design changes for a particular campaign should be implemented as a skin, or theme across the more permanent &quot;evergreen&quot; style to make removing them at the end of the campaign simple.
-
-### To decrease Design Implementation Cycle Time
-
-- **Know your interfaces:** Know what interfaces you have, where they are and maintain the capability to update them.
-
-- **Pattern Libraries:** A topic for another blog post, but a well maintained and used pattern library really is the best solution.
-
-- **Update designs by default:** When working on an interface, never leave a interface without updating the design.
-&lt;/em&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Know your interfaces:&lt;/strong&gt; Know what interfaces you have, where they are and maintain the capability to update them.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Pattern Libraries:&lt;/strong&gt; A topic for another blog post, but a well maintained and used pattern library really is the best solution.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Update designs by default:&lt;/strong&gt; When working on an interface, never leave a interface without updating the design.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Mon, 27 Feb 2017 00:00:00 +1300</pubDate>
         <link>http://michael.dowse.co.nz/2017/02/27/design-cycles.html</link>
