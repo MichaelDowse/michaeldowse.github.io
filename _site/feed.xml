@@ -6,8 +6,8 @@
 </description>
     <link>http://michael.dowse.co.nz/</link>
     <atom:link href="http://michael.dowse.co.nz/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 27 Feb 2017 21:47:01 +1300</pubDate>
-    <lastBuildDate>Mon, 27 Feb 2017 21:47:01 +1300</lastBuildDate>
+    <pubDate>Mon, 27 Feb 2017 21:49:46 +1300</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2017 21:49:46 +1300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -34,7 +34,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;You are not alone.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You are not alone.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Visit your banks website, it probably looks pretty nice, that’s because it’s trying to convert you. Now log into online banking, probably not so nice. Now try logging in to your banks online business banking portal, the ones I have seen are all about a decade behind the design of the banks home page.&lt;/p&gt;
 
@@ -48,19 +48,19 @@
 
 &lt;p&gt;If your Design Cycle Time is 6 months, and your Design Implementation Cycle Time is 2 years. The customer experience won’t be terrible, but it won’t cohesive, and that holds it back.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;To ensure a mostly consistent customer experience most of the time, a companies design implementation cycle time must be significantly shorter than its design cycle time.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;div class=&quot;blockquote&quot;&gt;
+  To ensure a mostly consistent customer experience most of the time, a companies design implementation cycle time must be significantly shorter than its design cycle time.
+&lt;/div&gt;
 
 &lt;p&gt;In framing the problem this way, two approaches to solving it emerge: increasing design cycle time, or reducing design implementation cycle time. Ideally both approaches would be pursued in parallel.&lt;/p&gt;
 
-&lt;p&gt;Before tackling cycle times though, it is essential to understand your interfaces. I’ve never witniessed a ‘complete redesign’ that managed to update every customer touchpoint. There’s always something that gets missed.&lt;/p&gt;
+&lt;p&gt;Before tackling cycle times though, it is essential to understand your interfaces. I’ve never witnessed a ‘complete redesign’ that managed to update every customer touchpoint. There’s always something that gets missed.&lt;/p&gt;
 
 &lt;p&gt;What about the merch store? What about the knowledge base? What about the monthly newsletter? These are the less important customer touchpoints but they all contribute to that feeling of cohesion, where the experience just feels right.&lt;/p&gt;
 
 &lt;p&gt;Once all of your interfaces are documented, then you can begin to make improvements.&lt;/p&gt;
 
-&lt;h3 id=&quot;increasing-design-cycle-time&quot;&gt;Increasing Design Cycle Time&lt;/h3&gt;
+&lt;h3 id=&quot;to-increase-design-cycle-time&quot;&gt;To increase Design Cycle Time&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -74,7 +74,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;decreasing-design-implementation-cycle-time&quot;&gt;Decreasing Design Implementation Cycle Time&lt;/h3&gt;
+&lt;h3 id=&quot;to-decrease-design-implementation-cycle-time&quot;&gt;To decrease Design Implementation Cycle Time&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
