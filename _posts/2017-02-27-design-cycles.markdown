@@ -3,7 +3,7 @@ title: Design cycles
 layout: post
 ---
 
-You are a startup. You know design is important, so important that you have hired a super talented designer to make sure everything you make is beautiful.
+You are a startup. You know design is important. It's so important that you hire a super talented designer to make sure everything you make is beautiful.
 
 Your designer produces a beautiful new design for your homepage which they predict will boost conversions. You need conversions. You are losing money. You get a developer onto it straight away.
 
