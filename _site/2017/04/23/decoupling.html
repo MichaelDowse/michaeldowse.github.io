@@ -10,6 +10,7 @@
   <link type="application/atom+xml" rel="alternate" href="http://michael.dowse.co.nz/feed.xml" title="Michael Dowse" />
 </head>
 
+
   <body>
     <header>
   <a href="/">Michael Dowse</a>
@@ -59,16 +60,18 @@
 
 <p>The status feature is completely decoupled from the notification settings functionality. They do not interact in any way.</p>
 
-<p>Adding features in a decoupled way like this avoids interactions between features which reduces overall complexity in the system and makes it easier to add new functionality. Decoupled features are generally easier for users to understand than features that interact with one another in complex ways.</p>
+<p>While I was initially suprised that setting my status to “Vacationing” did not change my notification settings, can you imagine the confusion if it had? Even if it was well communicated in the UI, it would leave me confused about how different statuses affected my notifications. What if I set my status to “At Lunch”, would I expect that to also mute notifications? What if I ignored the default statuses and created a custom status of “On Holiday”?</p>
 
-<p>While I was initially suprised that setting my status to “Vacationing” did not change my notification settings, can you imagine the confusion if it had? Even if it was well communicated in the UI, it would leave me confused about how different statuses affected my notifications. What if I set my status to “At Lunch”, would I expect that to also mute notifications. What if I ignored the default statuses and created a custom status of “On Holiday”?</p>
+<p>Decoupled features are generally easier for users to understand than features that interact with one another in complex ways.</p>
 
-<p>To understand why Slack did this, it helps to understand the context:</p>
+<p>To understand why Slack did this, it helps to understand the context: The notifications functionality is already very complex. Check out this diagram of how Slack decides whether to send a notification:</p>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When Hacker News commenters say &quot;I could build that app in a weekend!&quot; I think of this chart of how Slack decides to send a notification. <a href="https://t.co/LopicAyzkL">pic.twitter.com/LopicAyzkL</a></p>&mdash; Matt Haughey (@mathowie) <a href="https://twitter.com/mathowie/status/837735473745289218">March 3, 2017</a></blockquote>
 <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p>Slack already have a lot of features that interact with notification settings in a complex way, if they had designed statuses to interact with notification settings as well it would have vastly increased the cost of adding this new feature.</p>
+
+<p>Adding features in a decoupled way like Slack did with Statuses avoids interactions between features which reduces overall complexity in the system and makes it easier to add new functionality.</p>
 
 <hr />
 

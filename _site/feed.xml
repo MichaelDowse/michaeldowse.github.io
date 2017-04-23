@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://michael.dowse.co.nz/feed.xml" rel="self" type="application/atom+xml" /><link href="http://michael.dowse.co.nz/" rel="alternate" type="text/html" /><updated>2017-04-23T19:28:16+12:00</updated><id>http://michael.dowse.co.nz/</id><title type="html">Michael Dowse</title><subtitle>Software Developer, reader, and occasional blogger. Founder of Go Vocab. Born and raised in Wellington, New Zealand.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://michael.dowse.co.nz/feed.xml" rel="self" type="application/atom+xml" /><link href="http://michael.dowse.co.nz/" rel="alternate" type="text/html" /><updated>2017-04-23T21:04:48+12:00</updated><id>http://michael.dowse.co.nz/</id><title type="html">Michael Dowse</title><subtitle>Software Developer, reader, and occasional blogger. Founder of Go Vocab. Born and raised in Wellington, New Zealand.
 </subtitle><entry><title type="html">Decoupling isn’t just for developers</title><link href="http://michael.dowse.co.nz/2017/04/23/decoupling.html" rel="alternate" type="text/html" title="Decoupling isn't just for developers" /><published>2017-04-23T00:00:00+12:00</published><updated>2017-04-23T00:00:00+12:00</updated><id>http://michael.dowse.co.nz/2017/04/23/decoupling</id><content type="html" xml:base="http://michael.dowse.co.nz/2017/04/23/decoupling.html">&lt;p&gt;A while ago I read this article: &lt;a href=&quot;https://hackernoon.com/complexity-and-strategy-325cd7f59a92&quot;&gt;Complexity and Strategy&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I highly recommend reading it. It’s much better than any of my blog posts.&lt;/p&gt;
@@ -23,16 +23,18 @@
 
 &lt;p&gt;The status feature is completely decoupled from the notification settings functionality. They do not interact in any way.&lt;/p&gt;
 
-&lt;p&gt;Adding features in a decoupled way like this avoids interactions between features which reduces overall complexity in the system and makes it easier to add new functionality. Decoupled features are generally easier for users to understand than features that interact with one another in complex ways.&lt;/p&gt;
+&lt;p&gt;While I was initially suprised that setting my status to “Vacationing” did not change my notification settings, can you imagine the confusion if it had? Even if it was well communicated in the UI, it would leave me confused about how different statuses affected my notifications. What if I set my status to “At Lunch”, would I expect that to also mute notifications? What if I ignored the default statuses and created a custom status of “On Holiday”?&lt;/p&gt;
 
-&lt;p&gt;While I was initially suprised that setting my status to “Vacationing” did not change my notification settings, can you imagine the confusion if it had? Even if it was well communicated in the UI, it would leave me confused about how different statuses affected my notifications. What if I set my status to “At Lunch”, would I expect that to also mute notifications. What if I ignored the default statuses and created a custom status of “On Holiday”?&lt;/p&gt;
+&lt;p&gt;Decoupled features are generally easier for users to understand than features that interact with one another in complex ways.&lt;/p&gt;
 
-&lt;p&gt;To understand why Slack did this, it helps to understand the context:&lt;/p&gt;
+&lt;p&gt;To understand why Slack did this, it helps to understand the context: The notifications functionality is already very complex. Check out this diagram of how Slack decides whether to send a notification:&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;When Hacker News commenters say &amp;quot;I could build that app in a weekend!&amp;quot; I think of this chart of how Slack decides to send a notification. &lt;a href=&quot;https://t.co/LopicAyzkL&quot;&gt;pic.twitter.com/LopicAyzkL&lt;/a&gt;&lt;/p&gt;&amp;mdash; Matt Haughey (@mathowie) &lt;a href=&quot;https://twitter.com/mathowie/status/837735473745289218&quot;&gt;March 3, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;Slack already have a lot of features that interact with notification settings in a complex way, if they had designed statuses to interact with notification settings as well it would have vastly increased the cost of adding this new feature.&lt;/p&gt;
+
+&lt;p&gt;Adding features in a decoupled way like Slack did with Statuses avoids interactions between features which reduces overall complexity in the system and makes it easier to add new functionality.&lt;/p&gt;
 
 &lt;hr /&gt;
 
