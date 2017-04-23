@@ -1,0 +1,106 @@
+<html>
+  <head>
+  <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:700,300' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/site.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="canonical" href="http://michael.dowse.co.nz/2017/04/23/decoupling.html">
+  <title>Michael Dowse - Decoupling isn't just for developers</title>
+  <link type="application/atom+xml" rel="alternate" href="http://michael.dowse.co.nz/feed.xml" title="Michael Dowse" />
+</head>
+
+  <body>
+    <header>
+  <a href="/">Michael Dowse</a>
+  <!-- <div class="content">
+    <div style="float: left;">
+      <a href="/">Michael Dowse</a>
+    </div>
+    <div style="float: right;" class="pages">
+      <a href="/pages/books.html">Books</a>
+      <a href="/pages/about.html">Bio</a>
+    </div>
+    <div style="clear:both;"></div>
+  </div> -->
+</header>
+
+    <div class="container">
+
+      <div class="content">
+        <div class="post">
+          <p class="post-meta">Apr 23, 2017</p>
+
+          <h2>
+            <a class="post-link" href="/2017/04/23/decoupling.html">Decoupling isn't just for developers</a>
+          </h2>
+      
+          <p>A while ago I read this article: <a href="https://hackernoon.com/complexity-and-strategy-325cd7f59a92">Complexity and Strategy</a></p>
+
+<p>I highly recommend reading it. It’s much better than any of my blog posts.</p>
+
+<p>One sentence that still lingers in my mind two months later is this one:</p>
+
+<div class="blockquote">
+<em>Features interact — intentionally — and that makes the cost of implementing the N+1 feature closer to N than 1.</em>
+</div>
+
+<p>In every organisation I’ve been a part of it goes this way: At first adding new features is fast and easy but as the codebase grows, it gets exponentially harder and slower.</p>
+
+<p>I’ve always ascribed this to technical debt, but that never felt quite right. The codebases weren’t that bad, yet adding new features still kept getting harder.</p>
+
+<p>Now it all makes sense. New features usually interact with existing features, so the more existing features there are that need to be interacted with, the harder it is to add a new feature.</p>
+
+<hr />
+
+<p>I saw a good example of this in Slack just now. I write most of my blog posts, including this one, while on vacation. When I left work I used Slack’s new “status” feature to set my status to one of the defaults: “Vacationing”.</p>
+
+<p>I was suprised to find that setting my status in this way did not affect my notification settings in any way. I kept getting notifications from my workmates until I used a separate feature to “Snooze Notifications”.</p>
+
+<p>The status feature is completely decoupled from the notification settings functionality. They do not interact in any way.</p>
+
+<p>Adding features in a decoupled way like this avoids interactions between features which reduces overall complexity in the system and makes it easier to add new functionality. Decoupled features are generally easier for users to understand than features that interact with one another in complex ways.</p>
+
+<p>While I was initially suprised that setting my status to “Vacationing” did not change my notification settings, can you imagine the confusion if it had? Even if it was well communicated in the UI, it would leave me confused about how different statuses affected my notifications. What if I set my status to “At Lunch”, would I expect that to also mute notifications. What if I ignored the default statuses and created a custom status of “On Holiday”?</p>
+
+<p>To understand why Slack did this, it helps to understand the context:</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When Hacker News commenters say &quot;I could build that app in a weekend!&quot; I think of this chart of how Slack decides to send a notification. <a href="https://t.co/LopicAyzkL">pic.twitter.com/LopicAyzkL</a></p>&mdash; Matt Haughey (@mathowie) <a href="https://twitter.com/mathowie/status/837735473745289218">March 3, 2017</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Slack already have a lot of features that interact with notification settings in a complex way, if they had designed statuses to interact with notification settings as well it would have vastly increased the cost of adding this new feature.</p>
+
+<hr />
+
+<p>Good developers are always trying to decouple things, to minify the ways in which different pieces of code interact with each other. It’s one of the main selling points of the current hot trend: microservices.</p>
+
+<p>Decoupling can’t be purely the concern of developers though. Software architecture and product design are inescapably linked. If the product design specifies that features interact with each other, then to a certain extent the developers’ hands are tied.</p>
+
+<p>This doesn’t mean product designers need to understand software architecture, microservices and decoupling. Nor does it mean that we should elevate technical concerns over user experience.</p>
+
+<p>It means we need to be conscious of the ways features interact with one another. To understand that interactions between features add complexity to the product and that complexity is expensive.</p>
+
+<p>Complex interactions between features can make it harder for users to understand how the product works, and are guaranteed to slow down development of new features.</p>
+
+<p>With that in mind, let us go forth and make trade-offs.</p>
+
+        </div>
+      </div>
+    </div>
+    <footer>
+  Made in <a href="http://www.youtube.com/watch?v=UssWFaY9NyY">Wellington, New Zealand</a> by <a href="http://twitter.com/michaeldowse">Michael Dowse</a>.
+</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56102974-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  </body>
+</html>

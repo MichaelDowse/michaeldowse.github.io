@@ -35,6 +35,64 @@
 
   
     <div class="post">
+      <p class="post-meta">Apr 23, 2017</p>
+
+      <h2>
+        <a class="post-link" href="/2017/04/23/decoupling.html">Decoupling isn't just for developers</a>
+      </h2>
+        
+      <p>A while ago I read this article: <a href="https://hackernoon.com/complexity-and-strategy-325cd7f59a92">Complexity and Strategy</a></p>
+
+<p>I highly recommend reading it. It’s much better than any of my blog posts.</p>
+
+<p>One sentence that still lingers in my mind two months later is this one:</p>
+
+<div class="blockquote">
+<em>Features interact — intentionally — and that makes the cost of implementing the N+1 feature closer to N than 1.</em>
+</div>
+
+<p>In every organisation I’ve been a part of it goes this way: At first adding new features is fast and easy but as the codebase grows, it gets exponentially harder and slower.</p>
+
+<p>I’ve always ascribed this to technical debt, but that never felt quite right. The codebases weren’t that bad, yet adding new features still kept getting harder.</p>
+
+<p>Now it all makes sense. New features usually interact with existing features, so the more existing features there are that need to be interacted with, the harder it is to add a new feature.</p>
+
+<hr />
+
+<p>I saw a good example of this in Slack just now. I write most of my blog posts, including this one, while on vacation. When I left work I used Slack’s new “status” feature to set my status to one of the defaults: “Vacationing”.</p>
+
+<p>I was suprised to find that setting my status in this way did not affect my notification settings in any way. I kept getting notifications from my workmates until I used a separate feature to “Snooze Notifications”.</p>
+
+<p>The status feature is completely decoupled from the notification settings functionality. They do not interact in any way.</p>
+
+<p>Adding features in a decoupled way like this avoids interactions between features which reduces overall complexity in the system and makes it easier to add new functionality. Decoupled features are generally easier for users to understand than features that interact with one another in complex ways.</p>
+
+<p>While I was initially suprised that setting my status to “Vacationing” did not change my notification settings, can you imagine the confusion if it had? Even if it was well communicated in the UI, it would leave me confused about how different statuses affected my notifications. What if I set my status to “At Lunch”, would I expect that to also mute notifications. What if I ignored the default statuses and created a custom status of “On Holiday”?</p>
+
+<p>To understand why Slack did this, it helps to understand the context:</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When Hacker News commenters say &quot;I could build that app in a weekend!&quot; I think of this chart of how Slack decides to send a notification. <a href="https://t.co/LopicAyzkL">pic.twitter.com/LopicAyzkL</a></p>&mdash; Matt Haughey (@mathowie) <a href="https://twitter.com/mathowie/status/837735473745289218">March 3, 2017</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Slack already have a lot of features that interact with notification settings in a complex way, if they had designed statuses to interact with notification settings as well it would have vastly increased the cost of adding this new feature.</p>
+
+<hr />
+
+<p>Good developers are always trying to decouple things, to minify the ways in which different pieces of code interact with each other. It’s one of the main selling points of the current hot trend: microservices.</p>
+
+<p>Decoupling can’t be purely the concern of developers though. Software architecture and product design are inescapably linked. If the product design specifies that features interact with each other, then to a certain extent the developers’ hands are tied.</p>
+
+<p>This doesn’t mean product designers need to understand software architecture, microservices and decoupling. Nor does it mean that we should elevate technical concerns over user experience.</p>
+
+<p>It means we need to be conscious of the ways features interact with one another. To understand that interactions between features add complexity to the product and that complexity is expensive.</p>
+
+<p>Complex interactions between features can make it harder for users to understand how the product works, and are guaranteed to slow down development of new features.</p>
+
+<p>With that in mind, let us go forth and make trade-offs.</p>
+
+    </div>
+  
+    <div class="post">
       <p class="post-meta">Feb 27, 2017</p>
 
       <h2>
@@ -487,47 +545,6 @@
 <blockquote>
   <p>The view</p>
 </blockquote>
-
-    </div>
-  
-    <div class="post">
-      <p class="post-meta">Nov 2, 2014</p>
-
-      <h2>
-        <a class="post-link" href="/2014/11/02/lemon-curd.html">Lemon Curd</a>
-      </h2>
-        
-      <p>At the end of last year my friend Joel introduced me to Lemon Curd, or more specifally, to Lemon Curd on toast. I’d had lemon curd before, it’s commonly used in desserts, but using it as a breakfast spread was new to me, and I liked it.</p>
-
-<p>So… I tried making Lemon Curd myself (sorry, this is turning into a cooking blog). I used the recipe provided by Joel which is as follows:</p>
-
-<h3 id="ingredients">Ingredients:</h3>
-
-<ul>
-  <li>4 large lemons</li>
-  <li>100g butter</li>
-  <li>2 cups of sugar</li>
-  <li>4 eggs</li>
-</ul>
-
-<h3 id="instructions">Instructions:</h3>
-
-<ol>
-  <li>Grate the rind &amp; squeeze the juice of the lemons into a saucepan</li>
-  <li>Cut butter into small cubes</li>
-  <li>Beat the eggs</li>
-  <li>Add the butter eggs and sugar to the saucepan and stir over a very low heat until the sugar has dissolved &amp; the curd has thickened</li>
-  <li>Pour mixture into hot sterilized jar</li>
-  <li>Let it stand to cool to room temperature then place in fridge</li>
-</ol>
-
-<p><img src="/images/lemon_curd.jpg" alt="There's lemon zest somewhere underneath all that sugar" /></p>
-
-<blockquote>
-  <p>There’s lemon zest somewhere underneath all that sugar</p>
-</blockquote>
-
-<p>It turned out pretty well! Ideally it would have been a bit thicker (I didn’t really have the patience for stirring slowly over a very low heat for too long), but the taste is just right.</p>
 
     </div>
   

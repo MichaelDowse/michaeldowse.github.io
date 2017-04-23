@@ -1,5 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://michael.dowse.co.nz/feed.xml" rel="self" type="application/atom+xml" /><link href="http://michael.dowse.co.nz/" rel="alternate" type="text/html" /><updated>2017-04-23T19:02:15+12:00</updated><id>http://michael.dowse.co.nz/</id><title type="html">Michael Dowse</title><subtitle>Software Developer, reader, and occasional blogger. Founder of Go Vocab. Born and raised in Wellington, New Zealand.
-</subtitle><entry><title type="html">Design cycles</title><link href="http://michael.dowse.co.nz/2017/02/27/design-cycles.html" rel="alternate" type="text/html" title="Design cycles" /><published>2017-02-27T00:00:00+13:00</published><updated>2017-02-27T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2017/02/27/design-cycles</id><content type="html" xml:base="http://michael.dowse.co.nz/2017/02/27/design-cycles.html">&lt;p&gt;You are a startup. You know design is important. It’s so important that you hire a super talented designer to make sure everything you make is beautiful.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://michael.dowse.co.nz/feed.xml" rel="self" type="application/atom+xml" /><link href="http://michael.dowse.co.nz/" rel="alternate" type="text/html" /><updated>2017-04-23T19:28:16+12:00</updated><id>http://michael.dowse.co.nz/</id><title type="html">Michael Dowse</title><subtitle>Software Developer, reader, and occasional blogger. Founder of Go Vocab. Born and raised in Wellington, New Zealand.
+</subtitle><entry><title type="html">Decoupling isn’t just for developers</title><link href="http://michael.dowse.co.nz/2017/04/23/decoupling.html" rel="alternate" type="text/html" title="Decoupling isn't just for developers" /><published>2017-04-23T00:00:00+12:00</published><updated>2017-04-23T00:00:00+12:00</updated><id>http://michael.dowse.co.nz/2017/04/23/decoupling</id><content type="html" xml:base="http://michael.dowse.co.nz/2017/04/23/decoupling.html">&lt;p&gt;A while ago I read this article: &lt;a href=&quot;https://hackernoon.com/complexity-and-strategy-325cd7f59a92&quot;&gt;Complexity and Strategy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I highly recommend reading it. It’s much better than any of my blog posts.&lt;/p&gt;
+
+&lt;p&gt;One sentence that still lingers in my mind two months later is this one:&lt;/p&gt;
+
+&lt;div class=&quot;blockquote&quot;&gt;
+&lt;em&gt;Features interact — intentionally — and that makes the cost of implementing the N+1 feature closer to N than 1.&lt;/em&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In every organisation I’ve been a part of it goes this way: At first adding new features is fast and easy but as the codebase grows, it gets exponentially harder and slower.&lt;/p&gt;
+
+&lt;p&gt;I’ve always ascribed this to technical debt, but that never felt quite right. The codebases weren’t that bad, yet adding new features still kept getting harder.&lt;/p&gt;
+
+&lt;p&gt;Now it all makes sense. New features usually interact with existing features, so the more existing features there are that need to be interacted with, the harder it is to add a new feature.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I saw a good example of this in Slack just now. I write most of my blog posts, including this one, while on vacation. When I left work I used Slack’s new “status” feature to set my status to one of the defaults: “Vacationing”.&lt;/p&gt;
+
+&lt;p&gt;I was suprised to find that setting my status in this way did not affect my notification settings in any way. I kept getting notifications from my workmates until I used a separate feature to “Snooze Notifications”.&lt;/p&gt;
+
+&lt;p&gt;The status feature is completely decoupled from the notification settings functionality. They do not interact in any way.&lt;/p&gt;
+
+&lt;p&gt;Adding features in a decoupled way like this avoids interactions between features which reduces overall complexity in the system and makes it easier to add new functionality. Decoupled features are generally easier for users to understand than features that interact with one another in complex ways.&lt;/p&gt;
+
+&lt;p&gt;While I was initially suprised that setting my status to “Vacationing” did not change my notification settings, can you imagine the confusion if it had? Even if it was well communicated in the UI, it would leave me confused about how different statuses affected my notifications. What if I set my status to “At Lunch”, would I expect that to also mute notifications. What if I ignored the default statuses and created a custom status of “On Holiday”?&lt;/p&gt;
+
+&lt;p&gt;To understand why Slack did this, it helps to understand the context:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;When Hacker News commenters say &amp;quot;I could build that app in a weekend!&amp;quot; I think of this chart of how Slack decides to send a notification. &lt;a href=&quot;https://t.co/LopicAyzkL&quot;&gt;pic.twitter.com/LopicAyzkL&lt;/a&gt;&lt;/p&gt;&amp;mdash; Matt Haughey (@mathowie) &lt;a href=&quot;https://twitter.com/mathowie/status/837735473745289218&quot;&gt;March 3, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Slack already have a lot of features that interact with notification settings in a complex way, if they had designed statuses to interact with notification settings as well it would have vastly increased the cost of adding this new feature.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Good developers are always trying to decouple things, to minify the ways in which different pieces of code interact with each other. It’s one of the main selling points of the current hot trend: microservices.&lt;/p&gt;
+
+&lt;p&gt;Decoupling can’t be purely the concern of developers though. Software architecture and product design are inescapably linked. If the product design specifies that features interact with each other, then to a certain extent the developers’ hands are tied.&lt;/p&gt;
+
+&lt;p&gt;This doesn’t mean product designers need to understand software architecture, microservices and decoupling. Nor does it mean that we should elevate technical concerns over user experience.&lt;/p&gt;
+
+&lt;p&gt;It means we need to be conscious of the ways features interact with one another. To understand that interactions between features add complexity to the product and that complexity is expensive.&lt;/p&gt;
+
+&lt;p&gt;Complex interactions between features can make it harder for users to understand how the product works, and are guaranteed to slow down development of new features.&lt;/p&gt;
+
+&lt;p&gt;With that in mind, let us go forth and make trade-offs.&lt;/p&gt;</content><author><name></name></author><summary type="html">A while ago I read this article: Complexity and Strategy</summary></entry><entry><title type="html">Design cycles</title><link href="http://michael.dowse.co.nz/2017/02/27/design-cycles.html" rel="alternate" type="text/html" title="Design cycles" /><published>2017-02-27T00:00:00+13:00</published><updated>2017-02-27T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2017/02/27/design-cycles</id><content type="html" xml:base="http://michael.dowse.co.nz/2017/02/27/design-cycles.html">&lt;p&gt;You are a startup. You know design is important. It’s so important that you hire a super talented designer to make sure everything you make is beautiful.&lt;/p&gt;
 
 &lt;p&gt;Your designer produces a beautiful new design for your homepage which they predict will boost conversions. You need conversions. You are losing money. You get a developer onto it straight away.&lt;/p&gt;
 
@@ -428,40 +475,4 @@
 
 &lt;p&gt;So instead of a chrome addon, I came up with &lt;a href=&quot;http://stuffbyrss.dowse.co.nz/&quot; target=&quot;_blank&quot;&gt;Stuff by RSS&lt;/a&gt;. It’s a minimalist alternative homepage for Stuff which may save you a click in some cases, and at the very least will spare you from ‘Stuff Nation’ and ‘Essential Mums’. &lt;a href=&quot;http://stuffbyrss.dowse.co.nz/&quot; target=&quot;_blank&quot;&gt;Check it out&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;This doesn’t replace the editorial team at Stuff, but maybe they don’t need to be completely replaced. To me it’s a clear improvement over the current Stuff homepage. I’d love to keep expanding the scope of Stuff by RSS from here to the point where headlines and excerpts are being rewritten and perhaps even additional content added.&lt;/p&gt;</content><author><name></name></author><summary type="html">I generally avoid mainstream news media sites, for content discovery at least, I often click links to their articles. I do find myself reading Stuff though, and almost always regretting it. At one point I had stuff.co.nz routed to localhost in my hosts file so that my computer literally couldn’t access it.</summary></entry><entry><title type="html">Cold Flat White</title><link href="http://michael.dowse.co.nz/2014/10/19/cold-flat-white.html" rel="alternate" type="text/html" title="Cold Flat White" /><published>2014-10-19T00:00:00+13:00</published><updated>2014-10-19T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2014/10/19/cold-flat-white</id><content type="html" xml:base="http://michael.dowse.co.nz/2014/10/19/cold-flat-white.html">&lt;p&gt;Last year the Iced Mocha was my drink; a cold coffee with chocolate, and either ice cream or ice. Some would say it’s not a real coffee, I say it’s delicious.&lt;/p&gt;
-
-&lt;p&gt;It may seem impractical to drink iced coffee in winter, it didn’t stop me, but some find the idea a bit jarring. Anyway, now that summer is approaching there’s no excuse not to embrace iced coffee.&lt;/p&gt;
-
-&lt;p&gt;Earlier this year I discovered my favorite coffee of all: the Cold Flat White from &lt;a href=&quot;http://peoplescoffee.co.nz/&quot;&gt;People’s Coffee&lt;/a&gt; (conveniently located only a few blocks from my house in Newtown). The Cold Flat White is a simple drink: cold brewed coffee, milk, and a touch of Maple Syrup. It’s delicious and I strongly recommend trying it.&lt;/p&gt;
-
-&lt;p&gt;Two problems: it costs $6 and is only available in Newtown. I needed an affordable and never ending supply of this stuff so I started making my own. That’s right, I make Cold Flat Whites at home and you can too.&lt;/p&gt;
-
-&lt;h3 id=&quot;step-1-cold-brew-coffee&quot;&gt;Step 1: Cold Brew Coffee&lt;/h3&gt;
-
-&lt;p&gt;Turns out &lt;a href=&quot;http://boingboing.net/2013/07/20/cheap-easy-no-mess-cold-brew.html&quot;&gt;cold brewing coffee is stupidly simple&lt;/a&gt;. Get some medium grind coffee, put it in a giant teabag (more specifically a nut milk bag, like you’d use to make almond milk), put it in some water and leave it overnight.&lt;/p&gt;
-
-&lt;p&gt;I was doubtful that the giant teabag approach could work as well as a Chemex filter, and having never used a Chemex I’m still not sure. It worked pretty well though, the resulting coffee was smooth and not at all gritty.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/coffee.jpg&quot; alt=&quot;Doesn't look appetizing, but...&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Doesn’t look appetizing, but…&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;After a night of brewing squeeze the giant teabag so as to extract every last bit of coffee goodness. Then you’re left with a strong cold brewed coffee essence, I wouldn’t recommend drinking this straight.&lt;/p&gt;
-
-&lt;p&gt;If you used a whole bag of coffee like I did then you’ll have a lot of this coffee essence. That’s alright, it will last a while, store it in the fridge.&lt;/p&gt;
-
-&lt;h3 id=&quot;step-2-make-a-cold-flat-white&quot;&gt;Step 2: Make a Cold Flat White&lt;/h3&gt;
-
-&lt;p&gt;Now you’re ready to assemble a cold flat white. I’m still experimenting with the ratios here but it goes something like this:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A couple of drops of Maple Syrup in the bottom of a glass&lt;/li&gt;
-  &lt;li&gt;Fill the glass with 50% coffee essence&lt;/li&gt;
-  &lt;li&gt;Fill the rest of the glass with milk&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That’s really all there is to it, enjoy!&lt;/p&gt;
-
-&lt;p&gt;I’m going to keep perfecting this: the next step is to increase the quality of the ingredients: really good freshly ground coffee, really good fresh organic milk, perhaps from Lewis Road Creamery, and real Maple Syrup (I must confess I’m currently using Maple Flavoured syrup).&lt;/p&gt;</content><author><name></name></author><summary type="html">Last year the Iced Mocha was my drink; a cold coffee with chocolate, and either ice cream or ice. Some would say it’s not a real coffee, I say it’s delicious.</summary></entry></feed>
+&lt;p&gt;This doesn’t replace the editorial team at Stuff, but maybe they don’t need to be completely replaced. To me it’s a clear improvement over the current Stuff homepage. I’d love to keep expanding the scope of Stuff by RSS from here to the point where headlines and excerpts are being rewritten and perhaps even additional content added.&lt;/p&gt;</content><author><name></name></author><summary type="html">I generally avoid mainstream news media sites, for content discovery at least, I often click links to their articles. I do find myself reading Stuff though, and almost always regretting it. At one point I had stuff.co.nz routed to localhost in my hosts file so that my computer literally couldn’t access it.</summary></entry></feed>
