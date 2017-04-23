@@ -1,18 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Michael Dowse</title>
-    <description>Software Developer, reader, and occasional blogger. Founder of Go Vocab. Born and raised in Wellington, New Zealand.
-</description>
-    <link>http://michael.dowse.co.nz/</link>
-    <atom:link href="http://michael.dowse.co.nz/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 27 Feb 2017 22:09:49 +1300</pubDate>
-    <lastBuildDate>Mon, 27 Feb 2017 22:09:49 +1300</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>Design cycles</title>
-        <description>&lt;p&gt;You are a startup. You know design is important. It’s so important that you hire a super talented designer to make sure everything you make is beautiful.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://michael.dowse.co.nz/feed.xml" rel="self" type="application/atom+xml" /><link href="http://michael.dowse.co.nz/" rel="alternate" type="text/html" /><updated>2017-04-23T19:02:15+12:00</updated><id>http://michael.dowse.co.nz/</id><title type="html">Michael Dowse</title><subtitle>Software Developer, reader, and occasional blogger. Founder of Go Vocab. Born and raised in Wellington, New Zealand.
+</subtitle><entry><title type="html">Design cycles</title><link href="http://michael.dowse.co.nz/2017/02/27/design-cycles.html" rel="alternate" type="text/html" title="Design cycles" /><published>2017-02-27T00:00:00+13:00</published><updated>2017-02-27T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2017/02/27/design-cycles</id><content type="html" xml:base="http://michael.dowse.co.nz/2017/02/27/design-cycles.html">&lt;p&gt;You are a startup. You know design is important. It’s so important that you hire a super talented designer to make sure everything you make is beautiful.&lt;/p&gt;
 
 &lt;p&gt;Your designer produces a beautiful new design for your homepage which they predict will boost conversions. You need conversions. You are losing money. You get a developer onto it straight away.&lt;/p&gt;
 
@@ -86,18 +73,7 @@
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Update designs by default:&lt;/strong&gt; When working on an interface, never leave a interface without updating the design.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 27 Feb 2017 00:00:00 +1300</pubDate>
-        <link>http://michael.dowse.co.nz/2017/02/27/design-cycles.html</link>
-        <guid isPermaLink="true">http://michael.dowse.co.nz/2017/02/27/design-cycles.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Money</title>
-        <description>&lt;p&gt;&lt;strong&gt;In a capitalist society a dollar is a vote.&lt;/strong&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">You are a startup. You know design is important. It’s so important that you hire a super talented designer to make sure everything you make is beautiful.</summary></entry><entry><title type="html">Money</title><link href="http://michael.dowse.co.nz/2016/08/19/money.html" rel="alternate" type="text/html" title="Money" /><published>2016-08-19T00:00:00+12:00</published><updated>2016-08-19T00:00:00+12:00</updated><id>http://michael.dowse.co.nz/2016/08/19/money</id><content type="html" xml:base="http://michael.dowse.co.nz/2016/08/19/money.html">&lt;p&gt;&lt;strong&gt;In a capitalist society a dollar is a vote.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;If we have the luxury of choosing then the way we choose to spend out money is an expression of our values is an expression of our values. Intentionally or not.&lt;/p&gt;
 
@@ -208,7 +184,7 @@
     &lt;span class=&quot;gold&quot;&gt;&lt;/span&gt;
     &lt;span class=&quot;gold&quot;&gt;&lt;/span&gt; &lt;span class=&quot;gold&quot;&gt;&lt;/span&gt; &lt;span class=&quot;gold&quot;&gt;&lt;/span&gt; &lt;span class=&quot;gold&quot;&gt;&lt;/span&gt; &lt;span class=&quot;gold&quot;&gt;&lt;/span&gt; &lt;span class=&quot;gold&quot;&gt;&lt;/span&gt; &lt;span class=&quot;gold&quot;&gt;&lt;/span&gt; &lt;span class=&quot;gold&quot;&gt;&lt;/span&gt; &lt;span class=&quot;gold&quot;&gt;&lt;/span&gt; &lt;span class=&quot;gold&quot;&gt;&lt;/span&gt;
   &lt;/div&gt;
-  &lt;p&gt;Doesn&#39;t reflect values&lt;/p&gt;
+  &lt;p&gt;Doesn't reflect values&lt;/p&gt;
   &lt;p class=&quot;caption&quot;&gt;e.g. TJ Katsu, The Warehouse, BP&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;column-third&quot;&gt;
@@ -231,18 +207,7 @@
 &lt;p&gt;I’m hoping that as I make decisions on certain products (e.g. where to buy coffee) that don’t need to be repeated the percentage of conscious spending will increase. That’s the theory at least.&lt;/p&gt;
 
 &lt;p class=&quot;caption&quot;&gt;[1] Highly underestimated as I often have a prepaid coffee card&lt;/p&gt;
-&lt;p class=&quot;caption&quot;&gt;[2] This is just my personal spending which is far outweighed by household spending&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Aug 2016 00:00:00 +1200</pubDate>
-        <link>http://michael.dowse.co.nz/2016/08/19/money.html</link>
-        <guid isPermaLink="true">http://michael.dowse.co.nz/2016/08/19/money.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Tasty</title>
-        <description>&lt;p&gt;If you use Facebook, you’ve probably noticed the recipe videos from &lt;a href=&quot;https://www.facebook.com/buzzfeedtasty/?fref=ts&quot;&gt;Tasty&lt;/a&gt; frequently featuring on your news feed. They’re everywhere right now.&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;[2] This is just my personal spending which is far outweighed by household spending&lt;/p&gt;</content><author><name></name></author><summary type="html">In a capitalist society a dollar is a vote.</summary></entry><entry><title type="html">Tasty</title><link href="http://michael.dowse.co.nz/2016/04/17/tasty.html" rel="alternate" type="text/html" title="Tasty" /><published>2016-04-17T00:00:00+12:00</published><updated>2016-04-17T00:00:00+12:00</updated><id>http://michael.dowse.co.nz/2016/04/17/tasty</id><content type="html" xml:base="http://michael.dowse.co.nz/2016/04/17/tasty.html">&lt;p&gt;If you use Facebook, you’ve probably noticed the recipe videos from &lt;a href=&quot;https://www.facebook.com/buzzfeedtasty/?fref=ts&quot;&gt;Tasty&lt;/a&gt; frequently featuring on your news feed. They’re everywhere right now.&lt;/p&gt;
 
 &lt;p&gt;To go viral on Facebook a video needs to catch your attention, without any sound, while you’re scrolling through the news feed. The Tasty videos do that, I stop scrolling every time. Here’s one for example:&lt;/p&gt;
 
@@ -274,19 +239,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbuzzfeedtasty%2Fvideos%2F1741588772760431%2F&amp;amp;show_text=1&amp;amp;width=560&quot; width=&quot;560&quot; height=&quot;425&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Sun, 17 Apr 2016 00:00:00 +1200</pubDate>
-        <link>http://michael.dowse.co.nz/2016/04/17/tasty.html</link>
-        <guid isPermaLink="true">http://michael.dowse.co.nz/2016/04/17/tasty.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Choosing a Socially Responsible Kiwisaver Scheme</title>
-        <description>&lt;p&gt;I recently found myself making significant contributions to Kiwisaver for the first time so I decided to put an appropriate amount of effort into choosing the best Kiwisaver scheme.&lt;/p&gt;
+&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbuzzfeedtasty%2Fvideos%2F1741588772760431%2F&amp;amp;show_text=1&amp;amp;width=560&quot; width=&quot;560&quot; height=&quot;425&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><summary type="html">If you use Facebook, you’ve probably noticed the recipe videos from Tasty frequently featuring on your news feed. They’re everywhere right now.</summary></entry><entry><title type="html">Choosing a Socially Responsible Kiwisaver Scheme</title><link href="http://michael.dowse.co.nz/2016/03/10/kiwisaver.html" rel="alternate" type="text/html" title="Choosing a Socially Responsible Kiwisaver Scheme" /><published>2016-03-10T00:00:00+13:00</published><updated>2016-03-10T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2016/03/10/kiwisaver</id><content type="html" xml:base="http://michael.dowse.co.nz/2016/03/10/kiwisaver.html">&lt;p&gt;I recently found myself making significant contributions to Kiwisaver for the first time so I decided to put an appropriate amount of effort into choosing the best Kiwisaver scheme.&lt;/p&gt;
 
 &lt;p&gt;With all my spending, I try to follow Ghandi’s &lt;a href=&quot;http://www.nytimes.com/2011/08/30/opinion/falser-words-were-never-spoken.html?_r=0&quot;&gt;misquoted&lt;/a&gt; advice:&lt;/p&gt;
 
@@ -296,7 +249,7 @@
 
 &lt;p&gt;When it comes to investing, this means investing in companies which are making a positive contribution to society &amp;amp; the environment. From my cursory analysis of the 189 available Kiwisaver schemes there are 5 that are specifically targeted at investors like me.&lt;/p&gt;
 
-&lt;h3 id=&quot;quaystreet-balanced-sri-fundhttpfundfindersortedorgnzfundcraigs-investment-partners-kiwistart-defined-scheme---balanced-sri-fund-craigs-investment-partners-&quot;&gt;&lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/craigs-investment-partners-kiwistart-defined-scheme---balanced-sri-fund-craigs-investment-partners-/&quot;&gt;QuayStreet Balanced SRI Fund&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;quaystreet-balanced-sri-fund&quot;&gt;&lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/craigs-investment-partners-kiwistart-defined-scheme---balanced-sri-fund-craigs-investment-partners-/&quot;&gt;QuayStreet Balanced SRI Fund&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;Provided by &lt;em&gt;Craigs Investment Partners&lt;/em&gt; this fund invests in investments that Craigs “deems to be environmentally sustainable or socially responsible”. A pretty broad mandate.&lt;/p&gt;
 
@@ -306,7 +259,7 @@
 
 &lt;p&gt;&lt;strong&gt;Total Value:&lt;/strong&gt; $4,713,552&lt;/p&gt;
 
-&lt;h3 id=&quot;socially-responsible-investment-growth-fundhttpfundfindersortedorgnzfundgrosvenor-kiwisaver-scheme---socially-responsible-investment-fund-grosvenor-investment-management-limited&quot;&gt;&lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/grosvenor-kiwisaver-scheme---socially-responsible-investment-fund-grosvenor-investment-management-limited/&quot;&gt;Socially Responsible Investment Growth Fund&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;socially-responsible-investment-growth-fund&quot;&gt;&lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/grosvenor-kiwisaver-scheme---socially-responsible-investment-fund-grosvenor-investment-management-limited/&quot;&gt;Socially Responsible Investment Growth Fund&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;Provided by &lt;em&gt;Grosvenor Investment Management&lt;/em&gt;, this fund “will exclude companies and other investments where the underlying activities are principally involved in the tobacco, alcohol, gambling and armaments industries” which is a pretty low bar.&lt;/p&gt;
 
@@ -316,7 +269,7 @@
 
 &lt;p&gt;&lt;strong&gt;Total Value:&lt;/strong&gt; $16,999,866&lt;/p&gt;
 
-&lt;h3 id=&quot;socially-responsible-investment-balanced-fundhttpfundfindersortedorgnzfundgrosvenor-kiwisaver-scheme---socially-responsible-investment-balanced-fund-grosvenor-investment-management-limited&quot;&gt;&lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/grosvenor-kiwisaver-scheme---socially-responsible-investment-balanced-fund-grosvenor-investment-management-limited/&quot;&gt;Socially Responsible Investment Balanced Fund&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;socially-responsible-investment-balanced-fund&quot;&gt;&lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/grosvenor-kiwisaver-scheme---socially-responsible-investment-balanced-fund-grosvenor-investment-management-limited/&quot;&gt;Socially Responsible Investment Balanced Fund&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;Provided by &lt;em&gt;Grosvenor Investment Management&lt;/em&gt;, this fund will exclude “investments which do not satisfy certain socially responsible investment criteria”.&lt;/p&gt;
 
@@ -326,9 +279,9 @@
 
 &lt;p&gt;&lt;strong&gt;Total Value:&lt;/strong&gt; $17,854,622&lt;/p&gt;
 
-&lt;h3 id=&quot;sustainable-international-share-fundhttpfundfindersortedorgnzfundoneanswer-kiwisaver-scheme---sustainable-international-share-fund-anz-new-zealand-investments-limited&quot;&gt;&lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/oneanswer-kiwisaver-scheme---sustainable-international-share-fund-anz-new-zealand-investments-limited/&quot;&gt;Sustainable International Share Fund&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;sustainable-international-share-fund&quot;&gt;&lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/oneanswer-kiwisaver-scheme---sustainable-international-share-fund-anz-new-zealand-investments-limited/&quot;&gt;Sustainable International Share Fund&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;Provided by &lt;em&gt;ANZ&lt;/em&gt;, this fund invests exclusively in the &lt;a href=&quot;http://funds.ft.com/uk/Tearsheet/Summary?s=LU0119216553:EUR&quot;&gt;Global Sustainable Equity Fund&lt;/a&gt; which “combines respect for social principles (such as human rights, non-discrimination and the issue of child labour) and environmental principles with good financial prospects”. &lt;/p&gt;
+&lt;p&gt;Provided by &lt;em&gt;ANZ&lt;/em&gt;, this fund invests exclusively in the &lt;a href=&quot;http://funds.ft.com/uk/Tearsheet/Summary?s=LU0119216553:EUR&quot;&gt;Global Sustainable Equity Fund&lt;/a&gt; which “combines respect for social principles (such as human rights, non-discrimination and the issue of child labour) and environmental principles with good financial prospects”.&lt;/p&gt;
 
 &lt;p&gt;Despite only investing on one fund, this scheme still manages to charge above average fees.&lt;/p&gt;
 
@@ -338,7 +291,7 @@
 
 &lt;p&gt;&lt;strong&gt;Total Value:&lt;/strong&gt; $4,305,412&lt;/p&gt;
 
-&lt;h3 id=&quot;ethica-fundhttpfundfindersortedorgnzfundsuperlife---ethica-pool-superlife-limited&quot;&gt;&lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/superlife---ethica-pool-superlife-limited/&quot;&gt;Ethica Fund&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;ethica-fund&quot;&gt;&lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/superlife---ethica-pool-superlife-limited/&quot;&gt;Ethica Fund&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;Provided by &lt;em&gt;Superlife&lt;/em&gt;, this fund “looks to avoid investments in the areas of pornography, gambling, tobacco, alcohol, armaments and fossil fuel extraction”.&lt;/p&gt;
 
@@ -352,18 +305,7 @@
 
 &lt;p&gt;There are other options. Craigs offers &lt;a href=&quot;https://www.craigsip.com/services/kiwisaver.aspx&quot;&gt;a scheme where you can pick your own stocks&lt;/a&gt;, and there may be other schemes which invest in a responsible manner but don’t explicitly flag that as their intention.&lt;/p&gt;
 
-&lt;p&gt;Looking purely at social responsibility it seems like the &lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/grosvenor-kiwisaver-scheme---socially-responsible-investment-fund-grosvenor-investment-management-limited/&quot;&gt;Socially Responsible Investment Growth Fund&lt;/a&gt; is the best option, but I will be following up some of the others for more details of their investment criteria. There are other factors to consider of course, such as risk profile, returns, and fees.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 10 Mar 2016 00:00:00 +1300</pubDate>
-        <link>http://michael.dowse.co.nz/2016/03/10/kiwisaver.html</link>
-        <guid isPermaLink="true">http://michael.dowse.co.nz/2016/03/10/kiwisaver.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>New Plymouth</title>
-        <description>&lt;p&gt;New Plymouth is a lot cooler than it used to be. Som and I headed up there for the weekend a few months ago. In no particular order, some highlights were:&lt;/p&gt;
+&lt;p&gt;Looking purely at social responsibility it seems like the &lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/grosvenor-kiwisaver-scheme---socially-responsible-investment-fund-grosvenor-investment-management-limited/&quot;&gt;Socially Responsible Investment Growth Fund&lt;/a&gt; is the best option, but I will be following up some of the others for more details of their investment criteria. There are other factors to consider of course, such as risk profile, returns, and fees.&lt;/p&gt;</content><author><name></name></author><summary type="html">I recently found myself making significant contributions to Kiwisaver for the first time so I decided to put an appropriate amount of effort into choosing the best Kiwisaver scheme.</summary></entry><entry><title type="html">New Plymouth</title><link href="http://michael.dowse.co.nz/2015/12/19/new-plymouth.html" rel="alternate" type="text/html" title="New Plymouth" /><published>2015-12-19T00:00:00+13:00</published><updated>2015-12-19T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2015/12/19/new-plymouth</id><content type="html" xml:base="http://michael.dowse.co.nz/2015/12/19/new-plymouth.html">&lt;p&gt;New Plymouth is a lot cooler than it used to be. Som and I headed up there for the weekend a few months ago. In no particular order, some highlights were:&lt;/p&gt;
 
 &lt;h3 id=&quot;the-coastal-walkway&quot;&gt;The coastal walkway&lt;/h3&gt;
 
@@ -397,18 +339,7 @@
   &lt;li&gt;For dinner, head to &lt;a href=&quot;https://www.facebook.com/PEKAREN-696952050381686/&quot;&gt;Pekaren&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Bonus:&lt;/strong&gt; Our AirBnB host was a nudist with a house full of &lt;em&gt;interesting&lt;/em&gt; artwork, though the wall to wall mirrors in the shower were a little intimidating.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 19 Dec 2015 00:00:00 +1300</pubDate>
-        <link>http://michael.dowse.co.nz/2015/12/19/new-plymouth.html</link>
-        <guid isPermaLink="true">http://michael.dowse.co.nz/2015/12/19/new-plymouth.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Rules of the blog</title>
-        <description>&lt;p&gt;I’ve always struggled with blogging. I want to do it, I have things that I want to share. But it always happens in bursts, a few good posts create a high bar for future posts, which get half written but never published.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bonus:&lt;/strong&gt; Our AirBnB host was a nudist with a house full of &lt;em&gt;interesting&lt;/em&gt; artwork, though the wall to wall mirrors in the shower were a little intimidating.&lt;/p&gt;</content><author><name></name></author><summary type="html">New Plymouth is a lot cooler than it used to be. Som and I headed up there for the weekend a few months ago. In no particular order, some highlights were:</summary></entry><entry><title type="html">Rules of the blog</title><link href="http://michael.dowse.co.nz/2015/12/19/blogging-goals.html" rel="alternate" type="text/html" title="Rules of the blog" /><published>2015-12-19T00:00:00+13:00</published><updated>2015-12-19T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2015/12/19/blogging-goals</id><content type="html" xml:base="http://michael.dowse.co.nz/2015/12/19/blogging-goals.html">&lt;p&gt;I’ve always struggled with blogging. I want to do it, I have things that I want to share. But it always happens in bursts, a few good posts create a high bar for future posts, which get half written but never published.&lt;/p&gt;
 
 &lt;p&gt;Mostly I agonise over what I should be blogging about. Should I post my travel pictures? Should I be posting my own introspections? Or should I be posting my commentary on things? To help reduce my future agonising I’ve come up with two rules for this blog:&lt;/p&gt;
 
@@ -422,18 +353,7 @@
 
 &lt;p&gt;These two rules don’t eliminate any of the post types I described above: I can, and will, still post travel pictures, introspections, and commentary.&lt;/p&gt;
 
-&lt;p&gt;Let’s see how long this burst lasts.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 19 Dec 2015 00:00:00 +1300</pubDate>
-        <link>http://michael.dowse.co.nz/2015/12/19/blogging-goals.html</link>
-        <guid isPermaLink="true">http://michael.dowse.co.nz/2015/12/19/blogging-goals.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Mt Ruapehu</title>
-        <description>&lt;p&gt;We caught the train up to Mt Ruapehu on the weekend and caught the chairlift up to the new Knoll Ridge Cafe which is a very cool building (and has won at least one architecture award).&lt;/p&gt;
+&lt;p&gt;Let’s see how long this burst lasts.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’ve always struggled with blogging. I want to do it, I have things that I want to share. But it always happens in bursts, a few good posts create a high bar for future posts, which get half written but never published.</summary></entry><entry><title type="html">Mt Ruapehu</title><link href="http://michael.dowse.co.nz/2015/07/27/mt-ruapehu.html" rel="alternate" type="text/html" title="Mt Ruapehu" /><published>2015-07-27T00:00:00+12:00</published><updated>2015-07-27T00:00:00+12:00</updated><id>http://michael.dowse.co.nz/2015/07/27/mt-ruapehu</id><content type="html" xml:base="http://michael.dowse.co.nz/2015/07/27/mt-ruapehu.html">&lt;p&gt;We caught the train up to Mt Ruapehu on the weekend and caught the chairlift up to the new Knoll Ridge Cafe which is a very cool building (and has won at least one architecture award).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/ruapehu/cafe-wide.jpg&quot; alt=&quot;Knoll Ridge Cafe&quot; /&gt;&lt;/p&gt;
 
@@ -457,18 +377,7 @@
 
 &lt;blockquote&gt;
   &lt;p&gt;The view&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Mon, 27 Jul 2015 00:00:00 +1200</pubDate>
-        <link>http://michael.dowse.co.nz/2015/07/27/mt-ruapehu.html</link>
-        <guid isPermaLink="true">http://michael.dowse.co.nz/2015/07/27/mt-ruapehu.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Lemon Curd</title>
-        <description>&lt;p&gt;At the end of last year my friend Joel introduced me to Lemon Curd, or more specifally, to Lemon Curd on toast. I’d had lemon curd before, it’s commonly used in desserts, but using it as a breakfast spread was new to me, and I liked it.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">We caught the train up to Mt Ruapehu on the weekend and caught the chairlift up to the new Knoll Ridge Cafe which is a very cool building (and has won at least one architecture award).</summary></entry><entry><title type="html">Lemon Curd</title><link href="http://michael.dowse.co.nz/2014/11/02/lemon-curd.html" rel="alternate" type="text/html" title="Lemon Curd" /><published>2014-11-02T00:00:00+13:00</published><updated>2014-11-02T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2014/11/02/lemon-curd</id><content type="html" xml:base="http://michael.dowse.co.nz/2014/11/02/lemon-curd.html">&lt;p&gt;At the end of last year my friend Joel introduced me to Lemon Curd, or more specifally, to Lemon Curd on toast. I’d had lemon curd before, it’s commonly used in desserts, but using it as a breakfast spread was new to me, and I liked it.&lt;/p&gt;
 
 &lt;p&gt;So… I tried making Lemon Curd myself (sorry, this is turning into a cooking blog). I used the recipe provided by Joel which is as follows:&lt;/p&gt;
 
@@ -492,24 +401,13 @@
   &lt;li&gt;Let it stand to cool to room temperature then place in fridge&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/lemon_curd.jpg&quot; alt=&quot;There&#39;s lemon zest somewhere underneath all that sugar&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/lemon_curd.jpg&quot; alt=&quot;There's lemon zest somewhere underneath all that sugar&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;There’s lemon zest somewhere underneath all that sugar&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;It turned out pretty well! Ideally it would have been a bit thicker (I didn’t really have the patience for stirring slowly over a very low heat for too long), but the taste is just right.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 02 Nov 2014 00:00:00 +1300</pubDate>
-        <link>http://michael.dowse.co.nz/2014/11/02/lemon-curd.html</link>
-        <guid isPermaLink="true">http://michael.dowse.co.nz/2014/11/02/lemon-curd.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Stuff by RSS</title>
-        <description>&lt;p&gt;I generally avoid mainstream news media sites, for content discovery at least, I often click links to their articles. I do find myself reading &lt;a href=&quot;http://stuff.co.nz&quot;&gt;Stuff&lt;/a&gt; though, and almost always regretting it. At one point I had stuff.co.nz routed to localhost in my hosts file so that my computer literally couldn’t access it.&lt;/p&gt;
+&lt;p&gt;It turned out pretty well! Ideally it would have been a bit thicker (I didn’t really have the patience for stirring slowly over a very low heat for too long), but the taste is just right.&lt;/p&gt;</content><author><name></name></author><summary type="html">At the end of last year my friend Joel introduced me to Lemon Curd, or more specifally, to Lemon Curd on toast. I’d had lemon curd before, it’s commonly used in desserts, but using it as a breakfast spread was new to me, and I liked it.</summary></entry><entry><title type="html">Stuff by RSS</title><link href="http://michael.dowse.co.nz/2014/10/26/stuff-by-rss.html" rel="alternate" type="text/html" title="Stuff by RSS" /><published>2014-10-26T00:00:00+13:00</published><updated>2014-10-26T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2014/10/26/stuff-by-rss</id><content type="html" xml:base="http://michael.dowse.co.nz/2014/10/26/stuff-by-rss.html">&lt;p&gt;I generally avoid mainstream news media sites, for content discovery at least, I often click links to their articles. I do find myself reading &lt;a href=&quot;http://stuff.co.nz&quot;&gt;Stuff&lt;/a&gt; though, and almost always regretting it. At one point I had stuff.co.nz routed to localhost in my hosts file so that my computer literally couldn’t access it.&lt;/p&gt;
 
 &lt;p&gt;But the reason I keep going back to Stuff is that there’s national news there that I don’t really get anywhere else. I started wondering, what would Stuff look like with a different editor, who wasn’t interested in maximising revenue, or catering to the lowest common denominator.&lt;/p&gt;
 
@@ -518,7 +416,7 @@
 &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;&amp;quot;How much will rates go up?&amp;#10;It is too early to say.&amp;quot;&amp;#10;&amp;#10;&lt;a href=&quot;https://twitter.com/nzherald&quot;&gt;@nzherald&lt;/a&gt; saved you a click. &lt;a href=&quot;http://t.co/rqqrFJyGxh&quot;&gt;http://t.co/rqqrFJyGxh&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ben Gracewood (@nzben) &lt;a href=&quot;https://twitter.com/nzben/status/525334208437182464&quot;&gt;October 23, 2014&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;“Saved you a click”, is a common sight on Twitter. Editors have started writing headlines that deliberately omit a key fact so that readers are forced to click through and read the article (and view some ads in the process). By rewriting a headline, or including a few extra words, it’s possible to avoid the need to click through and read the whole article. &lt;/p&gt;
+&lt;p&gt;“Saved you a click”, is a common sight on Twitter. Editors have started writing headlines that deliberately omit a key fact so that readers are forced to click through and read the article (and view some ads in the process). By rewriting a headline, or including a few extra words, it’s possible to avoid the need to click through and read the whole article.&lt;/p&gt;
 
 &lt;p&gt;What if the editor put the reader ahead of the advertiser and was &lt;em&gt;trying&lt;/em&gt; to save you a click? The headlines and excerpts would be written to include as many facts as possible.&lt;/p&gt;
 
@@ -530,32 +428,21 @@
 
 &lt;p&gt;So instead of a chrome addon, I came up with &lt;a href=&quot;http://stuffbyrss.dowse.co.nz/&quot; target=&quot;_blank&quot;&gt;Stuff by RSS&lt;/a&gt;. It’s a minimalist alternative homepage for Stuff which may save you a click in some cases, and at the very least will spare you from ‘Stuff Nation’ and ‘Essential Mums’. &lt;a href=&quot;http://stuffbyrss.dowse.co.nz/&quot; target=&quot;_blank&quot;&gt;Check it out&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;This doesn’t replace the editorial team at Stuff, but maybe they don’t need to be completely replaced. To me it’s a clear improvement over the current Stuff homepage. I’d love to keep expanding the scope of Stuff by RSS from here to the point where headlines and excerpts are being rewritten and perhaps even additional content added.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 26 Oct 2014 00:00:00 +1300</pubDate>
-        <link>http://michael.dowse.co.nz/2014/10/26/stuff-by-rss.html</link>
-        <guid isPermaLink="true">http://michael.dowse.co.nz/2014/10/26/stuff-by-rss.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Cold Flat White</title>
-        <description>&lt;p&gt;Last year the Iced Mocha was my drink; a cold coffee with chocolate, and either ice cream or ice. Some would say it’s not a real coffee, I say it’s delicious.&lt;/p&gt;
+&lt;p&gt;This doesn’t replace the editorial team at Stuff, but maybe they don’t need to be completely replaced. To me it’s a clear improvement over the current Stuff homepage. I’d love to keep expanding the scope of Stuff by RSS from here to the point where headlines and excerpts are being rewritten and perhaps even additional content added.&lt;/p&gt;</content><author><name></name></author><summary type="html">I generally avoid mainstream news media sites, for content discovery at least, I often click links to their articles. I do find myself reading Stuff though, and almost always regretting it. At one point I had stuff.co.nz routed to localhost in my hosts file so that my computer literally couldn’t access it.</summary></entry><entry><title type="html">Cold Flat White</title><link href="http://michael.dowse.co.nz/2014/10/19/cold-flat-white.html" rel="alternate" type="text/html" title="Cold Flat White" /><published>2014-10-19T00:00:00+13:00</published><updated>2014-10-19T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2014/10/19/cold-flat-white</id><content type="html" xml:base="http://michael.dowse.co.nz/2014/10/19/cold-flat-white.html">&lt;p&gt;Last year the Iced Mocha was my drink; a cold coffee with chocolate, and either ice cream or ice. Some would say it’s not a real coffee, I say it’s delicious.&lt;/p&gt;
 
-&lt;p&gt;It may seem impractical to drink iced coffee in winter, it didn’t stop me, but some find the idea a bit jarring. Anyway, now that summer is approaching there’s no excuse not to embrace iced coffee. &lt;/p&gt;
+&lt;p&gt;It may seem impractical to drink iced coffee in winter, it didn’t stop me, but some find the idea a bit jarring. Anyway, now that summer is approaching there’s no excuse not to embrace iced coffee.&lt;/p&gt;
 
 &lt;p&gt;Earlier this year I discovered my favorite coffee of all: the Cold Flat White from &lt;a href=&quot;http://peoplescoffee.co.nz/&quot;&gt;People’s Coffee&lt;/a&gt; (conveniently located only a few blocks from my house in Newtown). The Cold Flat White is a simple drink: cold brewed coffee, milk, and a touch of Maple Syrup. It’s delicious and I strongly recommend trying it.&lt;/p&gt;
 
-&lt;p&gt;Two problems: it costs $6 and is only available in Newtown. I needed an affordable and never ending supply of this stuff so I started making my own. That’s right, I make Cold Flat Whites at home and you can too. &lt;/p&gt;
+&lt;p&gt;Two problems: it costs $6 and is only available in Newtown. I needed an affordable and never ending supply of this stuff so I started making my own. That’s right, I make Cold Flat Whites at home and you can too.&lt;/p&gt;
 
 &lt;h3 id=&quot;step-1-cold-brew-coffee&quot;&gt;Step 1: Cold Brew Coffee&lt;/h3&gt;
 
 &lt;p&gt;Turns out &lt;a href=&quot;http://boingboing.net/2013/07/20/cheap-easy-no-mess-cold-brew.html&quot;&gt;cold brewing coffee is stupidly simple&lt;/a&gt;. Get some medium grind coffee, put it in a giant teabag (more specifically a nut milk bag, like you’d use to make almond milk), put it in some water and leave it overnight.&lt;/p&gt;
 
-&lt;p&gt;I was doubtful that the giant teabag approach could work as well as a Chemex filter, and having never used a Chemex I’m still not sure. It worked pretty well though, the resulting coffee was smooth and not at all gritty. &lt;/p&gt;
+&lt;p&gt;I was doubtful that the giant teabag approach could work as well as a Chemex filter, and having never used a Chemex I’m still not sure. It worked pretty well though, the resulting coffee was smooth and not at all gritty.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/coffee.jpg&quot; alt=&quot;Doesn&#39;t look appetizing, but...&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/coffee.jpg&quot; alt=&quot;Doesn't look appetizing, but...&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Doesn’t look appetizing, but…&lt;/p&gt;
@@ -563,7 +450,7 @@
 
 &lt;p&gt;After a night of brewing squeeze the giant teabag so as to extract every last bit of coffee goodness. Then you’re left with a strong cold brewed coffee essence, I wouldn’t recommend drinking this straight.&lt;/p&gt;
 
-&lt;p&gt;If you used a whole bag of coffee like I did then you’ll have a lot of this coffee essence. That’s alright, it will last a while, store it in the fridge. &lt;/p&gt;
+&lt;p&gt;If you used a whole bag of coffee like I did then you’ll have a lot of this coffee essence. That’s alright, it will last a while, store it in the fridge.&lt;/p&gt;
 
 &lt;h3 id=&quot;step-2-make-a-cold-flat-white&quot;&gt;Step 2: Make a Cold Flat White&lt;/h3&gt;
 
@@ -577,15 +464,4 @@
 
 &lt;p&gt;That’s really all there is to it, enjoy!&lt;/p&gt;
 
-&lt;p&gt;I’m going to keep perfecting this: the next step is to increase the quality of the ingredients: really good freshly ground coffee, really good fresh organic milk, perhaps from Lewis Road Creamery, and real Maple Syrup (I must confess I’m currently using Maple Flavoured syrup). &lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 19 Oct 2014 00:00:00 +1300</pubDate>
-        <link>http://michael.dowse.co.nz/2014/10/19/cold-flat-white.html</link>
-        <guid isPermaLink="true">http://michael.dowse.co.nz/2014/10/19/cold-flat-white.html</guid>
-        
-        
-      </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;I’m going to keep perfecting this: the next step is to increase the quality of the ingredients: really good freshly ground coffee, really good fresh organic milk, perhaps from Lewis Road Creamery, and real Maple Syrup (I must confess I’m currently using Maple Flavoured syrup).&lt;/p&gt;</content><author><name></name></author><summary type="html">Last year the Iced Mocha was my drink; a cold coffee with chocolate, and either ice cream or ice. Some would say it’s not a real coffee, I say it’s delicious.</summary></entry></feed>

@@ -45,7 +45,7 @@ After lunch we walked a few more hours to our first campsite where we found our 
 
 > Our campsite for the night
 
-###Day 2: The mountain pass
+### Day 2: The mountain pass
 
 By the start of the second we'd learned everyone's names. Noah and Amanda from Washington, both mathematicians working for the government. Luke, a murse (male nurse) and Keegan (a doctor) from Minnesota. Lauren and Julie, both therapists from New York.
 

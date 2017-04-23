@@ -10,7 +10,9 @@ url: "http://michael.dowse.co.nz" # the base hostname & protocol for your site
 twitter_username: michaeldowse
 github_username:  michaeldowse
 paginate: 8
-
+gems:
+  - jekyll-feed
+  - jekyll-paginate
 
 # Build settings
 markdown: kramdown
