@@ -8,6 +8,162 @@ slug: "books"
 <p>Here are some books I've enjoyed. If you like, you can <a href="mailto:books@michaeldowse.name">recommend a book to me</a>.</p>
 <br>
 
+### 2017
+
+<div class="book">
+  <img src="/images/books/what_got_you_here.jpg" />
+  <div class="summary">
+    <h2>What got you here won't get you there</h2>
+    <blockquote>Marshall Goldsmith</blockquote>
+    <p>This is basically a book about fundamental attribution bias in the workplace. The author is an executive coach claiming that we all have traits that we think we are succeeding because of, but actually are succeeding in spite of. He then drills down into what these traits commonly are and how to go about changing our behaviour for the better.</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/seveneves.jpg" />
+  <div class="summary">
+    <h2>Seveneves</h2>
+    <blockquote>Neal Stephenson</blockquote>
+    <p>It's clear by now that I'll probably enjoy anything Neal Stephenson writes...</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/norwegian_wood.jpg" />
+  <div class="summary">
+    <h2>Norwegian Wood</h2>
+    <blockquote>Haruki Murakami</blockquote>
+    <p>Murakami has been on my list forever and after discussing his works with my brother I finally got around to reading one. I'm now contemplating which to read next.</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/diamond_age.jpg" />
+  <div class="summary">
+    <h2>The Diamond Age</h2>
+    <blockquote>Neal Stephenson</blockquote>
+    <p>I enjoyed this even more than Snow Crash, but I'm not sure if that's just because I have a daughter.</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/101_things_architecture.jpg" />
+  <div class="summary">
+    <h2>101 Things I Learned In Architecture School</h2>
+    <blockquote>Matthew Frederick</blockquote>
+    <p>More literal prep for architecture. A short, efficient read. A lot easier than going to architecture school (I dropped out).</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/the_managers_path.jpg" />
+  <div class="summary">
+    <h2>The Manager's Path</h2>
+    <blockquote>Camille Fournier</blockquote>
+    <p>A very practical look at the life of a manager in the software industry.</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/timeless_way_of_building.jpg" />
+  <div class="summary">
+    <h2>The timeless way of building</h2>
+    <blockquote>Christopher Alexander</blockquote>
+    <p>I briefly enrolled in architecture school and did a bunch of reading in preparation, not that Christopher Alexander agrees with the approach taught in architecture school at all. Every book about (building) architecture I read seems to give me more ideas on perspectives on software architecture.</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/stories_of_your_life.jpg" />
+  <div class="summary">
+    <h2>Stories of your life and others</h2>
+    <blockquote>Ted Chiang</blockquote>
+    <p>The film Arrival was based on one of the short stories in this book. All the stories in here are great.</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/peopleware.jpg" />
+  <div class="summary">
+    <h2>Peopleware</h2>
+    <blockquote>Tom DeMarco & Timothy Lister</blockquote>
+    <p>I recently started doing less coding and more "not coding" at work so over the christmas break I started reading the literature on software management. This is the one book that is always recommended, and though some of the ideas come across as a bit dated, most of it is still highly applicable.</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/red_mars.jpg" />
+  <div class="summary">
+    <h2>Red Mars</h2>
+    <blockquote>Kim Stanley Robinson</blockquote>
+    <p>Slowly making my way through the Sci Fi classics. This was a great read, but not quite great enough for me to read the sequels at this stage.</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/marie_kondo.jpg" />
+  <div class="summary">
+    <h2>The Life-Changing Magic of Tidying</h2>
+    <blockquote>Marie Kondo</blockquote>
+    <p>I honestly did not realise that this book was a big deal. I heard it recommended by one person and started reading it. In the following weeks I started hearing it mentioned everywhere.</p>
+
+    <p>I really enjoyed it, but I am already a huge fan of minimalism and living in tidy, well organised spaces.</p>
+  </div>
+  <br>
+</div>
+
+### 2016
+
+<div class="book">
+  <img src="/images/books/snow_crash.jpg" />
+  <div class="summary">
+    <h2>Snow Crash</h2>
+    <blockquote>Neal Stephenson</blockquote>
+    <p>Neal Stephenson has been on my list to read for years and did not disappoint.</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/beacon_23.jpg" />
+  <div class="summary">
+    <h2>Beacon 23</h2>
+    <blockquote>Hugh Howey</blockquote>
+    <p>I read pretty much anything Hugh Howey writes. The range of his ideas continues to impress me.</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/creativity_inc.jpg" />
+  <div class="summary">
+    <h2>Creativity Inc.</h2>
+    <blockquote>Ed Catmull</blockquote>
+    <p>This is the book I would recommend to anyone trying to build products.</p>
+  </div>
+  <br>
+</div>
+
+<div class="book">
+  <img src="/images/books/deaths_end.jpg" />
+  <div class="summary">
+    <h2>Deaths End</h2>
+    <blockquote>Cixin Liu</blockquote>
+    <p>The final book in the Three Body Problem trilogy.</p>
+  </div>
+  <br>
+</div>
+
 <div class="book">
   <img src="/images/books/readyplayerone.jpg" />
   <div class="summary">
