@@ -16,6 +16,7 @@ slug: "books"
     <h2>What got you here won't get you there</h2>
     <blockquote>Marshall Goldsmith</blockquote>
     <p>This is basically a book about fundamental attribution bias in the workplace. The author is an executive coach claiming that we all have traits that we think we are succeeding because of, but actually are succeeding in spite of. He then drills down into what these traits commonly are and how to go about changing our behaviour for the better.</p>
+    <p><a href="https://www.amazon.com/What-Got-Here-Wont-There-ebook/dp/B000Q9J128">Kindle eBook</a></p>
   </div>
   <br>
 </div>
@@ -26,6 +27,7 @@ slug: "books"
     <h2>Seveneves</h2>
     <blockquote>Neal Stephenson</blockquote>
     <p>It's clear by now that I'll probably enjoy anything Neal Stephenson writes...</p>
+    <p><a href="https://www.amazon.com/Seveneves-Novel-Neal-Stephenson-ebook/dp/B00LZWV8JO">Kindle eBook</a></p>
   </div>
   <br>
 </div>
@@ -36,6 +38,7 @@ slug: "books"
     <h2>Norwegian Wood</h2>
     <blockquote>Haruki Murakami</blockquote>
     <p>Murakami has been on my list forever and after discussing his works with my brother I finally got around to reading one. I'm now contemplating which to read next.</p>
+    <p><a href="https://www.amazon.com/Norwegian-Vintage-International-Haruki-Murakami-ebook/dp/B003XT603Q">Kindle eBook</a></p>
   </div>
   <br>
 </div>
@@ -46,6 +49,7 @@ slug: "books"
     <h2>The Diamond Age</h2>
     <blockquote>Neal Stephenson</blockquote>
     <p>I enjoyed this even more than Snow Crash, but I'm not sure if that's just because I have a daughter.</p>
+    <p><a href="https://www.amazon.com/Diamond-Age-Bantam-Spectra-Book-ebook/dp/B000FBJCKI">Kindle eBook</a></p>
   </div>
   <br>
 </div>
@@ -56,6 +60,7 @@ slug: "books"
     <h2>101 Things I Learned In Architecture School</h2>
     <blockquote>Matthew Frederick</blockquote>
     <p>More literal prep for architecture. A short, efficient read. A lot easier than going to architecture school (I dropped out).</p>
+    <p><a href="https://www.bookdepository.com/101-Things-I-Learned-Architecture-School-Matthew-Frederick/9780262062664">Book Depository (really needs to be a physical copy)</a></p>
   </div>
   <br>
 </div>
@@ -66,6 +71,7 @@ slug: "books"
     <h2>The Manager's Path</h2>
     <blockquote>Camille Fournier</blockquote>
     <p>A very practical look at the life of a manager in the software industry.</p>
+    <p><a href="https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F">Kindle eBook</a></p>
   </div>
   <br>
 </div>
@@ -76,6 +82,7 @@ slug: "books"
     <h2>The timeless way of building</h2>
     <blockquote>Christopher Alexander</blockquote>
     <p>I briefly enrolled in architecture school and did a bunch of reading in preparation, not that Christopher Alexander agrees with the approach taught in architecture school at all. Every book about (building) architecture I read seems to give me more ideas on perspectives on software architecture.</p>
+    <p><a href="#">I got this from the library because there are pictures</a></p>
   </div>
   <br>
 </div>
@@ -86,6 +93,7 @@ slug: "books"
     <h2>Stories of your life and others</h2>
     <blockquote>Ted Chiang</blockquote>
     <p>The film Arrival was based on one of the short stories in this book. All the stories in here are great.</p>
+    <p><a href="https://www.amazon.com/Stories-Your-Life-Others-Chiang-ebook/dp/B0048EKOP0">Kindle eBook</a></p>
   </div>
   <br>
 </div>
@@ -96,6 +104,7 @@ slug: "books"
     <h2>Peopleware</h2>
     <blockquote>Tom DeMarco & Timothy Lister</blockquote>
     <p>I recently started doing less coding and more "not coding" at work so over the christmas break I started reading the literature on software management. This is the one book that is always recommended, and though some of the ideas come across as a bit dated, most of it is still highly applicable.</p>
+    <p><a href="https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook/dp/B00DY5A8X2">Kindle eBook</a></p>
   </div>
   <br>
 </div>
@@ -106,6 +115,7 @@ slug: "books"
     <h2>Red Mars</h2>
     <blockquote>Kim Stanley Robinson</blockquote>
     <p>Slowly making my way through the Sci Fi classics. This was a great read, but not quite great enough for me to read the sequels at this stage.</p>
+    <p><a href="https://www.amazon.com/Red-Mars-Trilogy-Book-ebook/dp/B000QCS914">Kindle eBook</a></p>
   </div>
   <br>
 </div>
@@ -113,11 +123,11 @@ slug: "books"
 <div class="book">
   <img src="/images/books/marie_kondo.jpg" />
   <div class="summary">
-    <h2>The Life-Changing Magic of Tidying</h2>
+    <h2>The Life-Changing Magic of Tidying Up</h2>
     <blockquote>Marie Kondo</blockquote>
     <p>I honestly did not realise that this book was a big deal. I heard it recommended by one person and started reading it. In the following weeks I started hearing it mentioned everywhere.</p>
-
     <p>I really enjoyed it, but I am already a huge fan of minimalism and living in tidy, well organised spaces.</p>
+    <p><a href="https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing-ebook/dp/B00KK0PICK">Kindle eBook</a></p>
   </div>
   <br>
 </div>
