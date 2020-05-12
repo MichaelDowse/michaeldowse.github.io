@@ -89,8 +89,9 @@ blockquote p, p.caption {
 h2, h2 a {
   color: #191919;
   margin-top: 0px;
-  font-size: 36px;
+  font-size: 38px;
   text-decoration: none;
+  font-weight: normal;
 }
 
 h3 {
@@ -110,8 +111,8 @@ hr {
   margin-bottom: 150px;
 }
 .post-meta {
-  color: #999;
-  font-size: 15px;
+  color: #777;
+  font-size: 18px;
 }
 pre {
   margin: 30px 0px 30px 0px;
@@ -121,16 +122,16 @@ pre {
 }
 
 p, li {
-  font-size: 19px;
+  font-size: 21px;
   line-height: 32px;
 }
 
-p a, .pagination a, footer a, li a, h3 a {
+p a, .pagination a, footer a, li a, h3 a, .blockquote a {
   color: #191919;
   text-decoration: none;
   border-bottom: 3px solid #e7e7e7;
 }
-p a:hover, .pagination a:hover, footer a:hover, li a:hover, h3 a:hover {
+p a:hover, .pagination a:hover, footer a:hover, li a:hover, h3 a:hover, .blockquote a:hover {
   border-bottom: 3px solid #F66; /*#009F50;*/
 }
 
@@ -169,11 +170,11 @@ header {
   color: #191919;
   text-align: center;
   font-weight: bold;
-  height: 70px;
-  line-height: 70px;
-  font-size: 26px;
-  border-bottom: 3px solid #e7e7e7;
-  background-color: #F4F4F4; /*#eee;*/
+  height: 100px;
+  line-height: 100px;
+  font-size: 32px;
+  border-bottom: 3px solid #F66; /*#e7e7e7;*/
+  background-color: #F66; /*# #F4F4F4*/
 }
 header a {
   color: #191919;

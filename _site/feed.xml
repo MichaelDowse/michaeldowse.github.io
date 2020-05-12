@@ -1,5 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://michael.dowse.co.nz/feed.xml" rel="self" type="application/atom+xml" /><link href="http://michael.dowse.co.nz/" rel="alternate" type="text/html" /><updated>2017-08-23T22:06:49+12:00</updated><id>http://michael.dowse.co.nz/</id><title type="html">Michael Dowse</title><subtitle>Software Developer, reader, and occasional blogger. Founder of Go Vocab. Born and raised in Wellington, New Zealand.
-</subtitle><entry><title type="html">Decoupling isn’t just for developers</title><link href="http://michael.dowse.co.nz/2017/04/23/decoupling.html" rel="alternate" type="text/html" title="Decoupling isn't just for developers" /><published>2017-04-23T00:00:00+12:00</published><updated>2017-04-23T00:00:00+12:00</updated><id>http://michael.dowse.co.nz/2017/04/23/decoupling</id><content type="html" xml:base="http://michael.dowse.co.nz/2017/04/23/decoupling.html">&lt;p&gt;A while ago I read this article: &lt;a href=&quot;https://hackernoon.com/complexity-and-strategy-325cd7f59a92&quot;&gt;Complexity and Strategy&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-12T23:48:22+12:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Michael Dowse</title><subtitle>Software Developer, reader, and occasional blogger. Founder of Go Vocab. Born and raised in Wellington, New Zealand.
+</subtitle><entry><title type="html">My dishwasher broke and I tried to fix it</title><link href="http://localhost:4000/2020/05/11/i-tried-to-repair-my-dishwasher.html" rel="alternate" type="text/html" title="My dishwasher broke and I tried to fix it" /><published>2020-05-11T00:00:00+12:00</published><updated>2020-05-11T00:00:00+12:00</updated><id>http://localhost:4000/2020/05/11/i-tried-to-repair-my-dishwasher</id><content type="html" xml:base="http://localhost:4000/2020/05/11/i-tried-to-repair-my-dishwasher.html">&lt;p&gt;I’ve been handwashing dishes for a couple of weeks now. In the corner of my kitchen where the dishwasher should be sits a yawning gap in the cabinetry, and somehow it all started with fibre.&lt;/p&gt;
+
+&lt;p&gt;I didn’t really need faster internet, but I couldn’t resist getting upgrading my home ADSL connection to fibre. The ONT (fibre termination point) was installed in the kitchen so I moved the router to the new location but then reception in the bedrooms was not good.&lt;/p&gt;
+
+&lt;p&gt;So I took a drill to the kitchen cabinetry and ran an Cat 6 ethernet cable through the side of the bench. I dragged the dishwasher from where it’s been ensconced safely under the bench for many years and ran the cable behind, then around the front of the cabinets and up to the top of the fridge. The router was now within 1 metre of the geometric center of the house and reception in the bedrooms improved.&lt;/p&gt;
+
+&lt;p&gt;A few days later the dishwasher stopped working.&lt;/p&gt;
+
+&lt;p&gt;I pressed the same button that I press every day but instead of making watery dishwashery sounds it just beeped twice back at me. I turned it off, and then on again. Beep beep. I turned it off, took twenty minutes to make dinner and then turned it back on. Beep beep.&lt;/p&gt;
+
+&lt;p&gt;I found the manual buried deep in the back of the pot cupboard and read it cover to cover. There were only a couple of pages on troubleshooting, focusing on how to interpret the multitude of error codes which the dishwasher could display through the lights on its control panel. There are 10 lights and each can be either on or off, not dissimilar to binary code. Fortunately only twelve potential errors were described rather than the one thousand and twenty four possible combinations of lights being on or off.&lt;/p&gt;
+
+&lt;p&gt;The lights looked the same to me as they always did and they didn’t resemble any of the error codes described in the manual. Besides, it was beeping at me. I read it again but the manual didn’t say anything about beeping.&lt;/p&gt;
+
+&lt;p&gt;I started looking online. Being a moderately practical person I was feeling confident that if I could just figure out what was going wrong then I would be able to fix it myself. Perhaps there would be a five minute Youtube video explaining exactly what to do.&lt;/p&gt;
+
+&lt;p&gt;I didn’t find anything on YouTube and the manufacturers site didn’t contain any further information beyond what’s in the manual. There were message boards though, lots of message boards filled with descriptions of dishwashers not working in every way you can imagine them not working. Especially beeping. There were lots of threads about dishwashers not washing dishes, just beeping.&lt;/p&gt;
+
+&lt;p&gt;Most of these threads received not response at all. The internet can be a busy town square filled with crowds of people heaving with humanity but it can also be incredibly quiet and empty. That’s how these threads tended to feel; just descriptions of broken dishwashers shouted into the vast emptiness.&lt;/p&gt;
+
+&lt;p&gt;The only time these pages ever get seen is when they’re dredged up from the depths of these message boards to be shown to another poor soul experiencing the exact same situation. In this case that was me.&lt;/p&gt;
+
+&lt;p&gt;Two hours later while diligently reading an article titled “8 reasons your dishwasher may be beeping at you” I came to the frustrating realisation that identifying the problem with my dishwasher was beyond my capabilities, let alone repairing it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The next day I called the number on the manual, provided by the dishwasher manufacturer for these kinds of situations. The warranty which covers the first two years had long expired, though still, less than ten years had passed. Surely a dishwasher should last ten years?&lt;/p&gt;
+
+&lt;p&gt;They said they’d send someone out later in the week.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A couple of days later a man turned up to look at my dishwasher. He fiddled with it for a few minutes before announcing “It’s a really strange one. It should be at least trying to start the pump, but it just beeps.”&lt;/p&gt;
+
+&lt;p&gt;I concurred, “So whats next”.&lt;/p&gt;
+
+&lt;p&gt;“I can take it back to my workshop”&lt;/p&gt;
+
+&lt;p&gt;“How much will that cost”&lt;/p&gt;
+
+&lt;p&gt;“Worst case, if it’s in the electronics we’ll have to replace the whole control panel, they cost four hundred, maybe five fundred bucks”.&lt;/p&gt;
+
+&lt;p&gt;I tapped “Bunnings dishwasher” into my phone. You can buy a new one for four hundred and sixty nine bucks. It’s better to repair what you’ve got though, right?&lt;/p&gt;
+
+&lt;p&gt;“Let’s do it”&lt;/p&gt;
+
+&lt;p&gt;“I’ll get the guys to come pick it up in the truck next week, and that’ll be one hundred and eight dollars for the callout fee for today”.&lt;/p&gt;
+
+&lt;p&gt;As I pulled my wallet from my pocket I mentally added one hundred and eight dollars to five hundred bucks. More than the cost of a new dishwasher.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;That night I was on the phone to my dad and mentioned my diswasher situation.&lt;/p&gt;
+
+&lt;p&gt;“Do you run it on eco mode”&lt;/p&gt;
+
+&lt;p&gt;“Yes, I always run it on eco mode”&lt;/p&gt;
+
+&lt;p&gt;“I always run it on fast wash which only takes thirty minutes. I have a theory that eco mode places more wear and tear on the machine because it runs longer”.&lt;/p&gt;
+
+&lt;p&gt;I thought about this for a minute. Eco wash cycles do take longer to run than normal cycles, and a lot longer to run than fast, or express cycles. In return they claim to use less water and electricity. This needs to be balanced against the wear and tear on the machine, since there’s no point saving a few kilowatts of electricity if the machine itself then lasts half as long.&lt;/p&gt;
+
+&lt;p&gt;Surely the manufacturers are across this I thought as I tapped “Should I use eco mode dishwasher” into my phone.&lt;/p&gt;
+
+&lt;p&gt;The US based Energy Star program introduced the current set of standards most dishwashers conform to, coming into effect in 2012. These standards limit the amount of water and electricity dishwashers can use in normal modes. Eco mode goes even further, minimising as much as possible the water and electricity usage without compromising on cleaning power. Fast mode gets to play fast and loose with the rules, it can use as much water and electricity as it likes in pursuit of a shorter cycle time.&lt;/p&gt;
+
+&lt;p&gt;If it seems counter-intuitive that running a dishwasher for longer can use less electricity then that’s because it is. It works because the electricity required to run the pump is minor compared to the electricity required to heat water, and a cycle that runs for longer can do so using water heated to a lower temperature.&lt;/p&gt;
+
+&lt;p&gt;Putting aside electicity usage though, running the pump for three times as long must shorten the life of the pump accordingly. Nonetheless my google search produced a pretty clear consensus: If you care about the environment then you should use eco mode. If eco mode is a conspiracy, it’s a deeply hidden one.&lt;/p&gt;
+
+&lt;p&gt;As an aside, you may by now be thinking; Michael, if you care so much about this why don’t you wash dishes by hand. Having spent some time reading up on the topic I am now able to cite you a 2004 study that compared hand washing to dishwashers and found that:&lt;/p&gt;
+
+&lt;div class=&quot;blockquote&quot;&gt;
+If you can afford an automatic dishwasher, use one—preferably a new one. A full, energy-efficient dishwasher cleans best and has the lowest environmental impact of any method. - &lt;a href=&quot;http://www.homeenergy.org/show/article/page/9/id/180&quot;&gt;http://www.homeenergy.org/show/article/page/9/id/180&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Anyway.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Four days later two more men and a large truck turned up. I’d spent the last 10 minutes frantically clearing a path wide enough for a dishwasher through the layer of toys and abandoned artworks that covered the floor of the hallway.&lt;/p&gt;
+
+&lt;p&gt;It only took them ten minues to manhandle the dishwasher out of it’s home under the sink, down the stairs and out to their truck. Then they were gone.&lt;/p&gt;
+
+&lt;p&gt;As the truck reversed down the driveway, I started on the pile of dishes by the sink.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;https://www.timescolonist.com/opinion/why-newer-dishwashers-run-for-an-alarmingly-long-time-1.2179982&lt;/p&gt;</content><author><name></name></author><summary type="html">I’ve been handwashing dishes for a couple of weeks now. In the corner of my kitchen where the dishwasher should be sits a yawning gap in the cabinetry, and somehow it all started with fibre.</summary></entry><entry><title type="html">Decoupling isn’t just for developers</title><link href="http://localhost:4000/2017/04/23/decoupling.html" rel="alternate" type="text/html" title="Decoupling isn't just for developers" /><published>2017-04-23T00:00:00+12:00</published><updated>2017-04-23T00:00:00+12:00</updated><id>http://localhost:4000/2017/04/23/decoupling</id><content type="html" xml:base="http://localhost:4000/2017/04/23/decoupling.html">&lt;p&gt;A while ago I read this article: &lt;a href=&quot;https://hackernoon.com/complexity-and-strategy-325cd7f59a92&quot;&gt;Complexity and Strategy&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I highly recommend reading it. It’s much better than any of my blog posts.&lt;/p&gt;
 
@@ -48,7 +136,7 @@
 
 &lt;p&gt;Complex interactions between features can make it harder for users to understand how the product works, and are guaranteed to slow down development of new features.&lt;/p&gt;
 
-&lt;p&gt;With that in mind, let us go forth and make trade-offs.&lt;/p&gt;</content><author><name></name></author><summary type="html">A while ago I read this article: Complexity and Strategy</summary></entry><entry><title type="html">Design cycles</title><link href="http://michael.dowse.co.nz/2017/02/27/design-cycles.html" rel="alternate" type="text/html" title="Design cycles" /><published>2017-02-27T00:00:00+13:00</published><updated>2017-02-27T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2017/02/27/design-cycles</id><content type="html" xml:base="http://michael.dowse.co.nz/2017/02/27/design-cycles.html">&lt;p&gt;You are a startup. You know design is important. It’s so important that you hire a super talented designer to make sure everything you make is beautiful.&lt;/p&gt;
+&lt;p&gt;With that in mind, let us go forth and make trade-offs.&lt;/p&gt;</content><author><name></name></author><summary type="html">A while ago I read this article: Complexity and Strategy</summary></entry><entry><title type="html">Design cycles</title><link href="http://localhost:4000/2017/02/27/design-cycles.html" rel="alternate" type="text/html" title="Design cycles" /><published>2017-02-27T00:00:00+13:00</published><updated>2017-02-27T00:00:00+13:00</updated><id>http://localhost:4000/2017/02/27/design-cycles</id><content type="html" xml:base="http://localhost:4000/2017/02/27/design-cycles.html">&lt;p&gt;You are a startup. You know design is important. It’s so important that you hire a super talented designer to make sure everything you make is beautiful.&lt;/p&gt;
 
 &lt;p&gt;Your designer produces a beautiful new design for your homepage which they predict will boost conversions. You need conversions. You are losing money. You get a developer onto it straight away.&lt;/p&gt;
 
@@ -122,7 +210,7 @@
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Update designs by default:&lt;/strong&gt; When working on an interface, never leave a interface without updating the design.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">You are a startup. You know design is important. It’s so important that you hire a super talented designer to make sure everything you make is beautiful.</summary></entry><entry><title type="html">Money</title><link href="http://michael.dowse.co.nz/2016/08/19/money.html" rel="alternate" type="text/html" title="Money" /><published>2016-08-19T00:00:00+12:00</published><updated>2016-08-19T00:00:00+12:00</updated><id>http://michael.dowse.co.nz/2016/08/19/money</id><content type="html" xml:base="http://michael.dowse.co.nz/2016/08/19/money.html">&lt;p&gt;&lt;strong&gt;In a capitalist society a dollar is a vote.&lt;/strong&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">You are a startup. You know design is important. It’s so important that you hire a super talented designer to make sure everything you make is beautiful.</summary></entry><entry><title type="html">Money</title><link href="http://localhost:4000/2016/08/19/money.html" rel="alternate" type="text/html" title="Money" /><published>2016-08-19T00:00:00+12:00</published><updated>2016-08-19T00:00:00+12:00</updated><id>http://localhost:4000/2016/08/19/money</id><content type="html" xml:base="http://localhost:4000/2016/08/19/money.html">&lt;p&gt;&lt;strong&gt;In a capitalist society a dollar is a vote.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;If we have the luxury of choosing then the way we choose to spend out money is an expression of our values is an expression of our values. Intentionally or not.&lt;/p&gt;
 
@@ -256,7 +344,7 @@
 &lt;p&gt;I’m hoping that as I make decisions on certain products (e.g. where to buy coffee) that don’t need to be repeated the percentage of conscious spending will increase. That’s the theory at least.&lt;/p&gt;
 
 &lt;p class=&quot;caption&quot;&gt;[1] Highly underestimated as I often have a prepaid coffee card&lt;/p&gt;
-&lt;p class=&quot;caption&quot;&gt;[2] This is just my personal spending which is far outweighed by household spending&lt;/p&gt;</content><author><name></name></author><summary type="html">In a capitalist society a dollar is a vote.</summary></entry><entry><title type="html">Tasty</title><link href="http://michael.dowse.co.nz/2016/04/17/tasty.html" rel="alternate" type="text/html" title="Tasty" /><published>2016-04-17T00:00:00+12:00</published><updated>2016-04-17T00:00:00+12:00</updated><id>http://michael.dowse.co.nz/2016/04/17/tasty</id><content type="html" xml:base="http://michael.dowse.co.nz/2016/04/17/tasty.html">&lt;p&gt;If you use Facebook, you’ve probably noticed the recipe videos from &lt;a href=&quot;https://www.facebook.com/buzzfeedtasty/?fref=ts&quot;&gt;Tasty&lt;/a&gt; frequently featuring on your news feed. They’re everywhere right now.&lt;/p&gt;
+&lt;p class=&quot;caption&quot;&gt;[2] This is just my personal spending which is far outweighed by household spending&lt;/p&gt;</content><author><name></name></author><summary type="html">In a capitalist society a dollar is a vote.</summary></entry><entry><title type="html">Tasty</title><link href="http://localhost:4000/2016/04/17/tasty.html" rel="alternate" type="text/html" title="Tasty" /><published>2016-04-17T00:00:00+12:00</published><updated>2016-04-17T00:00:00+12:00</updated><id>http://localhost:4000/2016/04/17/tasty</id><content type="html" xml:base="http://localhost:4000/2016/04/17/tasty.html">&lt;p&gt;If you use Facebook, you’ve probably noticed the recipe videos from &lt;a href=&quot;https://www.facebook.com/buzzfeedtasty/?fref=ts&quot;&gt;Tasty&lt;/a&gt; frequently featuring on your news feed. They’re everywhere right now.&lt;/p&gt;
 
 &lt;p&gt;To go viral on Facebook a video needs to catch your attention, without any sound, while you’re scrolling through the news feed. The Tasty videos do that, I stop scrolling every time. Here’s one for example:&lt;/p&gt;
 
@@ -288,7 +376,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbuzzfeedtasty%2Fvideos%2F1741588772760431%2F&amp;amp;show_text=1&amp;amp;width=560&quot; width=&quot;560&quot; height=&quot;425&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><summary type="html">If you use Facebook, you’ve probably noticed the recipe videos from Tasty frequently featuring on your news feed. They’re everywhere right now.</summary></entry><entry><title type="html">Choosing a Socially Responsible Kiwisaver Scheme</title><link href="http://michael.dowse.co.nz/2016/03/10/kiwisaver.html" rel="alternate" type="text/html" title="Choosing a Socially Responsible Kiwisaver Scheme" /><published>2016-03-10T00:00:00+13:00</published><updated>2016-03-10T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2016/03/10/kiwisaver</id><content type="html" xml:base="http://michael.dowse.co.nz/2016/03/10/kiwisaver.html">&lt;p&gt;I recently found myself making significant contributions to Kiwisaver for the first time so I decided to put an appropriate amount of effort into choosing the best Kiwisaver scheme.&lt;/p&gt;
+&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbuzzfeedtasty%2Fvideos%2F1741588772760431%2F&amp;amp;show_text=1&amp;amp;width=560&quot; width=&quot;560&quot; height=&quot;425&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><summary type="html">If you use Facebook, you’ve probably noticed the recipe videos from Tasty frequently featuring on your news feed. They’re everywhere right now.</summary></entry><entry><title type="html">Choosing a Socially Responsible Kiwisaver Scheme</title><link href="http://localhost:4000/2016/03/10/kiwisaver.html" rel="alternate" type="text/html" title="Choosing a Socially Responsible Kiwisaver Scheme" /><published>2016-03-10T00:00:00+13:00</published><updated>2016-03-10T00:00:00+13:00</updated><id>http://localhost:4000/2016/03/10/kiwisaver</id><content type="html" xml:base="http://localhost:4000/2016/03/10/kiwisaver.html">&lt;p&gt;I recently found myself making significant contributions to Kiwisaver for the first time so I decided to put an appropriate amount of effort into choosing the best Kiwisaver scheme.&lt;/p&gt;
 
 &lt;p&gt;With all my spending, I try to follow Ghandi’s &lt;a href=&quot;http://www.nytimes.com/2011/08/30/opinion/falser-words-were-never-spoken.html?_r=0&quot;&gt;misquoted&lt;/a&gt; advice:&lt;/p&gt;
 
@@ -354,7 +442,7 @@
 
 &lt;p&gt;There are other options. Craigs offers &lt;a href=&quot;https://www.craigsip.com/services/kiwisaver.aspx&quot;&gt;a scheme where you can pick your own stocks&lt;/a&gt;, and there may be other schemes which invest in a responsible manner but don’t explicitly flag that as their intention.&lt;/p&gt;
 
-&lt;p&gt;Looking purely at social responsibility it seems like the &lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/grosvenor-kiwisaver-scheme---socially-responsible-investment-fund-grosvenor-investment-management-limited/&quot;&gt;Socially Responsible Investment Growth Fund&lt;/a&gt; is the best option, but I will be following up some of the others for more details of their investment criteria. There are other factors to consider of course, such as risk profile, returns, and fees.&lt;/p&gt;</content><author><name></name></author><summary type="html">I recently found myself making significant contributions to Kiwisaver for the first time so I decided to put an appropriate amount of effort into choosing the best Kiwisaver scheme.</summary></entry><entry><title type="html">New Plymouth</title><link href="http://michael.dowse.co.nz/2015/12/19/new-plymouth.html" rel="alternate" type="text/html" title="New Plymouth" /><published>2015-12-19T00:00:00+13:00</published><updated>2015-12-19T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2015/12/19/new-plymouth</id><content type="html" xml:base="http://michael.dowse.co.nz/2015/12/19/new-plymouth.html">&lt;p&gt;New Plymouth is a lot cooler than it used to be. Som and I headed up there for the weekend a few months ago. In no particular order, some highlights were:&lt;/p&gt;
+&lt;p&gt;Looking purely at social responsibility it seems like the &lt;a href=&quot;http://fundfinder.sorted.org.nz/fund/grosvenor-kiwisaver-scheme---socially-responsible-investment-fund-grosvenor-investment-management-limited/&quot;&gt;Socially Responsible Investment Growth Fund&lt;/a&gt; is the best option, but I will be following up some of the others for more details of their investment criteria. There are other factors to consider of course, such as risk profile, returns, and fees.&lt;/p&gt;</content><author><name></name></author><summary type="html">I recently found myself making significant contributions to Kiwisaver for the first time so I decided to put an appropriate amount of effort into choosing the best Kiwisaver scheme.</summary></entry><entry><title type="html">New Plymouth</title><link href="http://localhost:4000/2015/12/19/new-plymouth.html" rel="alternate" type="text/html" title="New Plymouth" /><published>2015-12-19T00:00:00+13:00</published><updated>2015-12-19T00:00:00+13:00</updated><id>http://localhost:4000/2015/12/19/new-plymouth</id><content type="html" xml:base="http://localhost:4000/2015/12/19/new-plymouth.html">&lt;p&gt;New Plymouth is a lot cooler than it used to be. Som and I headed up there for the weekend a few months ago. In no particular order, some highlights were:&lt;/p&gt;
 
 &lt;h3 id=&quot;the-coastal-walkway&quot;&gt;The coastal walkway&lt;/h3&gt;
 
@@ -388,7 +476,7 @@
   &lt;li&gt;For dinner, head to &lt;a href=&quot;https://www.facebook.com/PEKAREN-696952050381686/&quot;&gt;Pekaren&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Bonus:&lt;/strong&gt; Our AirBnB host was a nudist with a house full of &lt;em&gt;interesting&lt;/em&gt; artwork, though the wall to wall mirrors in the shower were a little intimidating.&lt;/p&gt;</content><author><name></name></author><summary type="html">New Plymouth is a lot cooler than it used to be. Som and I headed up there for the weekend a few months ago. In no particular order, some highlights were:</summary></entry><entry><title type="html">Rules of the blog</title><link href="http://michael.dowse.co.nz/2015/12/19/blogging-goals.html" rel="alternate" type="text/html" title="Rules of the blog" /><published>2015-12-19T00:00:00+13:00</published><updated>2015-12-19T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2015/12/19/blogging-goals</id><content type="html" xml:base="http://michael.dowse.co.nz/2015/12/19/blogging-goals.html">&lt;p&gt;I’ve always struggled with blogging. I want to do it, I have things that I want to share. But it always happens in bursts, a few good posts create a high bar for future posts, which get half written but never published.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bonus:&lt;/strong&gt; Our AirBnB host was a nudist with a house full of &lt;em&gt;interesting&lt;/em&gt; artwork, though the wall to wall mirrors in the shower were a little intimidating.&lt;/p&gt;</content><author><name></name></author><summary type="html">New Plymouth is a lot cooler than it used to be. Som and I headed up there for the weekend a few months ago. In no particular order, some highlights were:</summary></entry><entry><title type="html">Rules of the blog</title><link href="http://localhost:4000/2015/12/19/blogging-goals.html" rel="alternate" type="text/html" title="Rules of the blog" /><published>2015-12-19T00:00:00+13:00</published><updated>2015-12-19T00:00:00+13:00</updated><id>http://localhost:4000/2015/12/19/blogging-goals</id><content type="html" xml:base="http://localhost:4000/2015/12/19/blogging-goals.html">&lt;p&gt;I’ve always struggled with blogging. I want to do it, I have things that I want to share. But it always happens in bursts, a few good posts create a high bar for future posts, which get half written but never published.&lt;/p&gt;
 
 &lt;p&gt;Mostly I agonise over what I should be blogging about. Should I post my travel pictures? Should I be posting my own introspections? Or should I be posting my commentary on things? To help reduce my future agonising I’ve come up with two rules for this blog:&lt;/p&gt;
 
@@ -402,7 +490,7 @@
 
 &lt;p&gt;These two rules don’t eliminate any of the post types I described above: I can, and will, still post travel pictures, introspections, and commentary.&lt;/p&gt;
 
-&lt;p&gt;Let’s see how long this burst lasts.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’ve always struggled with blogging. I want to do it, I have things that I want to share. But it always happens in bursts, a few good posts create a high bar for future posts, which get half written but never published.</summary></entry><entry><title type="html">Mt Ruapehu</title><link href="http://michael.dowse.co.nz/2015/07/27/mt-ruapehu.html" rel="alternate" type="text/html" title="Mt Ruapehu" /><published>2015-07-27T00:00:00+12:00</published><updated>2015-07-27T00:00:00+12:00</updated><id>http://michael.dowse.co.nz/2015/07/27/mt-ruapehu</id><content type="html" xml:base="http://michael.dowse.co.nz/2015/07/27/mt-ruapehu.html">&lt;p&gt;We caught the train up to Mt Ruapehu on the weekend and caught the chairlift up to the new Knoll Ridge Cafe which is a very cool building (and has won at least one architecture award).&lt;/p&gt;
+&lt;p&gt;Let’s see how long this burst lasts.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’ve always struggled with blogging. I want to do it, I have things that I want to share. But it always happens in bursts, a few good posts create a high bar for future posts, which get half written but never published.</summary></entry><entry><title type="html">Mt Ruapehu</title><link href="http://localhost:4000/2015/07/27/mt-ruapehu.html" rel="alternate" type="text/html" title="Mt Ruapehu" /><published>2015-07-27T00:00:00+12:00</published><updated>2015-07-27T00:00:00+12:00</updated><id>http://localhost:4000/2015/07/27/mt-ruapehu</id><content type="html" xml:base="http://localhost:4000/2015/07/27/mt-ruapehu.html">&lt;p&gt;We caught the train up to Mt Ruapehu on the weekend and caught the chairlift up to the new Knoll Ridge Cafe which is a very cool building (and has won at least one architecture award).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/ruapehu/cafe-wide.jpg&quot; alt=&quot;Knoll Ridge Cafe&quot; /&gt;&lt;/p&gt;
 
@@ -426,7 +514,7 @@
 
 &lt;blockquote&gt;
   &lt;p&gt;The view&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">We caught the train up to Mt Ruapehu on the weekend and caught the chairlift up to the new Knoll Ridge Cafe which is a very cool building (and has won at least one architecture award).</summary></entry><entry><title type="html">Lemon Curd</title><link href="http://michael.dowse.co.nz/2014/11/02/lemon-curd.html" rel="alternate" type="text/html" title="Lemon Curd" /><published>2014-11-02T00:00:00+13:00</published><updated>2014-11-02T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2014/11/02/lemon-curd</id><content type="html" xml:base="http://michael.dowse.co.nz/2014/11/02/lemon-curd.html">&lt;p&gt;At the end of last year my friend Joel introduced me to Lemon Curd, or more specifally, to Lemon Curd on toast. I’d had lemon curd before, it’s commonly used in desserts, but using it as a breakfast spread was new to me, and I liked it.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">We caught the train up to Mt Ruapehu on the weekend and caught the chairlift up to the new Knoll Ridge Cafe which is a very cool building (and has won at least one architecture award).</summary></entry><entry><title type="html">Lemon Curd</title><link href="http://localhost:4000/2014/11/02/lemon-curd.html" rel="alternate" type="text/html" title="Lemon Curd" /><published>2014-11-02T00:00:00+13:00</published><updated>2014-11-02T00:00:00+13:00</updated><id>http://localhost:4000/2014/11/02/lemon-curd</id><content type="html" xml:base="http://localhost:4000/2014/11/02/lemon-curd.html">&lt;p&gt;At the end of last year my friend Joel introduced me to Lemon Curd, or more specifally, to Lemon Curd on toast. I’d had lemon curd before, it’s commonly used in desserts, but using it as a breakfast spread was new to me, and I liked it.&lt;/p&gt;
 
 &lt;p&gt;So… I tried making Lemon Curd myself (sorry, this is turning into a cooking blog). I used the recipe provided by Joel which is as follows:&lt;/p&gt;
 
@@ -456,25 +544,4 @@
   &lt;p&gt;There’s lemon zest somewhere underneath all that sugar&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;It turned out pretty well! Ideally it would have been a bit thicker (I didn’t really have the patience for stirring slowly over a very low heat for too long), but the taste is just right.&lt;/p&gt;</content><author><name></name></author><summary type="html">At the end of last year my friend Joel introduced me to Lemon Curd, or more specifally, to Lemon Curd on toast. I’d had lemon curd before, it’s commonly used in desserts, but using it as a breakfast spread was new to me, and I liked it.</summary></entry><entry><title type="html">Stuff by RSS</title><link href="http://michael.dowse.co.nz/2014/10/26/stuff-by-rss.html" rel="alternate" type="text/html" title="Stuff by RSS" /><published>2014-10-26T00:00:00+13:00</published><updated>2014-10-26T00:00:00+13:00</updated><id>http://michael.dowse.co.nz/2014/10/26/stuff-by-rss</id><content type="html" xml:base="http://michael.dowse.co.nz/2014/10/26/stuff-by-rss.html">&lt;p&gt;I generally avoid mainstream news media sites, for content discovery at least, I often click links to their articles. I do find myself reading &lt;a href=&quot;http://stuff.co.nz&quot;&gt;Stuff&lt;/a&gt; though, and almost always regretting it. At one point I had stuff.co.nz routed to localhost in my hosts file so that my computer literally couldn’t access it.&lt;/p&gt;
-
-&lt;p&gt;But the reason I keep going back to Stuff is that there’s national news there that I don’t really get anywhere else. I started wondering, what would Stuff look like with a different editor, who wasn’t interested in maximising revenue, or catering to the lowest common denominator.&lt;/p&gt;
-
-&lt;p&gt;On Friday morning I read this tweet from Ben Gracewood:&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;&amp;quot;How much will rates go up?&amp;#10;It is too early to say.&amp;quot;&amp;#10;&amp;#10;&lt;a href=&quot;https://twitter.com/nzherald&quot;&gt;@nzherald&lt;/a&gt; saved you a click. &lt;a href=&quot;http://t.co/rqqrFJyGxh&quot;&gt;http://t.co/rqqrFJyGxh&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ben Gracewood (@nzben) &lt;a href=&quot;https://twitter.com/nzben/status/525334208437182464&quot;&gt;October 23, 2014&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;“Saved you a click”, is a common sight on Twitter. Editors have started writing headlines that deliberately omit a key fact so that readers are forced to click through and read the article (and view some ads in the process). By rewriting a headline, or including a few extra words, it’s possible to avoid the need to click through and read the whole article.&lt;/p&gt;
-
-&lt;p&gt;What if the editor put the reader ahead of the advertiser and was &lt;em&gt;trying&lt;/em&gt; to save you a click? The headlines and excerpts would be written to include as many facts as possible.&lt;/p&gt;
-
-&lt;p&gt;What if the editor prioritised content based on their own opinions and ideas instead of catering to the lowest common denominator? The way content is arranged would change, entire sections of content would disappear.&lt;/p&gt;
-
-&lt;p&gt;I was planning to build a Chrome Addon to layer some of this functionality on top of Stuff.co.nz, and in doing so came accross the Stuff RSS feeds. There’s an RSS feed for each page on the site and in my opinion, the feeds are better than the website itself.&lt;/p&gt;
-
-&lt;p&gt;For example the headline &lt;strong&gt;‘Dodgy’ taxis shut down&lt;/strong&gt; on the Stuff homepage becomes &lt;strong&gt;$20 ‘sober driver’ taxi page shut down&lt;/strong&gt; in the RSS feed. &lt;strong&gt;Beware of backyard chickens&lt;/strong&gt; on the homepage becomes &lt;strong&gt;Backyard chicken lead poisoning alert&lt;/strong&gt; in the RSS feed, and so on. The RSS feeds also have useful excerpts (sadly not the full articles)&lt;/p&gt;
-
-&lt;p&gt;So instead of a chrome addon, I came up with &lt;a href=&quot;http://stuffbyrss.dowse.co.nz/&quot; target=&quot;_blank&quot;&gt;Stuff by RSS&lt;/a&gt;. It’s a minimalist alternative homepage for Stuff which may save you a click in some cases, and at the very least will spare you from ‘Stuff Nation’ and ‘Essential Mums’. &lt;a href=&quot;http://stuffbyrss.dowse.co.nz/&quot; target=&quot;_blank&quot;&gt;Check it out&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This doesn’t replace the editorial team at Stuff, but maybe they don’t need to be completely replaced. To me it’s a clear improvement over the current Stuff homepage. I’d love to keep expanding the scope of Stuff by RSS from here to the point where headlines and excerpts are being rewritten and perhaps even additional content added.&lt;/p&gt;</content><author><name></name></author><summary type="html">I generally avoid mainstream news media sites, for content discovery at least, I often click links to their articles. I do find myself reading Stuff though, and almost always regretting it. At one point I had stuff.co.nz routed to localhost in my hosts file so that my computer literally couldn’t access it.</summary></entry></feed>
+&lt;p&gt;It turned out pretty well! Ideally it would have been a bit thicker (I didn’t really have the patience for stirring slowly over a very low heat for too long), but the taste is just right.&lt;/p&gt;</content><author><name></name></author><summary type="html">At the end of last year my friend Joel introduced me to Lemon Curd, or more specifally, to Lemon Curd on toast. I’d had lemon curd before, it’s commonly used in desserts, but using it as a breakfast spread was new to me, and I liked it.</summary></entry></feed>
