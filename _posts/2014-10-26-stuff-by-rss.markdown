@@ -5,7 +5,7 @@ layout: post
 
 I generally avoid mainstream news media sites, for content discovery at least, I often click links to their articles. I do find myself reading [Stuff](http://stuff.co.nz) though, and almost always regretting it. At one point I had stuff.co.nz routed to localhost in my hosts file so that my computer literally couldn't access it.
 
-But the reason I keep going back to Stuff is that there's national news there that I don't really get anywhere else. I started wondering, what would Stuff look like with a different editor, who wasn't interested in maximising revenue, or catering to the lowest common denominator.
+But the reason I keep going back to Stuff is that there's national news there that I don't really get anywhere else. I started wondering, what would Stuff look like with a different editor, who wasn't interested in maximising revenue, or catering to the lowest common denominator.<!--more-->
 
 On Friday morning I read this tweet from Ben Gracewood:
 

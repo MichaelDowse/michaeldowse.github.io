@@ -3,9 +3,13 @@ layout: post
 title: "Notes from Startup Weekend Education"
 ---
 
+After coming second in two previous startup weekends and founding an education startup that wasn’t a complete failure I signed up to be a mentor this time around.
+
+<!--more-->
+
 ### Mentoring is hard
 
-After coming second in two previous startup weekends and founding an education startup that wasn’t a complete failure I signed up to be a mentor this time around. To be honest, I found it quite challenging. With so many mentors and so much combined expertise I felt a but under qualified.
+To be honest, I found it quite challenging. With so many mentors and so much combined expertise I felt a bit under qualified.
 
 As mentors we also tried to use the Socratic method: teach by asking questions. While I could often spot flaws and invalidated assumptions in a teams work I struggled to rephrase criticisms as constructive questions that would steer the team on the right path.
 

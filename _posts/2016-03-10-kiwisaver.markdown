@@ -5,6 +5,8 @@ layout: post
 
 I recently found myself making significant contributions to Kiwisaver for the first time so I decided to put an appropriate amount of effort into choosing the best Kiwisaver scheme.
 
+<!--more-->
+
 With all my spending, I try to follow Ghandi's [misquoted](http://www.nytimes.com/2011/08/30/opinion/falser-words-were-never-spoken.html?_r=0) advice:
 
 <div class="blockquote">

@@ -5,7 +5,7 @@ title: "Budgeting"
 
 This year I've found myself with a regular routine and a regular income which seemed to be draining out of my bank account impossibly fast so I decided to have a go at budgeting. 
 
-I set a goal of spending $500 a week to spend, setting the rest aside for tax, savings, international travel, whatever. 
+I set a goal of spending $500 a week to spend, setting the rest aside for tax, savings, international travel, whatever. <!--more-->
 
 Every week $250 goes to a joint account to cover rent, bills and groceries. That leaves $250 to cover everything else: food, entertainment, transport and one off expenses like a new iPhone, clothes, haircuts, domestic travel. 
 

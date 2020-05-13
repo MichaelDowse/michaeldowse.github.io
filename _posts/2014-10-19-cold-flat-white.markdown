@@ -5,7 +5,7 @@ layout: post
 
 Last year the Iced Mocha was my drink; a cold coffee with chocolate, and either ice cream or ice. Some would say it's not a real coffee, I say it's delicious.
 
-It may seem impractical to drink iced coffee in winter, it didn't stop me, but some find the idea a bit jarring. Anyway, now that summer is approaching there's no excuse not to embrace iced coffee. 
+It may seem impractical to drink iced coffee in winter, it didn't stop me, but some find the idea a bit jarring. Anyway, now that summer is approaching there's no excuse not to embrace iced coffee. <!--more-->
 
 Earlier this year I discovered my favorite coffee of all: the Cold Flat White from [People's Coffee](http://peoplescoffee.co.nz/) (conveniently located only a few blocks from my house in Newtown). The Cold Flat White is a simple drink: cold brewed coffee, milk, and a touch of Maple Syrup. It's delicious and I strongly recommend trying it.
 

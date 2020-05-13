@@ -78,7 +78,7 @@ blockquote p, p.caption {
 .blockquote {
   border-left: 4px solid #F66;
   padding-left: 10px;
-  font-size: 19px;
+  font-size: 21px;
   line-height: 32px;
 
   > :last-child {

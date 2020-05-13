@@ -3,7 +3,9 @@ title: New Plymouth
 layout: post
 ---
 
-New Plymouth is a lot cooler than it used to be. Som and I headed up there for the weekend a few months ago. In no particular order, some highlights were:
+New Plymouth is a lot cooler than it used to be. Som and I headed up there for the weekend a few months ago. In no particular order, here are some highlights.
+
+<!--more-->
 
 ### The coastal walkway
 

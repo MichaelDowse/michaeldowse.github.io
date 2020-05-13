@@ -5,7 +5,7 @@ layout: post
 
 At the end of last year my friend Joel introduced me to Lemon Curd, or more specifally, to Lemon Curd on toast. I'd had lemon curd before, it's commonly used in desserts, but using it as a breakfast spread was new to me, and I liked it.
 
-So... I tried making Lemon Curd myself (sorry, this is turning into a cooking blog). I used the recipe provided by Joel which is as follows:
+So... I tried making Lemon Curd myself (sorry, this is turning into a cooking blog).<!--more--> I used the recipe provided by Joel which is as follows:
 
 ### Ingredients:
 

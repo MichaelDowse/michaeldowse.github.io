@@ -3,7 +3,7 @@ title: Orongorongo River Tramp
 layout: post
 ---
 
-This weekend Som and I went for a quick overnight tramp into the [Orongorongo Valley](http://www.doc.govt.nz/parks-and-recreation/places-to-visit/wellington-kapiti/wellington/catchpool-and-orongorongo-valleys/). The goal was to test out a bunch of new gear and generally make sure we're ready to tackle some bigger tramps like the Queen Charlotte.
+This weekend Som and I went for a quick overnight tramp into the [Orongorongo Valley](http://www.doc.govt.nz/parks-and-recreation/places-to-visit/wellington-kapiti/wellington/catchpool-and-orongorongo-valleys/). The goal was to test out a bunch of new gear and generally make sure we're ready to tackle some bigger tramps like the Queen Charlotte.<!--more-->
 
 ![The track in to the river](/images/orongorongos-track.jpg)
 

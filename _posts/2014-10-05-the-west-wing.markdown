@@ -5,7 +5,7 @@ title: The West Wing
 
 I recently achieved a longstanding relationship goal: get my girlfriend Som to love The West Wing as much as I do, or at least almost as much as I do. 
 
-Firstly, you have to understand; I love Aaron Sorkin's Tv shows. Sports Night, The West Wing, Studio 60 and The Newsroom, I love them all.
+Firstly, you have to understand; I love Aaron Sorkin's Tv shows. Sports Night, The West Wing, Studio 60 and The Newsroom, I love them all.<!--more-->
 
 The West Wing is the best of them all for a few reasons I can put my finger on and many I can't. Sorkin's dramatic style feels right at home in the White House. It has the strongest female characters. And of course it's the only one of Sorkin's shows to last more than 2 seasons (The Newsroom is about to start its third and final season, but those are short HBO seasons). 
 

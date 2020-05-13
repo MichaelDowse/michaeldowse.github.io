@@ -5,7 +5,7 @@ layout: post
 
 If you use Facebook, you've probably noticed the recipe videos from [Tasty](https://www.facebook.com/buzzfeedtasty/?fref=ts) frequently featuring on your news feed. They're everywhere right now.
 
-To go viral on Facebook a video needs to catch your attention, without any sound, while you're scrolling through the news feed. The Tasty videos do that, I stop scrolling every time. Here's one for example:
+To go viral on Facebook a video needs to catch your attention, without any sound, while you're scrolling through the news feed. The Tasty videos do that, I stop scrolling every time. <!--more-->Here's one for example:
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbuzzfeedtasty%2Fvideos%2F1741611326091509%2F&show_text=1&width=560" width="560" height="425" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
