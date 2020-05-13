@@ -81,7 +81,6 @@ As an aside, you may by now be thinking; Michael, if you care so much about this
 If you can afford an automatic dishwasher, use one—preferably a new one. A full, energy-efficient dishwasher cleans best and has the lowest environmental impact of any method. - <a href="http://www.homeenergy.org/show/article/page/9/id/180">http://www.homeenergy.org/show/article/page/9/id/180</a>
 </div>
 
-
 Anyway.
 
 ****
@@ -91,9 +90,3 @@ Four days later two more men and a large truck turned up. I'd spent the last 10 
 It only took them ten minues to manhandle the dishwasher out of it's home under the sink, down the stairs and out to their truck. Then they were gone.
 
 As the truck reversed down the driveway, I started on the pile of dishes by the sink.
-
---
-
-
-
-https://www.timescolonist.com/opinion/why-newer-dishwashers-run-for-an-alarmingly-long-time-1.2179982
