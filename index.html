@@ -2,40 +2,53 @@
 layout: default
 ---
 
-<div class="content">
+<div class="content content-wide">
+  <p class="lead">Hi, I'm Michael. I'm a software developer at <a href="https://hnry.co.nz" target="_blank">Hnry</a>. I live and work in Wellington, New Zealand.</p>
+  <p><strong><a href="https://twitter.com/michaeldowse" class="profile" target="_blank">Twitter →</a> <a href="https://github.com/michaeldowse" class="profile" target="_blank">Github →</a>  <a href="https://www.linkedin.com/in/michael-dowse-4b5a189/" class="profile" target="_blank">LinkedIn →</a></strong></p>
+  <hr>
 
-  <br>
+  <div class="hero">
+    <div class="left">
+      <h2><a href="/abstractions">What my toddler taught me about abstraction</a></h2>
 
-  {% for post in paginator.posts %}
-    <div class="post">
+      <p>A talk I gave at the Kiwi Ruby conference in 2019.</p>
+      <p><a class="post-link" href="/abstractions"><strong>Read transcript →</strong></a></p>
+    </div>
+    <img src="/images/abstractions/abstractions.013.png" class="right">
+    <div class="clear"></div>
+  </div>
+
+
+  <hr>
+
+  <h2>Latest posts</h2>
+
+  {% for post in site.posts limit:3 %}
+    <div class="post post-preview">
       <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
 
-      <h2>
+      <h3>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
+      </h3>
       {{ post.excerpt }}
-      <p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><strong>Continue reading...</strong></a></p>
+      <p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><strong>Continue reading →</strong></a></p>
     </div>
   {% endfor %}
 
-  <!-- Pagination links -->
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    <div class="newer">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Previous</a>
-      {% endif %}
-    </div>
+  <p><a class="post-link" href="/articles"><strong>Older posts →</strong></a></p>
 
-    <div class="older">
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next</a>
-      {% endif %}
-    </div>
+  <hr>
 
-    <div style="clear:both;"></div>
-  </div>
-  {% endif %}
+  <h2>Reading log</h2>
+
+  {% assign ordered_books = site.books | sort:"path" | reverse %}
+  {% for book in ordered_books limit:5 %}
+    <a href="/books" class="book book-preview">
+      <img src="{{ book.cover }}" />
+    </a>
+  {% endfor %}
+
+  <div class="clear"></div>
+  <p><a class="post-link" href="/books"><strong>Full reading log →</strong></a></p>
+
 </div>
-
-

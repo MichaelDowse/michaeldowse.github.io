@@ -11,18 +11,16 @@ twitter_username: michaeldowse
 github_username:  michaeldowse
 excerpt_separator: <!--more-->
 paginate: 12
+paginate_path: "/articles/:num/"
 gems:
   - jekyll-feed
   - jekyll-paginate
-
 # Build settings
 markdown: kramdown
 encoding: utf-8
-
 plugins:
   - jekyll-paginate
   - jekyll-feed
-
 collections:
-  pages:
-    output: true
+  books:
+    output: false

@@ -5,15 +5,13 @@ layout: post
 
 A while ago I read this article: [Complexity and Strategy](https://hackernoon.com/complexity-and-strategy-325cd7f59a92)
 
-I highly recommend reading it. It's much better than any of my blog posts.
+I highly recommend reading it. It's much better than any of my blog posts.<!--more-->
 
 One sentence that still lingers in my mind two months later is this one:
 
 <div class="blockquote">
 <em>Features interact — intentionally — and that makes the cost of implementing the N+1 feature closer to N than 1.</em>
 </div>
-
-<!--more-->
 
 In every organisation I've been a part of it goes this way: At first adding new features is fast and easy but as the codebase grows, it gets exponentially harder and slower.
 

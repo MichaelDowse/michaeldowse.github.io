@@ -1,0 +1,10 @@
+---
+layout: post
+title: Red Mars
+author: Kim Stanley Robinson
+cover: /images/books/red_mars.jpg
+get_link: https://www.amazon.com/Red-Mars-Trilogy-Book-ebook/dp/B000QCS914
+get_text: Kindle eBook
+---
+
+Slowly making my way through the Sci Fi classics. This was a great read, but not quite great enough for me to read the sequels at this stage.

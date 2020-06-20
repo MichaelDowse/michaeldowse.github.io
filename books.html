@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="content">
+  <p class="lead">Here are some books I've enjoyed. If you like, you can <a href="https://twitter.com/michaeldowse">recommend a book to me</a>.</p>
+
+  {% assign ordered_books = site.books | sort:"path" | reverse %}
+  {% for book in ordered_books %}
+    <div class="book">
+      <img src="{{ book.cover }}" />
+      <div class="summary">
+        <h3>{{ book.title }}</h3>
+        <p class="author post-meta">{{ book.author }}</p>
+        {{ book.content }}
+        {% if book.get_link %}
+        <p><a href="{{ book.get_link }}" target="_blank"><strong>{{ book.get_text }} →</strong></a></p>
+        {% endif %}
+      </div>
+      <br>
+    </div>
+  {% endfor %}
+</div>

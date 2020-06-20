@@ -78,7 +78,7 @@ Putting aside electicity usage though, running the pump for three times as long 
 As an aside, you may by now be thinking; Michael, if you care so much about this why don't you wash dishes by hand. Having spent some time reading up on the topic I am now able to cite you a 2004 study that compared hand washing to dishwashers and found that:
 
 <div class="blockquote">
-If you can afford an automatic dishwasher, use one—preferably a new one. A full, energy-efficient dishwasher cleans best and has the lowest environmental impact of any method. - <a href="http://www.homeenergy.org/show/article/page/9/id/180">http://www.homeenergy.org/show/article/page/9/id/180</a>
+If you can afford an automatic dishwasher, use one—preferably a new one. A full, energy-efficient dishwasher cleans best and has the lowest environmental impact of any method. - <a href="http://www.homeenergy.org/show/article/page/9/id/180">www.homeenergy.org</a>
 </div>
 
 Anyway.
