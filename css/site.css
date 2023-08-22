@@ -263,6 +263,9 @@ p.author {
   line-height: 1.1rem;
   font-family: 'Roboto Slab', serif;
 }
+p.years {
+  margin-bottom: -1rem;
+}
 
 .post img {
   width: auto;

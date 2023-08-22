@@ -2,53 +2,69 @@
 layout: default
 ---
 
-<div class="content content-wide">
-  <p class="lead">Hi, I'm Michael. I'm a software developer at <a href="https://hnry.co.nz" target="_blank">Hnry</a>. I live and work in Wellington, New Zealand.</p>
-  <p><strong><a href="https://twitter.com/michaeldowse" class="profile" target="_blank">Twitter →</a> <a href="https://github.com/michaeldowse" class="profile" target="_blank">Github →</a>  <a href="https://www.linkedin.com/in/michael-dowse-4b5a189/" class="profile" target="_blank">LinkedIn →</a></strong></p>
+<div class="content">
+  <p class="lead">Hi, I'm Michael. I have a background in software development and product management. I like to work on projects relating to urbanism and the climate crisis.</p>
+  <p><strong><a href="https://twitter.com/michaeldowse" class="profile" target="_blank">Twitter →</a> <a href="https://www.linkedin.com/in/michael-dowse-4b5a189/" class="profile" target="_blank">LinkedIn →</a></strong></p>
   <hr>
 
-  <div class="hero">
-    <div class="left">
-      <h2><a href="/abstractions">What my toddler taught me about abstraction</a></h2>
+  <p class="post-meta years">2023 - Current</p>
 
-      <p>A talk I gave at the Kiwi Ruby conference in 2019.</p>
-      <p><a class="post-link" href="/abstractions"><strong>Read transcript →</strong></a></p>
-    </div>
-    <img src="/images/abstractions/abstractions.013.png" class="right">
-    <div class="clear"></div>
-  </div>
+  <h3>Founder at Quarter</h3>
 
+  <p>Quarter is a better way to manage Bodies Corporate, based on my own experiences as a Body Corporate Chair. It's coming soon. If you're curious, let's chat.</p>
 
   <hr>
 
-  <h2>Latest posts</h2>
+  <p class="post-meta years">2021 - 2023</p>
+  <h3>Product Manager at Cogo</h3>
 
-  {% for post in site.posts limit:3 %}
-    <div class="post post-preview">
-      <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-
-      <h3>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h3>
-      {{ post.excerpt }}
-      <p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><strong>Continue reading →</strong></a></p>
-    </div>
-  {% endfor %}
-
-  <p><a class="post-link" href="/articles"><strong>Older posts →</strong></a></p>
+  <p>The climate crisis is a systemic problem which requires systemic change. But what does it mean to create systemic change?</p>
+  <p>Should Consumers change their purchasing choices? Or is it businesses that should change what they do? Or should the government be writing laws to require change? Or is it voters who need to act, to give their government a mandate for change?</p>
+  <p>Maybe it's everything, everywhere, all at once?</p>
+  <p>At Cogo I led development of a new product to help small businesses <a href="https://www.cogo.co/products/for-small-businesses" target="_blank">measure, understand and reduce their carbon footprint</a>.</p>
 
   <hr>
 
-  <h2>Reading log</h2>
+  <p class="post-meta years">2018 - 2021</p>
+  <h3>CTO at Hnry</h3>
 
-  {% assign ordered_books = site.books | sort:"path" | reverse %}
-  {% for book in ordered_books limit:5 %}
-    <a href="/books" class="book book-preview">
-      <img src="{{ book.cover }}" />
-    </a>
-  {% endfor %}
+  <p>I joined Hnry as an investor and technical lead, then later CTO. We made tax simple for freelancers and contractors by doing it for them, automatically. I built and scaled our technology from processing hundreds of thousands to hundreds of millions of dollars. Serious business, hard work. We had some fun along the way though.</p>
+  <p>I'm a data guy and at Hnry I got good at SaaS metrics. I even learned what venture capitalists dream of, apparently <a href="https://www.airtree.vc/airtree-blog/our-investment-in-hnry" target="_blank">it's Hnry's board decks</a>.</p>
+  <p>If you earn independently in New Zealand or Australia, <a href="https://hnry.co.nz" target="_blank">you could be using Hnry</a>.</p>
 
-  <div class="clear"></div>
-  <p><a class="post-link" href="/books"><strong>Full reading log →</strong></a></p>
+  <hr>
 
+  <p class="post-meta years">2019</p>
+  <h3>Speaker at KiwiRuby</h3>
+
+  <p>I became a father and learned that kids say the most ridiculous things. I gave a talk at KiwiRuby in 2019 titled <a href="/abstractions">“What my toddler taught me about abstraction”</a>.</p>
+
+  <hr>
+
+  <p class="post-meta years">2015 - 2018</p>
+  <h3>Software Engineer at Flick Electric</h3>
+
+  <p>I worked at Flick Electric as a software developer and team lead. Our innovation was in allowing consumers to purchase electricity at the highly variable spot market rate. We believed in disintermediation. In the power of raw capitalism to drive down power prices and make consumers more responsive to the environmental impacts of their electricity consumption. It worked for a little while.</p>
+  <p>I developed carbon calculations and invented farting goats as a measure of carbon emissions. I later learned that goats are ruminants so most of their emissions come from burping.</p>
+
+  <hr>
+
+  <p class="post-meta years">2011 - 2014</p>
+  <h3>Founder at Go Vocab</h3>
+
+  <p>My first startup. It was the era of gamification, Farmville was at it's peak.</p>
+  <p>We developed a fun way for high school second language students to learn vocabulary. There were points, leaderboards, trophies, badges, games… you get the picture. Students loved it and teachers loved that students were learning.</p>
+  <p>I didn't love languages though, and we also did not make much money.</p>
+
+  <hr>
+
+  <h3>Writing</h3>
+
+  <p>I have a <a href="/articles">blog</a> that I barely ever update. Nothing embarrassing, but anything more than a year old makes me cringe.</p>
+
+  <hr>
+
+  <h3>Reading</h3>
+
+  <p>At various times I track <a href="/books">what I have read</a>. I have about a hundred books that I need to add to this list.</p>
 </div>
