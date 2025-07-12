@@ -23,7 +23,7 @@ I started looking online. Being a moderately practical person I was feeling conf
 
 I didn't find anything on YouTube and the manufacturers site didn't contain any further information beyond what's in the manual. There were message boards though, lots of message boards filled with descriptions of dishwashers not working in every way you can imagine them not working. Especially beeping. There were lots of threads about dishwashers not washing dishes, just beeping.
 
-Most of these threads received not response at all. The internet can be a busy town square filled with crowds of people heaving with humanity but it can also be incredibly quiet and empty. That's how these threads tended to feel; just descriptions of broken dishwashers shouted into the vast emptiness.
+Most of these threads received no response at all. The internet can be a busy town square filled with crowds of people heaving with humanity but it can also be incredibly quiet and empty. That's how these threads tended to feel; just descriptions of broken dishwashers shouted into the vast emptiness.
 
 The only time these pages ever get seen is when they're dredged up from the depths of these message boards to be shown to another poor soul experiencing the exact same situation. In this case that was me.
 

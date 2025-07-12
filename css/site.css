@@ -1,9 +1,25 @@
 /*
 // @media(max-width:767px){}
-// @media(min-width:768px){}
+
 // @media(min-width:992px){}
 // @media(min-width:1200px){}
 */
+
+.half_column {
+  width: 100%;
+}
+
+@media(min-width:768px){
+  .half_column {
+    width: 45%;
+    float: left;
+  }
+  .half_column + .half_column {
+    margin-left: 10%;
+  }
+}
+
+
 
 body {
   background-color: #f9f9f9;
@@ -39,7 +55,7 @@ h3, h3 a { /* Book titles, article subheadings */
   margin-bottom: 0.4rem;
 }
 
-img {
+img, video {
   box-shadow: 0px 0px 50px #cbcdcd;
   border-radius: 3px;
 }
@@ -282,6 +298,22 @@ p.years {
   font-size: 15px;
   color: #999;
   font-weight: normal;
+}
+
+p.caption {
+  text-align: right;
+  margin-top: -5px;
+  font-size: 10px;
+  color: #999;
+  font-weight: normal;
+}
+p.caption a {
+  border: none;
+  color: #999;
+}
+p.caption a:hover {
+  border: none;
+  color: #999;
 }
 
 
